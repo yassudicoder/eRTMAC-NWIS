@@ -15,8 +15,23 @@ Thumbs.db
 #
 # ref9_ppac_rr_2025_26.pdf is 32 MB. Git stores binaries forever, so once
 # pushed it can only be removed by rewriting history - and Render re-clones
-# this repository on every deploy. It is a public PPAC document, so a link in
-# the deck serves the same purpose at no cost.
+# this repository on every deploy.
+#
+# Excluding it cannot affect the application. Verified, not assumed:
+#
+#   * It sits at the repository root, while the Docker build context is
+#     nwis/. The builder never sees it, gitignored or not.
+#   * The runtime corpus is 248 text files (180 .txt, 61 .csv, 7 .json) and
+#     contains no PDF at all.
+#   * No PDF library is installed. PyMuPDF and pytesseract are optional
+#     extras, commented out in backend/requirements.txt, so ingest/ocr.py's
+#     PDF branch is unreachable in the deployed image.
+#   * Nothing was extracted from it into the corpus, the database or the
+#     model. Its only use is citation [9] in SIH_PPT_Content.md, supporting
+#     one sentence of national context on the impact slide.
+#
+# It is a public PPAC document and the deck already carries the title and a
+# live URL, so the citation stands on its own.
 #
 # To include it anyway:  git add -f ref9_ppac_rr_2025_26.pdf
 ref9_ppac_rr_2025_26.pdf

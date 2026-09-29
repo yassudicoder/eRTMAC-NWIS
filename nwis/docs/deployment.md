@@ -217,6 +217,28 @@ machine happened to be in.
 To change the data: re-run `scripts/generate_assam_dataset.py` and
 `scripts/train_risk_model.py`, commit the result, and rebuild.
 
+### This was measured, not assumed
+
+Two images were built `--no-cache` from independent trees: one from a Windows
+working copy (CRLF line endings, because `core.autocrlf=true` and the repo has
+no `.gitattributes`) and one from a fresh `git clone` with LF endings, which is
+what a Render builder gets. Comparing the seeded knowledge base table by table:
+
+| | Result |
+|---|---|
+| `wells`, `events`, `citations`, `documents`, `drilling_log`, `formation_tops`, `casing_strings`, `cement_jobs`, `reservoir_intervals`, `lessons`, `search_index` | **identical content hashes** |
+| `ingest_runs` | differs in `started_at` only - the build clock. Its `stats_json` is character-identical. |
+| `/api/health`, `/api/wells`, `/api/wells/{id}/risk`, `/api/search` | **byte-identical responses** |
+
+So line endings do not reach application state: the extractor reads text with
+Python's universal newlines, so a CRLF file and an LF file arrive as the same
+string. A fresh clone genuinely reproduces the same application.
+
+The only file `.dockerignore` keeps out of the image is
+`backend/tests/test_nwis.py`, which is deliberate - tests run on the host, not
+in production. Everything else in `backend/`, `scripts/` and `data/` is
+present.
+
 ---
 
 ## Verifying a deployment
