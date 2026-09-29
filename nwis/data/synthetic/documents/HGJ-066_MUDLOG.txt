@@ -1,0 +1,103 @@
+[PAGE 1]
+OIL INDIA LIMITED - MUD LOG / LITHOLOGY LOG
+Well: Hugrijan-66 (HGJ-066)    Field: Hugrijan
+Mud System: KCl-polymer water based mud
+==============================================================================
+
+    MD (m)   TVD (m)Formation                      ROP     Gas     MW
+                                                (m/hr) (units)   (sg)
+------------------------------------------------------------------------------
+        10        10Dihing                        41.1       5   1.08
+        60        60Dihing                        37.5       2   1.08
+       110       110Dihing                        17.3       5   1.08
+       160       160Dihing                        11.6       3   1.08
+       210       210Dihing                        16.4       2   1.08
+       260       260Dihing                        12.7       1   1.08
+       310       310Namsang                       15.9       4   1.09
+       360       360Namsang                       13.9       3   1.09
+       410       410Namsang                       10.3       5   1.09
+       460       460Namsang                        9.6       4   1.09
+       510       510Namsang                       11.9       4   1.09
+       560       560Namsang                       14.9       2   1.09
+       610       610Namsang                       13.8       0   1.09
+       660       660Namsang                        9.7       5   1.09
+       710       710Namsang                       12.3       4   1.09
+       760       760Girujan Clay                   9.6       1   1.12
+       810       810Girujan Clay                   9.7       1   1.12
+       860       860Girujan Clay                  10.0       5   1.12
+       910       910Girujan Clay                   8.3       2   1.12
+       960       960Girujan Clay                   9.6       3   1.12
+     1,010     1,010Girujan Clay                   8.7       4   1.12
+           >> Hole instability and sloughing from 1,000 m to 1,052 m MD in Girujan Clay.
+     1,060     1,060Girujan Clay                   9.4       4   1.12
+           >> Bit and BHA balling up in the Girujan Clay at 1,060 m MD, SPP increase of 26.5 ksc.
+     1,110     1,110Girujan Clay                   7.5       0   1.12
+     1,160     1,160Girujan Clay                   8.1       2   1.12
+     1,210     1,210Girujan Clay                   9.7       4   1.12
+     1,260     1,260Girujan Clay                  10.0       2   1.12
+     1,310     1,310Tipam Sandstone                5.7      30   1.08
+     1,360     1,360Tipam Sandstone                6.3      32   1.08
+     1,410     1,410Tipam Sandstone               13.4      30   1.08
+     1,460     1,460Tipam Sandstone               12.8      33   1.08
+     1,510     1,510Tipam Sandstone               14.3      33   1.08
+     1,560     1,560Tipam Sandstone               14.5      28   1.08
+     1,610     1,610Tipam Sandstone               15.5      30   1.08
+     1,660     1,660Tipam Sandstone               12.6      28   1.08
+     1,710     1,710Tipam Sandstone               13.4      35   1.08
+     1,760     1,760Tipam Sandstone               14.0      31   1.08
+           >> Partial mud losses of 7.5 m3/hr observed at 1,770 m MD (1,770 m TVD) while drilling Tipam Sandstone.
+     1,810     1,810Tipam Sandstone               14.3      28   1.08
+     1,860     1,860Tipam Sandstone               14.4      31   1.08
+     1,910     1,910Tipam Sandstone               14.4      31   1.08
+
+[PAGE 2]
+     1,960     1,960Tipam Sandstone               13.2      32   1.08
+     2,010     2,010Tipam Sandstone               11.9      32   1.08
+     2,060     2,060Tipam Sandstone               12.5      29   1.08
+     2,110     2,110Tipam Sandstone               10.1      32   1.08
+     2,160     2,160Tipam Sandstone               10.6      30   1.08
+     2,210     2,210Tipam Sandstone               10.0      30   1.08
+     2,260     2,260Tipam Sandstone               14.7      28   1.08
+     2,310     2,310Tipam Sandstone               11.9      30   1.08
+     2,360     2,360Tipam Sandstone               14.2      28   1.08
+     2,410     2,410Tipam Sandstone                9.6      31   1.08
+     2,460     2,460Tipam Sandstone                9.9      27   1.08
+     2,510     2,510Tipam Sandstone                9.6      29   1.08
+     2,560     2,560Tipam Sandstone               13.6      30   1.08
+     2,610     2,610Tipam Sandstone               12.4      30   1.08
+     2,660     2,660Barail Coal Shale              8.0      21   1.20
+     2,710     2,710Barail Coal Shale              9.3      18   1.20
+     2,760     2,760Barail Coal Shale              7.5      19   1.20
+     2,810     2,810Barail Coal Shale             10.9      20   1.20
+     2,860     2,860Barail Coal Shale              8.0      20   1.20
+           >> Hole instability and sloughing from 2,850 m to 2,873 m MD in Barail Coal Shale.
+     2,910     2,910Barail Coal Shale             11.0      21   1.20
+     2,960     2,960Barail Coal Shale              9.9      22   1.20
+     3,010     3,010Barail Coal Shale             11.3      19   1.20
+     3,060     3,060Barail Coal Shale             10.3      21   1.20
+     3,110     3,110Barail Coal Shale             10.8      21   1.20
+     3,160     3,160Barail Coal Shale             10.9      20   1.20
+     3,210     3,210Barail Coal Shale              6.9      21   1.20
+     3,260     3,260Barail Coal Shale              6.8      18   1.20
+     3,310     3,310Barail Arenaceous              4.5      33   1.25
+     3,360     3,360Barail Arenaceous              4.4      31   1.25
+     3,410     3,410Barail Arenaceous              4.6      29   1.25
+     3,460     3,460Barail Arenaceous              3.8      30   1.25
+     3,510     3,510Barail Arenaceous              3.8      27   1.25
+     3,560     3,560Barail Arenaceous              5.6      32   1.25
+     3,610     3,610Barail Arenaceous              4.9      27   1.25
+
+LITHOLOGICAL DESCRIPTION
+------------------------------------------------------------------------------
+70 m MD - Dihing
+    Unconsolidated pebbly sandstone, clay and gravel.
+267 m MD - Namsang
+    Medium to coarse sandstone with clay interbeds.
+741 m MD - Girujan Clay
+    Mottled clay with thin siltstone and sandstone bands.
+1,303 m MD - Tipam Sandstone
+    Massive ferruginous sandstone with clay partings.
+2,618 m MD - Barail Coal Shale
+    Carbonaceous shale with coal seams and thin sandstone.
+3,274 m MD - Barail Arenaceous
+    Fine to medium sandstone with shale interbeds - principal pay.

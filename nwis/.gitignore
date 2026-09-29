@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Node
+node_modules/
+frontend/dist/
+
+# Generated artefacts - rebuild with scripts/generate_assam_dataset.py and
+# scripts/seed_db.py rather than committing them.
+data/nwis.db
+data/nwis.db-wal
+data/nwis.db-shm
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+.playwright-mcp/

@@ -1,0 +1,146 @@
+[PAGE 1]
+OIL INDIA LIMITED
+DRILLING DEPARTMENT, DULIAJAN, ASSAM
+
+WELL COMPLETION REPORT
+========================================================================
+
+1. WELL IDENTIFICATION
+------------------------------------------------------------------------
+Well Number            : Hugrijan-57
+Well Code              : HGJ-057
+Field / Structure      : Hugrijan
+Category               : Development
+Well Profile           : Deviated
+Surface Coordinates    : 27.41271 N, 95.39612 E
+Bottom Hole Coordinates: 27.41047 N, 95.40197 E
+Ground Level           : 131.0 m above MSL
+Rig                    : OIL-RIG-21 (E-1400)
+Date Spudded           : 07-03-2012
+Date Completed         : 07-04-2012
+Total Depth (MD)       : 2,372.7 m
+Total Depth (TVD)      : 2,258.1 m
+Kick Off Point         : 470.7 m MD
+Maximum Inclination    : 21.4 deg
+Azimuth                : 113.2 deg
+Horizontal Displacement: 628.8 m
+Target Formation       : Tipam Sandstone
+Total Days Drilled     : 11
+Total NPT              : 86.9 hrs
+
+2. CASING AND HOLE PROGRAMME
+------------------------------------------------------------------------
+Hole Size   Casing                     Shoe MD (m)  Shoe TVD (m)   TOC (m)
+26in        20in conductor                    67.4          67.4         0
+17-1/2in    13-3/8in surface               1,268.9       1,230.4         0
+
+Mud System             : Low-solids non-dispersed WBM
+
+2A. CEMENTING RECORD
+------------------------------------------------------------------------
+Casing                     Shoe MD  Planned TOC  Actual TOC   Slurry  Returns   Bond
+                               (m)          (m)         (m)     (m3)           index
+13-3/8in surface             1,269            0         229     60.6  partial   0.34
+
+Cement bond log across the 13-3/8in surface indicated poor to fair bond (bond index 0.34).
+
+3. GEOLOGICAL SUMMARY - FORMATION TOPS
+
+[PAGE 2]
+------------------------------------------------------------------------
+Formation                    Top MD (m)   Top TVD (m)   Lithology
+Dihing                             24.4          24.4   Unconsolidated pebbly sandstone, clay and gravel
+Namsang                           196.0         196.0   Medium to coarse sandstone with clay interbeds
+Girujan Clay                      636.3         635.5   Mottled clay with thin siltstone and sandstone bands
+Tipam Sandstone                 1,190.7       1,157.6   Massive ferruginous sandstone with clay partings
+
+The well encountered the normal Upper Assam section. Formation tops were
+picked on the basis of cuttings examination and wireline log correlation
+with the neighbouring wells of the structure.
+
+3A. RESERVOIR SUMMARY
+------------------------------------------------------------------------
+Formation             Fluid            Gross  Net Pay   Poro     Perm     Sw   Press
+                                         (m)      (m)    (%)     (mD)    (%)    (sg)
+Tipam Sandstone       oil              229.4    174.0   28.3    769.3   38.8    0.88
+
+Tipam Sandstone: net pay 174.0 m, average porosity 28.3 percent, permeability 769 mD, water saturation 38.8 percent.
+    Reservoir pressure has declined from a virgin 1.02 sg to 0.88 sg equivalent, a depletion of 0.14 sg. Differential sticking risk across this interval is correspondingly elevated.
+    Formation temperature at top of interval: 60 deg C.
+
+4. DRILLING PARAMETERS BY SECTION
+------------------------------------------------------------------------
+Formation                    Avg ROP   Avg WOB   Avg RPM    Mud Wt
+                              (m/hr)       (t)                (sg)
+Dihing                         29.03       9.0       106      1.08
+Namsang                        27.38      11.0       104      1.09
+Girujan Clay                   19.83      13.1       110      1.12
+Tipam Sandstone                10.26      14.0       107      1.08
+
+5. DRILLING PROBLEMS AND REMEDIAL MEASURES
+------------------------------------------------------------------------
+5.1  Dihing - 07-03-2012
+     Hole washout logged at 110 m MD in Dihing; caliper 38.0 percent over gauge.
+     Noted for cement volume calculation; no remedial action taken.
+     Non-productive time attributable to this event: 5.7 hrs.
+
+5.2  Namsang - 08-03-2012
+     While drilling Namsang at 460 m MD, returns reduced and losses of 4.4 m3/hr were measured.
+     Cement plug placed across the loss zone and drilled out after 2.7 hrs WOC.
+     Non-productive time attributable to this event: 3.4 hrs.
+
+5.3  Girujan Clay - 10-03-2012
+     Bit and BHA balling up in the Girujan Clay at 1,140 m MD, SPP increase of 19.2 ksc.
+     Pulled off bottom, circulated and jetted the bit clean.
+     Non-productive time attributable to this event: 6.4 hrs.
+
+[PAGE 3]
+
+5.4  Tipam Sandstone - 12-03-2012
+     Losses observed while cementing the 13-3/8in surface at 1,269 m MD; returns partial.
+     Job completed with reduced returns; top of cement confirmed by temperature survey.
+     Non-productive time attributable to this event: 30.2 hrs.
+
+5.5  Tipam Sandstone - 12-03-2012
+     Cement bond log across the 13-3/8in surface showed poor bonding, bond index 0.343.
+     Accepted after pressure testing the shoe; monitored for annular pressure.
+     Non-productive time attributable to this event: 17.9 hrs.
+
+5.6  Tipam Sandstone - 12-03-2012
+     CBL indicated top of cement at 229 m behind the 13-3/8in surface, 229 m below the planned top of 0 m.
+     Top-up job performed through the annulus to raise the cement top.
+     Non-productive time attributable to this event: 9.2 hrs.
+
+5.7  Tipam Sandstone - 13-03-2012
+     Seepage losses (3.0 m3/hr) noted at 1,610 m MD in the Tipam Sandstone.
+     Reduced flow rate and continued drilling blind with water.
+     Non-productive time attributable to this event: 7.2 hrs.
+
+5.8  Tipam Sandstone - 14-03-2012
+     Hole washout logged at 1,830 m MD in Tipam Sandstone; caliper 16.9 percent over gauge.
+     Noted for cement volume calculation; no remedial action taken.
+     Non-productive time attributable to this event: 6.9 hrs.
+
+
+6. LESSONS LEARNT AND RECOMMENDATIONS FOR FUTURE WELLS
+------------------------------------------------------------------------
+- Tipam Sandstone - cementing problem: cement slurry lost into a permeable or fractured interval, leaving the top of cement below the planned depth.
+  Future wells on this structure should plan for this around
+  1,269 m MD.
+- Tipam Sandstone - cementing problem: bond log showed poor to fair bonding across the interval, risking annular communication.
+  Future wells on this structure should plan for this around
+  1,269 m MD.
+- Tipam Sandstone - cementing problem: cement column fell short of the planned top, leaving the previous shoe uncovered.
+  Future wells on this structure should plan for this around
+  1,269 m MD.
+- Dihing - hole washout: unconsolidated gravel eroded by high flow rate.
+  Future wells on this structure should plan for this around
+  110 m MD.
+- Namsang - mud loss: seepage losses into coarse sand stringers.
+  Future wells on this structure should plan for this around
+  460 m MD.
+
+Prepared by  : Drilling Engineering Group, OIL, Duliajan
+
+[PAGE 4]
+Reviewed by  : Head - Drilling Services

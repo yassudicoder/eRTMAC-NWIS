@@ -1,0 +1,166 @@
+[PAGE 1]
+OIL INDIA LIMITED - DAILY DRILLING REPORT
+Well: Hugrijan-66 (HGJ-066)    Field: Hugrijan    Rig: OIL-RIG-17 (NOV ideal)
+==============================================================================
+
+DAY   1   DATE 04-03-2010   DEPTH 220.0 m MD
+  Progress        : 220.0 m
+  Present Formation: Dihing
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   2   DATE 05-03-2010   DEPTH 500.0 m MD
+  Progress        : 280.0 m
+  Present Formation: Namsang
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   3   DATE 06-03-2010   DEPTH 760.0 m MD
+  Progress        : 260.0 m
+  Present Formation: Girujan Clay
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   4   DATE 07-03-2010   DEPTH 960.0 m MD
+  Progress        : 200.0 m
+  Present Formation: Girujan Clay
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   5   DATE 08-03-2010   DEPTH 1,000.0 m MD
+  Progress        : 40.0 m
+  Present Formation: Girujan Clay
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Hole instability and sloughing from 1,000 m to 1,052 m MD in Girujan Clay.
+      Circulated hi-vis sweeps and back-reamed the interval before continuing.
+      NPT 19.0 hrs.
+
+DAY   6   DATE 09-03-2010   DEPTH 1,140.0 m MD
+  Progress        : 140.0 m
+  Present Formation: Girujan Clay
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Bit balling suspected at 1,060 m MD in Girujan Clay; standpipe pressure rose by 26.5 ksc.
+      Raised flow rate and added detergent to the system.
+      NPT 5.6 hrs.
+
+DAY   7   DATE 10-03-2010   DEPTH 1,320.0 m MD
+  Progress        : 180.0 m
+
+[PAGE 2]
+  Present Formation: Tipam Sandstone
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   8   DATE 11-03-2010   DEPTH 1,370.0 m MD
+  Progress        : 50.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   9   DATE 12-03-2010   DEPTH 1,680.0 m MD
+  Progress        : 310.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  10   DATE 13-03-2010   DEPTH 1,850.0 m MD
+  Progress        : 170.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Seepage losses (7.5 m3/hr) noted at 1,770 m MD in the Tipam Sandstone.
+      Reduced flow rate and continued drilling blind with water.
+      NPT 11.1 hrs.
+
+DAY  11   DATE 14-03-2010   DEPTH 2,130.0 m MD
+  Progress        : 280.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  12   DATE 15-03-2010   DEPTH 2,390.0 m MD
+  Progress        : 260.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  13   DATE 16-03-2010   DEPTH 2,640.0 m MD
+  Progress        : 250.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  14   DATE 17-03-2010   DEPTH 2,850.0 m MD
+  Progress        : 210.0 m
+  Present Formation: Barail Coal Shale
+
+[PAGE 3]
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Cavings observed at shakers while drilling Barail Coal Shale at 2,850 m MD; approximately 5.4 m3 recovered.
+      Circulated hi-vis sweeps and back-reamed the interval before continuing.
+      NPT 9.8 hrs.
+
+DAY  15   DATE 18-03-2010   DEPTH 2,990.0 m MD
+  Progress        : 140.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  16   DATE 19-03-2010   DEPTH 3,190.0 m MD
+  Progress        : 200.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  17   DATE 20-03-2010   DEPTH 3,260.0 m MD
+  Progress        : 70.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  18   DATE 21-03-2010   DEPTH 3,380.0 m MD
+  Progress        : 120.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  19   DATE 22-03-2010   DEPTH 3,480.0 m MD
+  Progress        : 100.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  20   DATE 23-03-2010   DEPTH 3,590.0 m MD
+  Progress        : 110.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  21   DATE 24-03-2010   DEPTH 3,625.1 m MD
+  Progress        : 35.1 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : TCI 12-1/4in 537
+
+[PAGE 4]
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+

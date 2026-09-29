@@ -1,0 +1,50 @@
+[PAGE 1]
+OIL INDIA LIMITED - MUD LOG / LITHOLOGY LOG
+Well: Moran-51 (MRN-051)    Field: Moran
+Mud System: KCl-polymer water based mud
+==============================================================================
+
+    MD (m)   TVD (m)Formation                      ROP     Gas     MW
+                                                (m/hr) (units)   (sg)
+------------------------------------------------------------------------------
+        10        10Dihing                        32.0       3   1.08
+        60        60Namsang                       26.4       4   1.09
+       110       110Namsang                       13.8       1   1.09
+       160       160Namsang                       13.9       5   1.09
+       210       210Namsang                       10.9       3   1.09
+       260       260Namsang                       13.8       0   1.09
+       310       310Namsang                       11.7       0   1.09
+       360       360Namsang                       13.5       1   1.09
+       410       410Girujan Clay                  11.9       3   1.12
+       460       460Girujan Clay                  12.5       3   1.12
+       510       510Girujan Clay                   8.5       5   1.12
+       560       560Girujan Clay                  11.9       3   1.12
+       610       610Girujan Clay                  11.8       3   1.12
+       660       659Girujan Clay                  11.0       2   1.12
+       710       707Girujan Clay                   9.8       0   1.12
+       760       754Girujan Clay                   8.8       2   1.12
+       810       800Girujan Clay                   7.2       4   1.12
+       860       846Girujan Clay                   7.1       3   1.12
+       910       892Tipam Sandstone                7.9      30   1.08
+       960       938Tipam Sandstone               12.7      31   1.08
+           >> Cement bond log across the 13-3/8in surface showed poor bonding, bond index 0.362.
+     1,010       985Tipam Sandstone               12.1      31   1.08
+     1,060     1,031Tipam Sandstone               13.6      30   1.08
+     1,110     1,077Tipam Sandstone               13.0      31   1.08
+     1,160     1,123Tipam Sandstone                9.3      29   1.08
+     1,210     1,170Tipam Sandstone                9.5      30   1.08
+     1,260     1,216Tipam Sandstone               12.3      29   1.08
+     1,310     1,262Tipam Sandstone                8.6      31   1.08
+     1,360     1,308Tipam Sandstone                8.7      27   1.08
+     1,410     1,354Tipam Sandstone               10.2      31   1.08
+
+LITHOLOGICAL DESCRIPTION
+------------------------------------------------------------------------------
+22 m MD - Dihing
+    Unconsolidated pebbly sandstone, clay and gravel.
+34 m MD - Namsang
+    Medium to coarse sandstone with clay interbeds.
+405 m MD - Girujan Clay
+    Mottled clay with thin siltstone and sandstone bands.
+890 m MD - Tipam Sandstone
+    Massive ferruginous sandstone with clay partings.

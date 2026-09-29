@@ -1,0 +1,152 @@
+[PAGE 1]
+OIL INDIA LIMITED
+DRILLING DEPARTMENT, DULIAJAN, ASSAM
+
+WELL COMPLETION REPORT
+========================================================================
+
+1. WELL IDENTIFICATION
+------------------------------------------------------------------------
+Well Number            : Barekuri-24
+Well Code              : BRK-024
+Field / Structure      : Barekuri
+Category               : Appraisal
+Well Profile           : Deviated
+Surface Coordinates    : 27.48483 N, 95.37943 E
+Bottom Hole Coordinates: 27.48798 N, 95.36553 E
+Ground Level           : 136.3 m above MSL
+Rig                    : OIL-RIG-30 (ZJ-50)
+Date Spudded           : 25-12-2009
+Date Completed         : 06-02-2010
+Total Depth (MD)       : 3,589.2 m
+Total Depth (TVD)      : 3,216.0 m
+Kick Off Point         : 593.8 m MD
+Maximum Inclination    : 30.2 deg
+Azimuth                : 284.2 deg
+Horizontal Displacement: 1,416.2 m
+Target Formation       : Barail Arenaceous
+Total Days Drilled     : 29
+Total NPT              : 279.9 hrs
+
+2. CASING AND HOLE PROGRAMME
+------------------------------------------------------------------------
+Hole Size   Casing                     Shoe MD (m)  Shoe TVD (m)   TOC (m)
+26in        20in conductor                    56.8          56.8         0
+17-1/2in    13-3/8in surface               1,082.1       1,048.6         0
+12-1/4in    9-5/8in intermediate           3,142.9       2,830.2       764
+
+Mud System             : Water-based bentonite / PHPA
+
+2A. CEMENTING RECORD
+------------------------------------------------------------------------
+Casing                     Shoe MD  Planned TOC  Actual TOC   Slurry  Returns   Bond
+                               (m)          (m)         (m)     (m3)           index
+13-3/8in surface             1,082            0         545     57.1  partial   0.52
+9-5/8in intermediate         3,143          764         775     83.0     full   0.49
+
+Cement bond log across the 13-3/8in surface indicated fair bond (bond index 0.52).
+
+[PAGE 2]
+Cement bond log across the 9-5/8in intermediate indicated fair bond (bond index 0.49).
+
+3. GEOLOGICAL SUMMARY - FORMATION TOPS
+------------------------------------------------------------------------
+Formation                    Top MD (m)   Top TVD (m)   Lithology
+Dihing                             11.0          11.0   Unconsolidated pebbly sandstone, clay and gravel
+Namsang                            91.8          91.8   Medium to coarse sandstone with clay interbeds
+Girujan Clay                      486.7         486.7   Mottled clay with thin siltstone and sandstone bands
+Tipam Sandstone                 1,013.9         989.8   Massive ferruginous sandstone with clay partings
+Barail Coal Shale               2,478.0       2,255.2   Carbonaceous shale with coal seams and thin sandstone
+Barail Arenaceous               3,091.2       2,785.1   Fine to medium sandstone with shale interbeds - principal pay
+
+The well encountered the normal Upper Assam section. Formation tops were
+picked on the basis of cuttings examination and wireline log correlation
+with the neighbouring wells of the structure.
+
+3A. RESERVOIR SUMMARY
+------------------------------------------------------------------------
+Formation             Fluid            Gross  Net Pay   Poro     Perm     Sw   Press
+                                         (m)      (m)    (%)     (mD)    (%)    (sg)
+Tipam Sandstone       oil              217.0    198.7   29.6  1,716.4   26.3    0.88
+Barail Arenaceous     oil and gas      264.7    150.9   20.2     97.0   20.3    1.10
+
+Tipam Sandstone: net pay 198.7 m, average porosity 29.6 percent, permeability 1,716 mD, water saturation 26.3 percent.
+    Reservoir pressure has declined from a virgin 1.02 sg to 0.88 sg equivalent, a depletion of 0.14 sg. Differential sticking risk across this interval is correspondingly elevated.
+    Formation temperature at top of interval: 56 deg C.
+Barail Arenaceous: net pay 150.9 m, average porosity 20.2 percent, permeability 97 mD, water saturation 20.3 percent.
+    Reservoir pressure has declined from a virgin 1.19 sg to 1.10 sg equivalent, a depletion of 0.09 sg. Differential sticking risk across this interval is correspondingly elevated.
+    Formation temperature at top of interval: 106 deg C.
+
+4. DRILLING PARAMETERS BY SECTION
+------------------------------------------------------------------------
+Formation                    Avg ROP   Avg WOB   Avg RPM    Mud Wt
+                              (m/hr)       (t)                (sg)
+Dihing                         28.05       8.8        92      1.08
+Namsang                        17.36      10.3       110      1.09
+Girujan Clay                   12.38      12.6       106      1.12
+Tipam Sandstone                10.07      14.0       106      1.08
+Barail Coal Shale               7.24      15.5       105      1.20
+Barail Arenaceous               5.27      16.3        83      1.25
+
+5. DRILLING PROBLEMS AND REMEDIAL MEASURES
+------------------------------------------------------------------------
+5.1  Dihing - 25-12-2009
+     Mud loss of 3.8 m3/hr recorded between 10 m and 60 m MD in Dihing.
+     Pumped 127 bbl of coarse LCM slurry and cut mud weight by 0.03 sg.
+
+[PAGE 3]
+     Non-productive time attributable to this event: 3.3 hrs.
+
+5.2  Girujan Clay - 28-12-2009
+     Hole instability and sloughing from 820 m to 864 m MD in Girujan Clay.
+     Mud weight raised to 1.23 sg and inhibition increased; hole condition improved.
+     Non-productive time attributable to this event: 9.6 hrs.
+
+5.3  Tipam Sandstone - 02-01-2010
+     Cement slurry lost to the formation while cementing 13-3/8in surface casing at 1,082 m MD.
+     Job completed with reduced returns; top of cement confirmed by temperature survey.
+     Non-productive time attributable to this event: 41.8 hrs.
+
+5.4  Tipam Sandstone - 02-01-2010
+     Top of cement logged at 545 m against a planned top of 0 m behind the 13-3/8in surface.
+     Accepted after review; previous shoe covered by the subsequent string.
+     Non-productive time attributable to this event: 25.8 hrs.
+
+5.5  Barail Coal Shale - 06-01-2010
+     Wellbore instability in Barail Coal Shale from 2,690 m MD. Excessive cavings (8.7 m3) over the shakers.
+     Increased KCl concentration and raised mud weight to 1.31 sg.
+     Non-productive time attributable to this event: 38.9 hrs.
+
+5.6  Barail Arenaceous - 12-01-2010
+     Differential sticking at 3,160 m MD across the Barail Arenaceous; maximum overpull 21.7 t.
+     Worked and jarred the string; spotted 91 bbl of pipe-release pill. String freed.
+     Non-productive time attributable to this event: 13.6 hrs.
+
+5.7  Barail Arenaceous - 13-01-2010
+     Well kicked at 3,190 m MD (2,870 m TVD) while drilling Barail Arenaceous. Pit gain 11.1 m3, SIDPP 64.4 ksc. Well shut in.
+     Well shut in and killed by drillers method. Mud weight raised to 1.33 sg.
+     Non-productive time attributable to this event: 146.9 hrs.
+
+
+6. LESSONS LEARNT AND RECOMMENDATIONS FOR FUTURE WELLS
+------------------------------------------------------------------------
+- Barail Arenaceous - kick: gas influx from the Barail pay sand.
+  Future wells on this structure should plan for this around
+  3,190 m MD.
+- Tipam Sandstone - cementing problem: cement slurry lost into a permeable or fractured interval, leaving the top of cement below the planned depth.
+  Future wells on this structure should plan for this around
+  1,082 m MD.
+- Tipam Sandstone - cementing problem: cement column fell short of the planned top, leaving the previous shoe uncovered.
+  Future wells on this structure should plan for this around
+  1,082 m MD.
+- Barail Coal Shale - wellbore instability: coal seams caving and producing large cavings at the shakers.
+  Future wells on this structure should plan for this around
+
+[PAGE 4]
+  2,690 m MD.
+- Girujan Clay - wellbore instability: reactive clay hydrating and sloughing into the hole.
+  Future wells on this structure should plan for this around
+  820 m MD.
+
+Prepared by  : Drilling Engineering Group, OIL, Duliajan
+Reviewed by  : Head - Drilling Services

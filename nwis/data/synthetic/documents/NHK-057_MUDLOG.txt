@@ -1,0 +1,62 @@
+[PAGE 1]
+OIL INDIA LIMITED - MUD LOG / LITHOLOGY LOG
+Well: Naharkatiya-57 (NHK-057)    Field: Naharkatiya
+Mud System: Low-solids non-dispersed WBM
+==============================================================================
+
+    MD (m)   TVD (m)Formation                      ROP     Gas     MW
+                                                (m/hr) (units)   (sg)
+------------------------------------------------------------------------------
+        10        10Dihing                        12.0       4   1.08
+        60        60Dihing                        13.7       2   1.08
+       110       110Dihing                        25.1       4   1.08
+           >> Hole washout logged at 80 m MD in Dihing; caliper 12.3 percent over gauge.
+       160       160Namsang                       29.9       4   1.09
+       210       210Namsang                       31.1       0   1.09
+       260       260Namsang                       26.3       3   1.09
+       310       310Namsang                       28.1       3   1.09
+       360       360Namsang                       22.6       2   1.09
+       410       410Namsang                       30.9       0   1.09
+       460       460Namsang                       18.9       1   1.09
+       510       510Namsang                       24.9       5   1.09
+       560       560Girujan Clay                  16.8       1   1.12
+       610       610Girujan Clay                  23.7       2   1.12
+       660       660Girujan Clay                  21.3       1   1.12
+       710       710Girujan Clay                  17.0       5   1.12
+       760       760Girujan Clay                  14.9       3   1.12
+       810       810Girujan Clay                  14.2       2   1.12
+       860       860Girujan Clay                  20.4       4   1.12
+       910       910Girujan Clay                  18.8       1   1.12
+           >> Hole pack-off tendency at 890 m MD in the Girujan Clay. Back-reamed 2 times.
+       960       960Girujan Clay                  19.1       6   1.12
+     1,010     1,010Girujan Clay                  18.9       4   1.12
+     1,060     1,060Tipam Sandstone               15.5      30   1.08
+           >> Hole washout logged at 1,070 m MD in Tipam Sandstone; caliper 48.2 percent over gauge.
+     1,110     1,110Tipam Sandstone               14.5      31   1.08
+           >> Top of cement logged at 90 m against a planned top of 0 m behind the 13-3/8in surface.
+     1,160     1,160Tipam Sandstone               14.4      32   1.08
+     1,210     1,210Tipam Sandstone               14.9      29   1.08
+     1,260     1,260Tipam Sandstone               10.9      32   1.08
+     1,310     1,310Tipam Sandstone               10.7      32   1.08
+     1,360     1,360Tipam Sandstone               12.4      29   1.08
+     1,410     1,410Tipam Sandstone               14.8      29   1.08
+     1,460     1,460Tipam Sandstone               16.3      31   1.08
+     1,510     1,510Tipam Sandstone               10.4      29   1.08
+           >> Mud loss of 14.3 m3/hr recorded between 1,500 m and 1,525 m MD in Tipam Sandstone.
+     1,560     1,560Tipam Sandstone               10.9      29   1.08
+     1,610     1,610Tipam Sandstone               10.2      33   1.08
+     1,660     1,660Tipam Sandstone               13.1      29   1.08
+     1,704     1,704Tipam Sandstone               12.3      33   1.08
+
+LITHOLOGICAL DESCRIPTION
+
+[PAGE 2]
+------------------------------------------------------------------------------
+29 m MD - Dihing
+    Unconsolidated pebbly sandstone, clay and gravel.
+128 m MD - Namsang
+    Medium to coarse sandstone with clay interbeds.
+548 m MD - Girujan Clay
+    Mottled clay with thin siltstone and sandstone bands.
+1,034 m MD - Tipam Sandstone
+    Massive ferruginous sandstone with clay partings.

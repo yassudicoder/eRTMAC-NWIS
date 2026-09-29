@@ -1,0 +1,1622 @@
+[
+  {
+    "document_id": "NHK-057-DDR",
+    "well_id": "NHK-057",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Naharkatiya-57",
+    "filename": "NHK-057_DDR.txt",
+    "pages": 2,
+    "characters": 2932
+  },
+  {
+    "document_id": "NHK-057-MUDLOG",
+    "well_id": "NHK-057",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Naharkatiya-57",
+    "filename": "NHK-057_MUDLOG.txt",
+    "pages": 2,
+    "characters": 3797
+  },
+  {
+    "document_id": "NHK-057-WCR",
+    "well_id": "NHK-057",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Naharkatiya-57",
+    "filename": "NHK-057_WCR.txt",
+    "pages": 3,
+    "characters": 6393
+  },
+  {
+    "document_id": "NHK-058-DDR",
+    "well_id": "NHK-058",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Naharkatiya-58",
+    "filename": "NHK-058_DDR.txt",
+    "pages": 3,
+    "characters": 4404
+  },
+  {
+    "document_id": "NHK-058-MUDLOG",
+    "well_id": "NHK-058",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Naharkatiya-58",
+    "filename": "NHK-058_MUDLOG.txt",
+    "pages": 2,
+    "characters": 3755
+  },
+  {
+    "document_id": "NHK-058-WCR",
+    "well_id": "NHK-058",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Naharkatiya-58",
+    "filename": "NHK-058_WCR.txt",
+    "pages": 3,
+    "characters": 6604
+  },
+  {
+    "document_id": "NHK-060-DDR",
+    "well_id": "NHK-060",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Naharkatiya-60",
+    "filename": "NHK-060_DDR.txt",
+    "pages": 6,
+    "characters": 10797
+  },
+  {
+    "document_id": "NHK-060-MUDLOG",
+    "well_id": "NHK-060",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Naharkatiya-60",
+    "filename": "NHK-060_MUDLOG.txt",
+    "pages": 3,
+    "characters": 7622
+  },
+  {
+    "document_id": "NHK-060-WCR",
+    "well_id": "NHK-060",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Naharkatiya-60",
+    "filename": "NHK-060_WCR.txt",
+    "pages": 4,
+    "characters": 9103
+  },
+  {
+    "document_id": "NHK-062-DDR",
+    "well_id": "NHK-062",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Naharkatiya-62",
+    "filename": "NHK-062_DDR.txt",
+    "pages": 6,
+    "characters": 9645
+  },
+  {
+    "document_id": "NHK-062-MUDLOG",
+    "well_id": "NHK-062",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Naharkatiya-62",
+    "filename": "NHK-062_MUDLOG.txt",
+    "pages": 3,
+    "characters": 7677
+  },
+  {
+    "document_id": "NHK-062-WCR",
+    "well_id": "NHK-062",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Naharkatiya-62",
+    "filename": "NHK-062_WCR.txt",
+    "pages": 4,
+    "characters": 9078
+  },
+  {
+    "document_id": "NHK-063-DDR",
+    "well_id": "NHK-063",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Naharkatiya-63",
+    "filename": "NHK-063_DDR.txt",
+    "pages": 7,
+    "characters": 13195
+  },
+  {
+    "document_id": "NHK-063-MUDLOG",
+    "well_id": "NHK-063",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Naharkatiya-63",
+    "filename": "NHK-063_MUDLOG.txt",
+    "pages": 3,
+    "characters": 9491
+  },
+  {
+    "document_id": "NHK-063-WCR",
+    "well_id": "NHK-063",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Naharkatiya-63",
+    "filename": "NHK-063_WCR.txt",
+    "pages": 5,
+    "characters": 10633
+  },
+  {
+    "document_id": "NHK-064-DDR",
+    "well_id": "NHK-064",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Naharkatiya-64",
+    "filename": "NHK-064_DDR.txt",
+    "pages": 6,
+    "characters": 9925
+  },
+  {
+    "document_id": "NHK-064-MUDLOG",
+    "well_id": "NHK-064",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Naharkatiya-64",
+    "filename": "NHK-064_MUDLOG.txt",
+    "pages": 3,
+    "characters": 6917
+  },
+  {
+    "document_id": "NHK-064-WCR",
+    "well_id": "NHK-064",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Naharkatiya-64",
+    "filename": "NHK-064_WCR.txt",
+    "pages": 4,
+    "characters": 8808
+  },
+  {
+    "document_id": "NHK-066-DDR",
+    "well_id": "NHK-066",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Naharkatiya-66",
+    "filename": "NHK-066_DDR.txt",
+    "pages": 4,
+    "characters": 6021
+  },
+  {
+    "document_id": "NHK-066-MUDLOG",
+    "well_id": "NHK-066",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Naharkatiya-66",
+    "filename": "NHK-066_MUDLOG.txt",
+    "pages": 2,
+    "characters": 6387
+  },
+  {
+    "document_id": "NHK-066-WCR",
+    "well_id": "NHK-066",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Naharkatiya-66",
+    "filename": "NHK-066_WCR.txt",
+    "pages": 3,
+    "characters": 7375
+  },
+  {
+    "document_id": "NHK-070-DDR",
+    "well_id": "NHK-070",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Naharkatiya-70",
+    "filename": "NHK-070_DDR.txt",
+    "pages": 4,
+    "characters": 7923
+  },
+  {
+    "document_id": "NHK-070-MUDLOG",
+    "well_id": "NHK-070",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Naharkatiya-70",
+    "filename": "NHK-070_MUDLOG.txt",
+    "pages": 3,
+    "characters": 6906
+  },
+  {
+    "document_id": "NHK-070-WCR",
+    "well_id": "NHK-070",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Naharkatiya-70",
+    "filename": "NHK-070_WCR.txt",
+    "pages": 4,
+    "characters": 9828
+  },
+  {
+    "document_id": "NHK-071-DDR",
+    "well_id": "NHK-071",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Naharkatiya-71",
+    "filename": "NHK-071_DDR.txt",
+    "pages": 6,
+    "characters": 9688
+  },
+  {
+    "document_id": "NHK-071-MUDLOG",
+    "well_id": "NHK-071",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Naharkatiya-71",
+    "filename": "NHK-071_MUDLOG.txt",
+    "pages": 3,
+    "characters": 7760
+  },
+  {
+    "document_id": "NHK-071-WCR",
+    "well_id": "NHK-071",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Naharkatiya-71",
+    "filename": "NHK-071_WCR.txt",
+    "pages": 4,
+    "characters": 8766
+  },
+  {
+    "document_id": "MRN-047-DDR",
+    "well_id": "MRN-047",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Moran-47",
+    "filename": "MRN-047_DDR.txt",
+    "pages": 6,
+    "characters": 11268
+  },
+  {
+    "document_id": "MRN-047-MUDLOG",
+    "well_id": "MRN-047",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Moran-47",
+    "filename": "MRN-047_MUDLOG.txt",
+    "pages": 3,
+    "characters": 8432
+  },
+  {
+    "document_id": "MRN-047-WCR",
+    "well_id": "MRN-047",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Moran-47",
+    "filename": "MRN-047_WCR.txt",
+    "pages": 4,
+    "characters": 9642
+  },
+  {
+    "document_id": "MRN-049-DDR",
+    "well_id": "MRN-049",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Moran-49",
+    "filename": "MRN-049_DDR.txt",
+    "pages": 4,
+    "characters": 6850
+  },
+  {
+    "document_id": "MRN-049-MUDLOG",
+    "well_id": "MRN-049",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Moran-49",
+    "filename": "MRN-049_MUDLOG.txt",
+    "pages": 2,
+    "characters": 6424
+  },
+  {
+    "document_id": "MRN-049-WCR",
+    "well_id": "MRN-049",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Moran-49",
+    "filename": "MRN-049_WCR.txt",
+    "pages": 4,
+    "characters": 7799
+  },
+  {
+    "document_id": "MRN-051-DDR",
+    "well_id": "MRN-051",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Moran-51",
+    "filename": "MRN-051_DDR.txt",
+    "pages": 2,
+    "characters": 2641
+  },
+  {
+    "document_id": "MRN-051-MUDLOG",
+    "well_id": "MRN-051",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Moran-51",
+    "filename": "MRN-051_MUDLOG.txt",
+    "pages": 1,
+    "characters": 2969
+  },
+  {
+    "document_id": "MRN-051-WCR",
+    "well_id": "MRN-051",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Moran-51",
+    "filename": "MRN-051_WCR.txt",
+    "pages": 3,
+    "characters": 5624
+  },
+  {
+    "document_id": "MRN-054-DDR",
+    "well_id": "MRN-054",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Moran-54",
+    "filename": "MRN-054_DDR.txt",
+    "pages": 6,
+    "characters": 10465
+  },
+  {
+    "document_id": "MRN-054-MUDLOG",
+    "well_id": "MRN-054",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Moran-54",
+    "filename": "MRN-054_MUDLOG.txt",
+    "pages": 3,
+    "characters": 7829
+  },
+  {
+    "document_id": "MRN-054-WCR",
+    "well_id": "MRN-054",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Moran-54",
+    "filename": "MRN-054_WCR.txt",
+    "pages": 4,
+    "characters": 10046
+  },
+  {
+    "document_id": "MRN-055-DDR",
+    "well_id": "MRN-055",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Moran-55",
+    "filename": "MRN-055_DDR.txt",
+    "pages": 4,
+    "characters": 7229
+  },
+  {
+    "document_id": "MRN-055-MUDLOG",
+    "well_id": "MRN-055",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Moran-55",
+    "filename": "MRN-055_MUDLOG.txt",
+    "pages": 3,
+    "characters": 6883
+  },
+  {
+    "document_id": "MRN-055-WCR",
+    "well_id": "MRN-055",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Moran-55",
+    "filename": "MRN-055_WCR.txt",
+    "pages": 4,
+    "characters": 9234
+  },
+  {
+    "document_id": "MRN-058-DDR",
+    "well_id": "MRN-058",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Moran-58",
+    "filename": "MRN-058_DDR.txt",
+    "pages": 7,
+    "characters": 13254
+  },
+  {
+    "document_id": "MRN-058-MUDLOG",
+    "well_id": "MRN-058",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Moran-58",
+    "filename": "MRN-058_MUDLOG.txt",
+    "pages": 3,
+    "characters": 8088
+  },
+  {
+    "document_id": "MRN-058-WCR",
+    "well_id": "MRN-058",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Moran-58",
+    "filename": "MRN-058_WCR.txt",
+    "pages": 4,
+    "characters": 9603
+  },
+  {
+    "document_id": "MRN-061-DDR",
+    "well_id": "MRN-061",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Moran-61",
+    "filename": "MRN-061_DDR.txt",
+    "pages": 4,
+    "characters": 7421
+  },
+  {
+    "document_id": "MRN-061-MUDLOG",
+    "well_id": "MRN-061",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Moran-61",
+    "filename": "MRN-061_MUDLOG.txt",
+    "pages": 2,
+    "characters": 6169
+  },
+  {
+    "document_id": "MRN-061-WCR",
+    "well_id": "MRN-061",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Moran-61",
+    "filename": "MRN-061_WCR.txt",
+    "pages": 4,
+    "characters": 8587
+  },
+  {
+    "document_id": "MRN-065-DDR",
+    "well_id": "MRN-065",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Moran-65",
+    "filename": "MRN-065_DDR.txt",
+    "pages": 5,
+    "characters": 8909
+  },
+  {
+    "document_id": "MRN-065-MUDLOG",
+    "well_id": "MRN-065",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Moran-65",
+    "filename": "MRN-065_MUDLOG.txt",
+    "pages": 2,
+    "characters": 6678
+  },
+  {
+    "document_id": "MRN-065-WCR",
+    "well_id": "MRN-065",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Moran-65",
+    "filename": "MRN-065_WCR.txt",
+    "pages": 4,
+    "characters": 8808
+  },
+  {
+    "document_id": "DLJ-030-DDR",
+    "well_id": "DLJ-030",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Duliajan-30",
+    "filename": "DLJ-030_DDR.txt",
+    "pages": 9,
+    "characters": 17072
+  },
+  {
+    "document_id": "DLJ-030-MUDLOG",
+    "well_id": "DLJ-030",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Duliajan-30",
+    "filename": "DLJ-030_MUDLOG.txt",
+    "pages": 3,
+    "characters": 10101
+  },
+  {
+    "document_id": "DLJ-030-WCR",
+    "well_id": "DLJ-030",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Duliajan-30",
+    "filename": "DLJ-030_WCR.txt",
+    "pages": 5,
+    "characters": 11559
+  },
+  {
+    "document_id": "DLJ-034-DDR",
+    "well_id": "DLJ-034",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Duliajan-34",
+    "filename": "DLJ-034_DDR.txt",
+    "pages": 5,
+    "characters": 8137
+  },
+  {
+    "document_id": "DLJ-034-MUDLOG",
+    "well_id": "DLJ-034",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Duliajan-34",
+    "filename": "DLJ-034_MUDLOG.txt",
+    "pages": 3,
+    "characters": 7752
+  },
+  {
+    "document_id": "DLJ-034-WCR",
+    "well_id": "DLJ-034",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Duliajan-34",
+    "filename": "DLJ-034_WCR.txt",
+    "pages": 4,
+    "characters": 9743
+  },
+  {
+    "document_id": "DLJ-037-DDR",
+    "well_id": "DLJ-037",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Duliajan-37",
+    "filename": "DLJ-037_DDR.txt",
+    "pages": 2,
+    "characters": 3769
+  },
+  {
+    "document_id": "DLJ-037-MUDLOG",
+    "well_id": "DLJ-037",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Duliajan-37",
+    "filename": "DLJ-037_MUDLOG.txt",
+    "pages": 2,
+    "characters": 3610
+  },
+  {
+    "document_id": "DLJ-037-WCR",
+    "well_id": "DLJ-037",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Duliajan-37",
+    "filename": "DLJ-037_WCR.txt",
+    "pages": 3,
+    "characters": 6624
+  },
+  {
+    "document_id": "DLJ-040-DDR",
+    "well_id": "DLJ-040",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Duliajan-40",
+    "filename": "DLJ-040_DDR.txt",
+    "pages": 11,
+    "characters": 19102
+  },
+  {
+    "document_id": "DLJ-040-MUDLOG",
+    "well_id": "DLJ-040",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Duliajan-40",
+    "filename": "DLJ-040_MUDLOG.txt",
+    "pages": 3,
+    "characters": 10027
+  },
+  {
+    "document_id": "DLJ-040-WCR",
+    "well_id": "DLJ-040",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Duliajan-40",
+    "filename": "DLJ-040_WCR.txt",
+    "pages": 5,
+    "characters": 11318
+  },
+  {
+    "document_id": "DLJ-042-DDR",
+    "well_id": "DLJ-042",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Duliajan-42",
+    "filename": "DLJ-042_DDR.txt",
+    "pages": 8,
+    "characters": 14659
+  },
+  {
+    "document_id": "DLJ-042-MUDLOG",
+    "well_id": "DLJ-042",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Duliajan-42",
+    "filename": "DLJ-042_MUDLOG.txt",
+    "pages": 3,
+    "characters": 9897
+  },
+  {
+    "document_id": "DLJ-042-WCR",
+    "well_id": "DLJ-042",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Duliajan-42",
+    "filename": "DLJ-042_WCR.txt",
+    "pages": 4,
+    "characters": 9551
+  },
+  {
+    "document_id": "DLJ-046-DDR",
+    "well_id": "DLJ-046",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Duliajan-46",
+    "filename": "DLJ-046_DDR.txt",
+    "pages": 4,
+    "characters": 7329
+  },
+  {
+    "document_id": "DLJ-046-MUDLOG",
+    "well_id": "DLJ-046",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Duliajan-46",
+    "filename": "DLJ-046_MUDLOG.txt",
+    "pages": 2,
+    "characters": 6595
+  },
+  {
+    "document_id": "DLJ-046-WCR",
+    "well_id": "DLJ-046",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Duliajan-46",
+    "filename": "DLJ-046_WCR.txt",
+    "pages": 4,
+    "characters": 7677
+  },
+  {
+    "document_id": "DLJ-049-DDR",
+    "well_id": "DLJ-049",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Duliajan-49",
+    "filename": "DLJ-049_DDR.txt",
+    "pages": 2,
+    "characters": 2995
+  },
+  {
+    "document_id": "DLJ-049-MUDLOG",
+    "well_id": "DLJ-049",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Duliajan-49",
+    "filename": "DLJ-049_MUDLOG.txt",
+    "pages": 2,
+    "characters": 3764
+  },
+  {
+    "document_id": "DLJ-049-WCR",
+    "well_id": "DLJ-049",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Duliajan-49",
+    "filename": "DLJ-049_WCR.txt",
+    "pages": 3,
+    "characters": 5326
+  },
+  {
+    "document_id": "HGJ-057-DDR",
+    "well_id": "HGJ-057",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Hugrijan-57",
+    "filename": "HGJ-057_DDR.txt",
+    "pages": 2,
+    "characters": 3909
+  },
+  {
+    "document_id": "HGJ-057-MUDLOG",
+    "well_id": "HGJ-057",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Hugrijan-57",
+    "filename": "HGJ-057_MUDLOG.txt",
+    "pages": 2,
+    "characters": 4804
+  },
+  {
+    "document_id": "HGJ-057-WCR",
+    "well_id": "HGJ-057",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Hugrijan-57",
+    "filename": "HGJ-057_WCR.txt",
+    "pages": 4,
+    "characters": 7173
+  },
+  {
+    "document_id": "HGJ-058-DDR",
+    "well_id": "HGJ-058",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Hugrijan-58",
+    "filename": "HGJ-058_DDR.txt",
+    "pages": 5,
+    "characters": 9275
+  },
+  {
+    "document_id": "HGJ-058-MUDLOG",
+    "well_id": "HGJ-058",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Hugrijan-58",
+    "filename": "HGJ-058_MUDLOG.txt",
+    "pages": 3,
+    "characters": 6778
+  },
+  {
+    "document_id": "HGJ-058-WCR",
+    "well_id": "HGJ-058",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Hugrijan-58",
+    "filename": "HGJ-058_WCR.txt",
+    "pages": 4,
+    "characters": 8108
+  },
+  {
+    "document_id": "HGJ-062-DDR",
+    "well_id": "HGJ-062",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Hugrijan-62",
+    "filename": "HGJ-062_DDR.txt",
+    "pages": 2,
+    "characters": 3125
+  },
+  {
+    "document_id": "HGJ-062-MUDLOG",
+    "well_id": "HGJ-062",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Hugrijan-62",
+    "filename": "HGJ-062_MUDLOG.txt",
+    "pages": 2,
+    "characters": 3544
+  },
+  {
+    "document_id": "HGJ-062-WCR",
+    "well_id": "HGJ-062",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Hugrijan-62",
+    "filename": "HGJ-062_WCR.txt",
+    "pages": 2,
+    "characters": 4485
+  },
+  {
+    "document_id": "HGJ-066-DDR",
+    "well_id": "HGJ-066",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Hugrijan-66",
+    "filename": "HGJ-066_DDR.txt",
+    "pages": 4,
+    "characters": 5826
+  },
+  {
+    "document_id": "HGJ-066-MUDLOG",
+    "well_id": "HGJ-066",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Hugrijan-66",
+    "filename": "HGJ-066_MUDLOG.txt",
+    "pages": 2,
+    "characters": 6555
+  },
+  {
+    "document_id": "HGJ-066-WCR",
+    "well_id": "HGJ-066",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Hugrijan-66",
+    "filename": "HGJ-066_WCR.txt",
+    "pages": 3,
+    "characters": 6751
+  },
+  {
+    "document_id": "HGJ-069-DDR",
+    "well_id": "HGJ-069",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Hugrijan-69",
+    "filename": "HGJ-069_DDR.txt",
+    "pages": 5,
+    "characters": 7754
+  },
+  {
+    "document_id": "HGJ-069-MUDLOG",
+    "well_id": "HGJ-069",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Hugrijan-69",
+    "filename": "HGJ-069_MUDLOG.txt",
+    "pages": 3,
+    "characters": 6723
+  },
+  {
+    "document_id": "HGJ-069-WCR",
+    "well_id": "HGJ-069",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Hugrijan-69",
+    "filename": "HGJ-069_WCR.txt",
+    "pages": 4,
+    "characters": 7899
+  },
+  {
+    "document_id": "TGK-064-DDR",
+    "well_id": "TGK-064",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Tengakhat-64",
+    "filename": "TGK-064_DDR.txt",
+    "pages": 3,
+    "characters": 5188
+  },
+  {
+    "document_id": "TGK-064-MUDLOG",
+    "well_id": "TGK-064",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Tengakhat-64",
+    "filename": "TGK-064_MUDLOG.txt",
+    "pages": 2,
+    "characters": 6238
+  },
+  {
+    "document_id": "TGK-064-WCR",
+    "well_id": "TGK-064",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Tengakhat-64",
+    "filename": "TGK-064_WCR.txt",
+    "pages": 3,
+    "characters": 7589
+  },
+  {
+    "document_id": "TGK-066-DDR",
+    "well_id": "TGK-066",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Tengakhat-66",
+    "filename": "TGK-066_DDR.txt",
+    "pages": 5,
+    "characters": 8578
+  },
+  {
+    "document_id": "TGK-066-MUDLOG",
+    "well_id": "TGK-066",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Tengakhat-66",
+    "filename": "TGK-066_MUDLOG.txt",
+    "pages": 2,
+    "characters": 6159
+  },
+  {
+    "document_id": "TGK-066-WCR",
+    "well_id": "TGK-066",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Tengakhat-66",
+    "filename": "TGK-066_WCR.txt",
+    "pages": 4,
+    "characters": 8404
+  },
+  {
+    "document_id": "TGK-069-DDR",
+    "well_id": "TGK-069",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Tengakhat-69",
+    "filename": "TGK-069_DDR.txt",
+    "pages": 8,
+    "characters": 15072
+  },
+  {
+    "document_id": "TGK-069-MUDLOG",
+    "well_id": "TGK-069",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Tengakhat-69",
+    "filename": "TGK-069_MUDLOG.txt",
+    "pages": 3,
+    "characters": 9691
+  },
+  {
+    "document_id": "TGK-069-WCR",
+    "well_id": "TGK-069",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Tengakhat-69",
+    "filename": "TGK-069_WCR.txt",
+    "pages": 5,
+    "characters": 12048
+  },
+  {
+    "document_id": "TGK-071-DDR",
+    "well_id": "TGK-071",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Tengakhat-71",
+    "filename": "TGK-071_DDR.txt",
+    "pages": 2,
+    "characters": 3605
+  },
+  {
+    "document_id": "TGK-071-MUDLOG",
+    "well_id": "TGK-071",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Tengakhat-71",
+    "filename": "TGK-071_MUDLOG.txt",
+    "pages": 2,
+    "characters": 4175
+  },
+  {
+    "document_id": "TGK-071-WCR",
+    "well_id": "TGK-071",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Tengakhat-71",
+    "filename": "TGK-071_WCR.txt",
+    "pages": 3,
+    "characters": 5286
+  },
+  {
+    "document_id": "TGK-072-DDR",
+    "well_id": "TGK-072",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Tengakhat-72",
+    "filename": "TGK-072_DDR.txt",
+    "pages": 4,
+    "characters": 6993
+  },
+  {
+    "document_id": "TGK-072-MUDLOG",
+    "well_id": "TGK-072",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Tengakhat-72",
+    "filename": "TGK-072_MUDLOG.txt",
+    "pages": 3,
+    "characters": 7093
+  },
+  {
+    "document_id": "TGK-072-WCR",
+    "well_id": "TGK-072",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Tengakhat-72",
+    "filename": "TGK-072_WCR.txt",
+    "pages": 4,
+    "characters": 8696
+  },
+  {
+    "document_id": "TGK-075-DDR",
+    "well_id": "TGK-075",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Tengakhat-75",
+    "filename": "TGK-075_DDR.txt",
+    "pages": 5,
+    "characters": 8157
+  },
+  {
+    "document_id": "TGK-075-MUDLOG",
+    "well_id": "TGK-075",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Tengakhat-75",
+    "filename": "TGK-075_MUDLOG.txt",
+    "pages": 2,
+    "characters": 6529
+  },
+  {
+    "document_id": "TGK-075-WCR",
+    "well_id": "TGK-075",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Tengakhat-75",
+    "filename": "TGK-075_WCR.txt",
+    "pages": 4,
+    "characters": 10004
+  },
+  {
+    "document_id": "SLM-060-DDR",
+    "well_id": "SLM-060",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Shalmari-60",
+    "filename": "SLM-060_DDR.txt",
+    "pages": 7,
+    "characters": 11845
+  },
+  {
+    "document_id": "SLM-060-MUDLOG",
+    "well_id": "SLM-060",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Shalmari-60",
+    "filename": "SLM-060_MUDLOG.txt",
+    "pages": 3,
+    "characters": 8743
+  },
+  {
+    "document_id": "SLM-060-WCR",
+    "well_id": "SLM-060",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Shalmari-60",
+    "filename": "SLM-060_WCR.txt",
+    "pages": 4,
+    "characters": 9655
+  },
+  {
+    "document_id": "SLM-064-DDR",
+    "well_id": "SLM-064",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Shalmari-64",
+    "filename": "SLM-064_DDR.txt",
+    "pages": 6,
+    "characters": 11338
+  },
+  {
+    "document_id": "SLM-064-MUDLOG",
+    "well_id": "SLM-064",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Shalmari-64",
+    "filename": "SLM-064_MUDLOG.txt",
+    "pages": 3,
+    "characters": 7132
+  },
+  {
+    "document_id": "SLM-064-WCR",
+    "well_id": "SLM-064",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Shalmari-64",
+    "filename": "SLM-064_WCR.txt",
+    "pages": 4,
+    "characters": 9838
+  },
+  {
+    "document_id": "SLM-065-DDR",
+    "well_id": "SLM-065",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Shalmari-65",
+    "filename": "SLM-065_DDR.txt",
+    "pages": 6,
+    "characters": 11236
+  },
+  {
+    "document_id": "SLM-065-MUDLOG",
+    "well_id": "SLM-065",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Shalmari-65",
+    "filename": "SLM-065_MUDLOG.txt",
+    "pages": 3,
+    "characters": 9245
+  },
+  {
+    "document_id": "SLM-065-WCR",
+    "well_id": "SLM-065",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Shalmari-65",
+    "filename": "SLM-065_WCR.txt",
+    "pages": 5,
+    "characters": 10440
+  },
+  {
+    "document_id": "SLM-067-DDR",
+    "well_id": "SLM-067",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Shalmari-67",
+    "filename": "SLM-067_DDR.txt",
+    "pages": 4,
+    "characters": 6961
+  },
+  {
+    "document_id": "SLM-067-MUDLOG",
+    "well_id": "SLM-067",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Shalmari-67",
+    "filename": "SLM-067_MUDLOG.txt",
+    "pages": 2,
+    "characters": 6339
+  },
+  {
+    "document_id": "SLM-067-WCR",
+    "well_id": "SLM-067",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Shalmari-67",
+    "filename": "SLM-067_WCR.txt",
+    "pages": 4,
+    "characters": 8311
+  },
+  {
+    "document_id": "DKM-016-DDR",
+    "well_id": "DKM-016",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Dikom-16",
+    "filename": "DKM-016_DDR.txt",
+    "pages": 5,
+    "characters": 8632
+  },
+  {
+    "document_id": "DKM-016-MUDLOG",
+    "well_id": "DKM-016",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Dikom-16",
+    "filename": "DKM-016_MUDLOG.txt",
+    "pages": 2,
+    "characters": 6126
+  },
+  {
+    "document_id": "DKM-016-WCR",
+    "well_id": "DKM-016",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Dikom-16",
+    "filename": "DKM-016_WCR.txt",
+    "pages": 4,
+    "characters": 9491
+  },
+  {
+    "document_id": "DKM-019-DDR",
+    "well_id": "DKM-019",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Dikom-19",
+    "filename": "DKM-019_DDR.txt",
+    "pages": 4,
+    "characters": 7475
+  },
+  {
+    "document_id": "DKM-019-MUDLOG",
+    "well_id": "DKM-019",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Dikom-19",
+    "filename": "DKM-019_MUDLOG.txt",
+    "pages": 2,
+    "characters": 5640
+  },
+  {
+    "document_id": "DKM-019-WCR",
+    "well_id": "DKM-019",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Dikom-19",
+    "filename": "DKM-019_WCR.txt",
+    "pages": 4,
+    "characters": 8251
+  },
+  {
+    "document_id": "DKM-020-DDR",
+    "well_id": "DKM-020",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Dikom-20",
+    "filename": "DKM-020_DDR.txt",
+    "pages": 6,
+    "characters": 10334
+  },
+  {
+    "document_id": "DKM-020-MUDLOG",
+    "well_id": "DKM-020",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Dikom-20",
+    "filename": "DKM-020_MUDLOG.txt",
+    "pages": 3,
+    "characters": 8445
+  },
+  {
+    "document_id": "DKM-020-WCR",
+    "well_id": "DKM-020",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Dikom-20",
+    "filename": "DKM-020_WCR.txt",
+    "pages": 4,
+    "characters": 9104
+  },
+  {
+    "document_id": "DKM-023-DDR",
+    "well_id": "DKM-023",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Dikom-23",
+    "filename": "DKM-023_DDR.txt",
+    "pages": 4,
+    "characters": 7197
+  },
+  {
+    "document_id": "DKM-023-MUDLOG",
+    "well_id": "DKM-023",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Dikom-23",
+    "filename": "DKM-023_MUDLOG.txt",
+    "pages": 2,
+    "characters": 5639
+  },
+  {
+    "document_id": "DKM-023-WCR",
+    "well_id": "DKM-023",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Dikom-23",
+    "filename": "DKM-023_WCR.txt",
+    "pages": 4,
+    "characters": 8528
+  },
+  {
+    "document_id": "DKM-024-DDR",
+    "well_id": "DKM-024",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Dikom-24",
+    "filename": "DKM-024_DDR.txt",
+    "pages": 3,
+    "characters": 4780
+  },
+  {
+    "document_id": "DKM-024-MUDLOG",
+    "well_id": "DKM-024",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Dikom-24",
+    "filename": "DKM-024_MUDLOG.txt",
+    "pages": 2,
+    "characters": 5119
+  },
+  {
+    "document_id": "DKM-024-WCR",
+    "well_id": "DKM-024",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Dikom-24",
+    "filename": "DKM-024_WCR.txt",
+    "pages": 4,
+    "characters": 7943
+  },
+  {
+    "document_id": "BRK-024-DDR",
+    "well_id": "BRK-024",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Barekuri-24",
+    "filename": "BRK-024_DDR.txt",
+    "pages": 5,
+    "characters": 8037
+  },
+  {
+    "document_id": "BRK-024-MUDLOG",
+    "well_id": "BRK-024",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Barekuri-24",
+    "filename": "BRK-024_MUDLOG.txt",
+    "pages": 3,
+    "characters": 6789
+  },
+  {
+    "document_id": "BRK-024-WCR",
+    "well_id": "BRK-024",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Barekuri-24",
+    "filename": "BRK-024_WCR.txt",
+    "pages": 4,
+    "characters": 8064
+  },
+  {
+    "document_id": "BRK-026-DDR",
+    "well_id": "BRK-026",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Barekuri-26",
+    "filename": "BRK-026_DDR.txt",
+    "pages": 4,
+    "characters": 6229
+  },
+  {
+    "document_id": "BRK-026-MUDLOG",
+    "well_id": "BRK-026",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Barekuri-26",
+    "filename": "BRK-026_MUDLOG.txt",
+    "pages": 2,
+    "characters": 6183
+  },
+  {
+    "document_id": "BRK-026-WCR",
+    "well_id": "BRK-026",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Barekuri-26",
+    "filename": "BRK-026_WCR.txt",
+    "pages": 4,
+    "characters": 8978
+  },
+  {
+    "document_id": "BRK-028-DDR",
+    "well_id": "BRK-028",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Barekuri-28",
+    "filename": "BRK-028_DDR.txt",
+    "pages": 4,
+    "characters": 6438
+  },
+  {
+    "document_id": "BRK-028-MUDLOG",
+    "well_id": "BRK-028",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Barekuri-28",
+    "filename": "BRK-028_MUDLOG.txt",
+    "pages": 2,
+    "characters": 6001
+  },
+  {
+    "document_id": "BRK-028-WCR",
+    "well_id": "BRK-028",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Barekuri-28",
+    "filename": "BRK-028_WCR.txt",
+    "pages": 3,
+    "characters": 7619
+  },
+  {
+    "document_id": "BRK-030-DDR",
+    "well_id": "BRK-030",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Barekuri-30",
+    "filename": "BRK-030_DDR.txt",
+    "pages": 5,
+    "characters": 8835
+  },
+  {
+    "document_id": "BRK-030-MUDLOG",
+    "well_id": "BRK-030",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Barekuri-30",
+    "filename": "BRK-030_MUDLOG.txt",
+    "pages": 3,
+    "characters": 7628
+  },
+  {
+    "document_id": "BRK-030-WCR",
+    "well_id": "BRK-030",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Barekuri-30",
+    "filename": "BRK-030_WCR.txt",
+    "pages": 4,
+    "characters": 8578
+  },
+  {
+    "document_id": "JRJ-020-DDR",
+    "well_id": "JRJ-020",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Jorajan-20",
+    "filename": "JRJ-020_DDR.txt",
+    "pages": 4,
+    "characters": 6987
+  },
+  {
+    "document_id": "JRJ-020-MUDLOG",
+    "well_id": "JRJ-020",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Jorajan-20",
+    "filename": "JRJ-020_MUDLOG.txt",
+    "pages": 3,
+    "characters": 7092
+  },
+  {
+    "document_id": "JRJ-020-WCR",
+    "well_id": "JRJ-020",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Jorajan-20",
+    "filename": "JRJ-020_WCR.txt",
+    "pages": 4,
+    "characters": 8125
+  },
+  {
+    "document_id": "JRJ-023-DDR",
+    "well_id": "JRJ-023",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Jorajan-23",
+    "filename": "JRJ-023_DDR.txt",
+    "pages": 5,
+    "characters": 8708
+  },
+  {
+    "document_id": "JRJ-023-MUDLOG",
+    "well_id": "JRJ-023",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Jorajan-23",
+    "filename": "JRJ-023_MUDLOG.txt",
+    "pages": 3,
+    "characters": 7352
+  },
+  {
+    "document_id": "JRJ-023-WCR",
+    "well_id": "JRJ-023",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Jorajan-23",
+    "filename": "JRJ-023_WCR.txt",
+    "pages": 4,
+    "characters": 7807
+  },
+  {
+    "document_id": "JRJ-024-DDR",
+    "well_id": "JRJ-024",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Jorajan-24",
+    "filename": "JRJ-024_DDR.txt",
+    "pages": 2,
+    "characters": 2396
+  },
+  {
+    "document_id": "JRJ-024-MUDLOG",
+    "well_id": "JRJ-024",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Jorajan-24",
+    "filename": "JRJ-024_MUDLOG.txt",
+    "pages": 2,
+    "characters": 3701
+  },
+  {
+    "document_id": "JRJ-024-WCR",
+    "well_id": "JRJ-024",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Jorajan-24",
+    "filename": "JRJ-024_WCR.txt",
+    "pages": 3,
+    "characters": 4867
+  },
+  {
+    "document_id": "JRJ-028-DDR",
+    "well_id": "JRJ-028",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Jorajan-28",
+    "filename": "JRJ-028_DDR.txt",
+    "pages": 8,
+    "characters": 13909
+  },
+  {
+    "document_id": "JRJ-028-MUDLOG",
+    "well_id": "JRJ-028",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Jorajan-28",
+    "filename": "JRJ-028_MUDLOG.txt",
+    "pages": 3,
+    "characters": 9682
+  },
+  {
+    "document_id": "JRJ-028-WCR",
+    "well_id": "JRJ-028",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Jorajan-28",
+    "filename": "JRJ-028_WCR.txt",
+    "pages": 5,
+    "characters": 11574
+  },
+  {
+    "document_id": "JRJ-029-DDR",
+    "well_id": "JRJ-029",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Jorajan-29",
+    "filename": "JRJ-029_DDR.txt",
+    "pages": 3,
+    "characters": 5828
+  },
+  {
+    "document_id": "JRJ-029-MUDLOG",
+    "well_id": "JRJ-029",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Jorajan-29",
+    "filename": "JRJ-029_MUDLOG.txt",
+    "pages": 2,
+    "characters": 6378
+  },
+  {
+    "document_id": "JRJ-029-WCR",
+    "well_id": "JRJ-029",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Jorajan-29",
+    "filename": "JRJ-029_WCR.txt",
+    "pages": 4,
+    "characters": 8384
+  },
+  {
+    "document_id": "JRJ-033-DDR",
+    "well_id": "JRJ-033",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Jorajan-33",
+    "filename": "JRJ-033_DDR.txt",
+    "pages": 6,
+    "characters": 10294
+  },
+  {
+    "document_id": "JRJ-033-MUDLOG",
+    "well_id": "JRJ-033",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Jorajan-33",
+    "filename": "JRJ-033_MUDLOG.txt",
+    "pages": 3,
+    "characters": 7682
+  },
+  {
+    "document_id": "JRJ-033-WCR",
+    "well_id": "JRJ-033",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Jorajan-33",
+    "filename": "JRJ-033_WCR.txt",
+    "pages": 4,
+    "characters": 9007
+  },
+  {
+    "document_id": "MKM-063-DDR",
+    "well_id": "MKM-063",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Makum-63",
+    "filename": "MKM-063_DDR.txt",
+    "pages": 4,
+    "characters": 7443
+  },
+  {
+    "document_id": "MKM-063-MUDLOG",
+    "well_id": "MKM-063",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Makum-63",
+    "filename": "MKM-063_MUDLOG.txt",
+    "pages": 2,
+    "characters": 6415
+  },
+  {
+    "document_id": "MKM-063-WCR",
+    "well_id": "MKM-063",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Makum-63",
+    "filename": "MKM-063_WCR.txt",
+    "pages": 4,
+    "characters": 7864
+  },
+  {
+    "document_id": "MKM-066-DDR",
+    "well_id": "MKM-066",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Makum-66",
+    "filename": "MKM-066_DDR.txt",
+    "pages": 4,
+    "characters": 6478
+  },
+  {
+    "document_id": "MKM-066-MUDLOG",
+    "well_id": "MKM-066",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Makum-66",
+    "filename": "MKM-066_MUDLOG.txt",
+    "pages": 2,
+    "characters": 6455
+  },
+  {
+    "document_id": "MKM-066-WCR",
+    "well_id": "MKM-066",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Makum-66",
+    "filename": "MKM-066_WCR.txt",
+    "pages": 4,
+    "characters": 7858
+  },
+  {
+    "document_id": "MKM-070-DDR",
+    "well_id": "MKM-070",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Makum-70",
+    "filename": "MKM-070_DDR.txt",
+    "pages": 6,
+    "characters": 10405
+  },
+  {
+    "document_id": "MKM-070-MUDLOG",
+    "well_id": "MKM-070",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Makum-70",
+    "filename": "MKM-070_MUDLOG.txt",
+    "pages": 3,
+    "characters": 6825
+  },
+  {
+    "document_id": "MKM-070-WCR",
+    "well_id": "MKM-070",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Makum-70",
+    "filename": "MKM-070_WCR.txt",
+    "pages": 4,
+    "characters": 10036
+  },
+  {
+    "document_id": "MKM-073-DDR",
+    "well_id": "MKM-073",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Makum-73",
+    "filename": "MKM-073_DDR.txt",
+    "pages": 2,
+    "characters": 2894
+  },
+  {
+    "document_id": "MKM-073-MUDLOG",
+    "well_id": "MKM-073",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Makum-73",
+    "filename": "MKM-073_MUDLOG.txt",
+    "pages": 2,
+    "characters": 3568
+  },
+  {
+    "document_id": "MKM-073-WCR",
+    "well_id": "MKM-073",
+    "doc_type": "WCR",
+    "title": "Well Completion Report - Makum-73",
+    "filename": "MKM-073_WCR.txt",
+    "pages": 3,
+    "characters": 6376
+  },
+  {
+    "document_id": "NHK-072-DDR",
+    "well_id": "NHK-072",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Naharkatiya-72",
+    "filename": "NHK-072_DDR.txt",
+    "pages": 3,
+    "characters": 5033
+  },
+  {
+    "document_id": "NHK-072-MUDLOG",
+    "well_id": "NHK-072",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Naharkatiya-72",
+    "filename": "NHK-072_MUDLOG.txt",
+    "pages": 2,
+    "characters": 5146
+  },
+  {
+    "document_id": "MRN-068-DDR",
+    "well_id": "MRN-068",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Moran-68",
+    "filename": "MRN-068_DDR.txt",
+    "pages": 2,
+    "characters": 3870
+  },
+  {
+    "document_id": "MRN-068-MUDLOG",
+    "well_id": "MRN-068",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Moran-68",
+    "filename": "MRN-068_MUDLOG.txt",
+    "pages": 2,
+    "characters": 3988
+  },
+  {
+    "document_id": "TGK-076-DDR",
+    "well_id": "TGK-076",
+    "doc_type": "DDR",
+    "title": "Daily Drilling Reports - Tengakhat-76",
+    "filename": "TGK-076_DDR.txt",
+    "pages": 3,
+    "characters": 3986
+  },
+  {
+    "document_id": "TGK-076-MUDLOG",
+    "well_id": "TGK-076",
+    "doc_type": "MUDLOG",
+    "title": "Mud Log - Tengakhat-76",
+    "filename": "TGK-076_MUDLOG.txt",
+    "pages": 2,
+    "characters": 4255
+  }
+]

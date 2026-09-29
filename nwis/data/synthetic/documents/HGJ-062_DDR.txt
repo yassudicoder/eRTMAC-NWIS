@@ -1,0 +1,91 @@
+[PAGE 1]
+OIL INDIA LIMITED - DAILY DRILLING REPORT
+Well: Hugrijan-62 (HGJ-062)    Field: Hugrijan    Rig: OIL-RIG-08 (E-1400)
+==============================================================================
+
+DAY   1   DATE 08-05-2022   DEPTH 170.0 m MD
+  Progress        : 170.0 m
+  Present Formation: Dihing
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   2   DATE 09-05-2022   DEPTH 550.0 m MD
+  Progress        : 380.0 m
+  Present Formation: Namsang
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   3   DATE 10-05-2022   DEPTH 840.0 m MD
+  Progress        : 290.0 m
+  Present Formation: Girujan Clay
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   4   DATE 11-05-2022   DEPTH 1,090.0 m MD
+  Progress        : 250.0 m
+  Present Formation: Girujan Clay
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   5   DATE 12-05-2022   DEPTH 1,180.0 m MD
+  Progress        : 90.0 m
+  Present Formation: Girujan Clay
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   6   DATE 13-05-2022   DEPTH 1,180.0 m MD
+  Progress        : 0.0 m
+  Present Formation: Girujan Clay
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   7   DATE 14-05-2022   DEPTH 1,230.0 m MD
+  Progress        : 50.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+[PAGE 2]
+
+DAY   8   DATE 15-05-2022   DEPTH 1,280.0 m MD
+  Progress        : 50.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   9   DATE 16-05-2022   DEPTH 1,430.0 m MD
+  Progress        : 150.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  10   DATE 17-05-2022   DEPTH 1,580.0 m MD
+  Progress        : 150.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  11   DATE 18-05-2022   DEPTH 1,730.0 m MD
+  Progress        : 150.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  12   DATE 19-05-2022   DEPTH 1,824.1 m MD
+  Progress        : 94.1 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+

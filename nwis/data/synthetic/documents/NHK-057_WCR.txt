@@ -1,0 +1,130 @@
+[PAGE 1]
+OIL INDIA LIMITED
+DRILLING DEPARTMENT, DULIAJAN, ASSAM
+
+WELL COMPLETION REPORT
+========================================================================
+
+1. WELL IDENTIFICATION
+------------------------------------------------------------------------
+Well Number            : Naharkatiya-57
+Well Code              : NHK-057
+Field / Structure      : Naharkatiya
+Category               : Development
+Well Profile           : Vertical
+Surface Coordinates    : 27.33428 N, 95.30836 E
+Bottom Hole Coordinates: 27.33428 N, 95.30836 E
+Ground Level           : 126.4 m above MSL
+Rig                    : OIL-RIG-21 (E-1400)
+Date Spudded           : 04-06-2024
+Date Completed         : 20-06-2024
+Total Depth (MD)       : 1,704.0 m
+Total Depth (TVD)      : 1,704.0 m
+Target Formation       : Tipam Sandstone
+Total Days Drilled     : 8
+Total NPT              : 51.6 hrs
+
+2. CASING AND HOLE PROGRAMME
+------------------------------------------------------------------------
+Hole Size   Casing                     Shoe MD (m)  Shoe TVD (m)   TOC (m)
+26in        20in conductor                    78.8          78.8         0
+17-1/2in    13-3/8in surface               1,120.6       1,120.6         0
+
+Mud System             : Low-solids non-dispersed WBM
+
+2A. CEMENTING RECORD
+------------------------------------------------------------------------
+Casing                     Shoe MD  Planned TOC  Actual TOC   Slurry  Returns   Bond
+                               (m)          (m)         (m)     (m3)           index
+13-3/8in surface             1,121            0          90     62.5  partial   0.65
+
+Cement bond log across the 13-3/8in surface indicated fair bond (bond index 0.65).
+
+3. GEOLOGICAL SUMMARY - FORMATION TOPS
+------------------------------------------------------------------------
+Formation                    Top MD (m)   Top TVD (m)   Lithology
+Dihing                             28.7          28.7   Unconsolidated pebbly sandstone, clay and gravel
+Namsang                           128.5         128.5   Medium to coarse sandstone with clay interbeds
+
+[PAGE 2]
+Girujan Clay                      547.6         547.6   Mottled clay with thin siltstone and sandstone bands
+Tipam Sandstone                 1,033.7       1,033.7   Massive ferruginous sandstone with clay partings
+
+The well encountered the normal Upper Assam section. Formation tops were
+picked on the basis of cuttings examination and wireline log correlation
+with the neighbouring wells of the structure.
+
+3A. RESERVOIR SUMMARY
+------------------------------------------------------------------------
+Formation             Fluid            Gross  Net Pay   Poro     Perm     Sw   Press
+                                         (m)      (m)    (%)     (mD)    (%)    (sg)
+Tipam Sandstone       oil              194.5    162.2   23.4    586.7   31.1    0.88
+
+Tipam Sandstone: net pay 162.2 m, average porosity 23.4 percent, permeability 587 mD, water saturation 31.1 percent.
+    Reservoir pressure has declined from a virgin 1.02 sg to 0.88 sg equivalent, a depletion of 0.14 sg. Differential sticking risk across this interval is correspondingly elevated.
+    Formation temperature at top of interval: 57 deg C.
+
+4. DRILLING PARAMETERS BY SECTION
+------------------------------------------------------------------------
+Formation                    Avg ROP   Avg WOB   Avg RPM    Mud Wt
+                              (m/hr)       (t)                (sg)
+Dihing                         21.22      10.2        79      1.08
+Namsang                        25.82      10.7        83      1.09
+Girujan Clay                   18.53      13.0        85      1.12
+Tipam Sandstone                13.79      14.5        80      1.08
+
+5. DRILLING PROBLEMS AND REMEDIAL MEASURES
+------------------------------------------------------------------------
+5.1  Dihing - 04-06-2024
+     Hole washout logged at 80 m MD in Dihing; caliper 12.3 percent over gauge.
+     Reduced flow rate through the interval.
+     Non-productive time attributable to this event: 7.0 hrs.
+
+5.2  Girujan Clay - 06-06-2024
+     Tight hole experienced at 890 m MD in Girujan Clay; 2 reaming passes required.
+     Worked the string over the tight interval and raised mud weight to 1.2 sg.
+     Non-productive time attributable to this event: 10.2 hrs.
+
+5.3  Girujan Clay - 07-06-2024
+     Wellbore instability in Girujan Clay from 1,030 m MD. Excessive cavings (2.2 m3) over the shakers.
+     Increased KCl concentration and raised mud weight to 1.21 sg.
+     Non-productive time attributable to this event: 5.7 hrs.
+
+5.4  Tipam Sandstone - 08-06-2024
+     Hole washout logged at 1,070 m MD in Tipam Sandstone; caliper 48.2 percent over gauge.
+     Noted for cement volume calculation; no remedial action taken.
+
+[PAGE 3]
+     Non-productive time attributable to this event: 2.1 hrs.
+
+5.5  Tipam Sandstone - 09-06-2024
+     Top of cement logged at 90 m against a planned top of 0 m behind the 13-3/8in surface.
+     Top-up job performed through the annulus to raise the cement top.
+     Non-productive time attributable to this event: 19.2 hrs.
+
+5.6  Tipam Sandstone - 10-06-2024
+     Lost circulation encountered at 1,500 m MD in Tipam Sandstone. Loss rate recorded as 14.3 m3/hr.
+     LCM pill of 91 bbl (medium nut plug and mica) pumped; losses reduced.
+     Non-productive time attributable to this event: 7.4 hrs.
+
+
+6. LESSONS LEARNT AND RECOMMENDATIONS FOR FUTURE WELLS
+------------------------------------------------------------------------
+- Girujan Clay - tight hole: plastic clay creeping and closing the hole.
+  Future wells on this structure should plan for this around
+  890 m MD.
+- Tipam Sandstone - cementing problem: cement column fell short of the planned top, leaving the previous shoe uncovered.
+  Future wells on this structure should plan for this around
+  1,121 m MD.
+- Tipam Sandstone - mud loss: high-permeability sandstone taking whole mud.
+  Future wells on this structure should plan for this around
+  1,500 m MD.
+- Dihing - hole washout: unconsolidated gravel eroded by high flow rate.
+  Future wells on this structure should plan for this around
+  80 m MD.
+- Girujan Clay - wellbore instability: reactive clay hydrating and sloughing into the hole.
+  Future wells on this structure should plan for this around
+  1,030 m MD.
+
+Prepared by  : Drilling Engineering Group, OIL, Duliajan
+Reviewed by  : Head - Drilling Services

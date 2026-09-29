@@ -1,0 +1,100 @@
+[PAGE 1]
+OIL INDIA LIMITED - MUD LOG / LITHOLOGY LOG
+Well: Moran-49 (MRN-049)    Field: Moran
+Mud System: Low-solids non-dispersed WBM
+==============================================================================
+
+    MD (m)   TVD (m)Formation                      ROP     Gas     MW
+                                                (m/hr) (units)   (sg)
+------------------------------------------------------------------------------
+        10        10Dihing                        18.4       4   1.08
+        60        60Namsang                       12.0       0   1.09
+       110       110Namsang                       26.0       4   1.09
+       160       160Namsang                       21.3       3   1.09
+       210       210Namsang                       32.3       4   1.09
+       260       260Namsang                       26.1       6   1.09
+       310       310Namsang                       26.3       0   1.09
+       360       360Namsang                       23.7       1   1.09
+       410       410Girujan Clay                  17.9       3   1.12
+       460       460Girujan Clay                  23.7       3   1.12
+       510       510Girujan Clay                  18.7       4   1.12
+       560       560Girujan Clay                  18.1       3   1.12
+       610       610Girujan Clay                  22.3       3   1.12
+       660       660Girujan Clay                  16.1       5   1.12
+       710       710Girujan Clay                  23.4       2   1.12
+       760       760Girujan Clay                  20.5       4   1.12
+       810       810Girujan Clay                  19.1       3   1.12
+       860       860Tipam Sandstone               14.1      32   1.08
+           >> Cement bond log across the 13-3/8in surface showed poor bonding, bond index 0.396.
+       910       910Tipam Sandstone               13.0      29   1.08
+       960       960Tipam Sandstone                8.5      29   1.08
+     1,010     1,010Tipam Sandstone                9.6      31   1.08
+     1,060     1,060Tipam Sandstone               12.1      33   1.08
+     1,110     1,110Tipam Sandstone                8.4      28   1.08
+     1,160     1,160Tipam Sandstone                8.5      30   1.08
+     1,210     1,210Tipam Sandstone               10.3      33   1.08
+     1,260     1,260Tipam Sandstone               11.3      32   1.08
+     1,310     1,310Tipam Sandstone                7.3      31   1.08
+     1,360     1,360Tipam Sandstone               11.5      33   1.08
+     1,410     1,410Tipam Sandstone               10.4      29   1.08
+     1,460     1,460Tipam Sandstone                7.6      32   1.08
+           >> Pipe stuck at 1,440 m MD while drilling Tipam Sandstone. Free point established at 1061.3 m.
+     1,510     1,510Tipam Sandstone                8.4      30   1.08
+     1,560     1,559Tipam Sandstone                8.6      27   1.08
+     1,610     1,608Tipam Sandstone               10.2      32   1.08
+     1,660     1,656Tipam Sandstone               10.3      30   1.08
+     1,710     1,703Tipam Sandstone                8.0      32   1.08
+     1,760     1,749Tipam Sandstone                6.5      30   1.08
+     1,810     1,794Tipam Sandstone               10.1      31   1.08
+     1,860     1,837Tipam Sandstone                8.0      32   1.08
+     1,910     1,879Tipam Sandstone                7.5      33   1.08
+     1,960     1,919Tipam Sandstone               10.0      33   1.08
+
+[PAGE 2]
+     2,010     1,958Tipam Sandstone                6.2      31   1.08
+     2,060     1,996Tipam Sandstone                7.0      29   1.08
+     2,110     2,034Tipam Sandstone                6.6      33   1.08
+     2,160     2,072Barail Coal Shale              5.9      22   1.20
+     2,210     2,110Barail Coal Shale              8.1      20   1.20
+     2,260     2,149Barail Coal Shale              6.7      19   1.20
+     2,310     2,187Barail Coal Shale              7.6      21   1.20
+     2,360     2,225Barail Coal Shale              6.9      23   1.20
+     2,410     2,263Barail Coal Shale              6.0      23   1.20
+     2,460     2,301Barail Coal Shale              5.9      20   1.20
+     2,510     2,340Barail Coal Shale              7.6      20   1.20
+     2,560     2,378Barail Coal Shale              7.7      21   1.20
+     2,610     2,416Barail Coal Shale              5.0      18   1.20
+     2,660     2,454Barail Coal Shale              7.1      24   1.20
+     2,710     2,492Barail Coal Shale              7.0      21   1.20
+     2,760     2,530Barail Coal Shale              8.5      21   1.20
+           >> Cement bond log across the 9-5/8in intermediate showed poor bonding, bond index 0.369.
+     2,810     2,569Barail Coal Shale              6.2      18   1.20
+           >> High torque and drag from 2,810 m MD in Barail Coal Shale; peak torque 41.5 kNm.
+     2,860     2,607Barail Coal Shale              5.6      21   1.20
+     2,910     2,645Barail Arenaceous              6.7      31   1.25
+     2,960     2,683Barail Arenaceous              7.6      31   1.25
+     3,010     2,721Barail Arenaceous              6.9      29   1.25
+           >> Partial mud losses of 11.5 m3/hr observed at 3,010 m MD (2,721 m TVD) while drilling Barail Arenaceous.
+     3,060     2,760Barail Arenaceous              7.5      34   1.25
+     3,110     2,798Barail Arenaceous              6.6      34   1.25
+     3,160     2,836Barail Arenaceous              6.0      27   1.25
+     3,210     2,874Barail Arenaceous              4.7      32   1.25
+           >> Differential sticking at 3,210 m MD across the Barail Arenaceous; maximum overpull 46.0 t.
+     3,260     2,912Barail Arenaceous              6.1      29   1.25
+     3,310     2,951Barail Arenaceous              6.4      31   1.25
+     3,360     2,989Barail Arenaceous              6.2      33   1.25
+
+LITHOLOGICAL DESCRIPTION
+------------------------------------------------------------------------------
+15 m MD - Dihing
+    Unconsolidated pebbly sandstone, clay and gravel.
+36 m MD - Namsang
+    Medium to coarse sandstone with clay interbeds.
+371 m MD - Girujan Clay
+    Mottled clay with thin siltstone and sandstone bands.
+835 m MD - Tipam Sandstone
+    Massive ferruginous sandstone with clay partings.
+2,124 m MD - Barail Coal Shale
+    Carbonaceous shale with coal seams and thin sandstone.
+2,901 m MD - Barail Arenaceous
+    Fine to medium sandstone with shale interbeds - principal pay.

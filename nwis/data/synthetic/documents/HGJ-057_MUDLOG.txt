@@ -1,0 +1,76 @@
+[PAGE 1]
+OIL INDIA LIMITED - MUD LOG / LITHOLOGY LOG
+Well: Hugrijan-57 (HGJ-057)    Field: Hugrijan
+Mud System: Low-solids non-dispersed WBM
+==============================================================================
+
+    MD (m)   TVD (m)Formation                      ROP     Gas     MW
+                                                (m/hr) (units)   (sg)
+------------------------------------------------------------------------------
+        10        10Dihing                        28.9       2   1.08
+        60        60Dihing                        23.3       2   1.08
+       110       110Dihing                        26.4       0   1.08
+           >> Hole washout logged at 110 m MD in Dihing; caliper 38.0 percent over gauge.
+       160       160Dihing                        40.2       2   1.08
+       210       210Namsang                       34.5       1   1.09
+       260       260Namsang                       27.4       4   1.09
+       310       310Namsang                       30.2       4   1.09
+       360       360Namsang                       21.9       3   1.09
+       410       410Namsang                       27.4       2   1.09
+       460       460Namsang                       27.9       0   1.09
+           >> Seepage losses (4.4 m3/hr) noted at 460 m MD in the Namsang.
+       510       510Namsang                       22.5       3   1.09
+       560       560Namsang                       23.8       3   1.09
+       610       610Namsang                       28.1       4   1.09
+       660       659Girujan Clay                  25.3       4   1.12
+       710       708Girujan Clay                  22.2       3   1.12
+       760       756Girujan Clay                  19.2       4   1.12
+       810       803Girujan Clay                  18.8       3   1.12
+       860       850Girujan Clay                  16.1       1   1.12
+       910       896Girujan Clay                  14.8       2   1.12
+       960       943Girujan Clay                  18.3       0   1.12
+     1,010       989Girujan Clay                  19.6       3   1.12
+     1,060     1,036Girujan Clay                  21.3       2   1.12
+     1,110     1,082Girujan Clay                  18.1       0   1.12
+     1,160     1,129Girujan Clay                  21.3       3   1.12
+           >> Bit balling suspected at 1,140 m MD in Girujan Clay; standpipe pressure rose by 19.2 ksc.
+     1,210     1,176Tipam Sandstone               13.2      31   1.08
+     1,260     1,222Tipam Sandstone               19.7      32   1.08
+           >> Top of cement logged at 229 m against a planned top of 0 m behind the 13-3/8in surface.
+     1,310     1,269Tipam Sandstone               10.1      27   1.08
+     1,360     1,315Tipam Sandstone                9.3      29   1.08
+     1,410     1,362Tipam Sandstone               12.8      29   1.08
+     1,460     1,408Tipam Sandstone               10.9      29   1.08
+     1,510     1,455Tipam Sandstone               12.4      31   1.08
+     1,560     1,501Tipam Sandstone                9.4      32   1.08
+     1,610     1,548Tipam Sandstone               11.3      32   1.08
+           >> Lost circulation encountered at 1,610 m MD in Tipam Sandstone. Loss rate recorded as 3.0 m3/hr.
+     1,660     1,594Tipam Sandstone                7.7      26   1.08
+     1,710     1,641Tipam Sandstone                9.8      31   1.08
+     1,760     1,688Tipam Sandstone                8.9      31   1.08
+     1,810     1,734Tipam Sandstone               11.6      30   1.08
+
+[PAGE 2]
+     1,860     1,781Tipam Sandstone                9.1      32   1.08
+           >> Hole washout logged at 1,830 m MD in Tipam Sandstone; caliper 16.9 percent over gauge.
+     1,910     1,827Tipam Sandstone                9.8      30   1.08
+     1,960     1,874Tipam Sandstone               10.0      31   1.08
+     2,010     1,920Tipam Sandstone                7.8      34   1.08
+     2,060     1,967Tipam Sandstone                7.0      34   1.08
+     2,110     2,014Tipam Sandstone                8.8      30   1.08
+     2,160     2,060Tipam Sandstone               11.2      32   1.08
+     2,210     2,107Tipam Sandstone                9.9      30   1.08
+     2,260     2,153Tipam Sandstone                6.9      29   1.08
+     2,310     2,200Tipam Sandstone               10.9      33   1.08
+     2,360     2,246Tipam Sandstone                8.9      28   1.08
+
+LITHOLOGICAL DESCRIPTION
+------------------------------------------------------------------------------
+24 m MD - Dihing
+    Unconsolidated pebbly sandstone, clay and gravel.
+196 m MD - Namsang
+    Medium to coarse sandstone with clay interbeds.
+636 m MD - Girujan Clay
+    Mottled clay with thin siltstone and sandstone bands.
+1,191 m MD - Tipam Sandstone
+    Massive ferruginous sandstone with clay partings.

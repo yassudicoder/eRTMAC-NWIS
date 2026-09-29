@@ -1,0 +1,76 @@
+[PAGE 1]
+OIL INDIA LIMITED - DAILY DRILLING REPORT
+Well: Naharkatiya-57 (NHK-057)    Field: Naharkatiya    Rig: OIL-RIG-21 (E-1400)
+==============================================================================
+
+DAY   1   DATE 04-06-2024   DEPTH 90.0 m MD
+  Progress        : 90.0 m
+  Present Formation: Dihing
+  Bit in use      : TCI 17-1/2in 517
+  Operations / Remarks:
+    - Hole washout logged at 80 m MD in Dihing; caliper 12.3 percent over gauge.
+      Noted for cement volume calculation; no remedial action taken.
+      NPT 7.0 hrs.
+
+DAY   2   DATE 05-06-2024   DEPTH 560.0 m MD
+  Progress        : 470.0 m
+  Present Formation: Girujan Clay
+  Bit in use      : TCI 17-1/2in 517
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   3   DATE 06-06-2024   DEPTH 890.0 m MD
+  Progress        : 330.0 m
+  Present Formation: Girujan Clay
+  Bit in use      : TCI 17-1/2in 517
+  Operations / Remarks:
+    - Hole pack-off tendency at 890 m MD in the Girujan Clay. Back-reamed 2 times.
+      Reamed and circulated the interval clean before continuing.
+      NPT 10.2 hrs.
+
+DAY   4   DATE 07-06-2024   DEPTH 1,060.0 m MD
+  Progress        : 170.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : TCI 17-1/2in 517
+  Operations / Remarks:
+    - Wellbore instability in Girujan Clay from 1,030 m MD. Excessive cavings (2.2 m3) over the shakers.
+      Mud weight raised to 1.18 sg and inhibition increased; hole condition improved.
+      NPT 5.7 hrs.
+
+DAY   5   DATE 08-06-2024   DEPTH 1,130.0 m MD
+  Progress        : 70.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : TCI 17-1/2in 517
+  Operations / Remarks:
+    - Hole washout logged at 1,070 m MD in Tipam Sandstone; caliper 48.2 percent over gauge.
+      Noted for cement volume calculation; no remedial action taken.
+      NPT 2.1 hrs.
+    - CBL indicated top of cement at 90 m behind the 13-3/8in surface, 90 m below the planned top of 0 m.
+      Accepted after review; previous shoe covered by the subsequent string.
+      NPT 19.2 hrs.
+
+DAY   6   DATE 09-06-2024   DEPTH 1,420.0 m MD
+  Progress        : 290.0 m
+
+[PAGE 2]
+  Present Formation: Tipam Sandstone
+  Bit in use      : TCI 17-1/2in 517
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   7   DATE 10-06-2024   DEPTH 1,610.0 m MD
+  Progress        : 190.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : TCI 17-1/2in 517
+  Operations / Remarks:
+    - Lost circulation encountered at 1,500 m MD in Tipam Sandstone. Loss rate recorded as 14.3 m3/hr.
+      LCM pill of 29 bbl (medium nut plug and mica) pumped; losses reduced.
+      NPT 7.4 hrs.
+
+DAY   8   DATE 11-06-2024   DEPTH 1,704.0 m MD
+  Progress        : 94.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : TCI 17-1/2in 517
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+

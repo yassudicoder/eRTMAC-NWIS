@@ -1,0 +1,193 @@
+[PAGE 1]
+OIL INDIA LIMITED - DAILY DRILLING REPORT
+Well: Shalmari-67 (SLM-067)    Field: Shalmari    Rig: OIL-RIG-21 (E-1400)
+==============================================================================
+
+DAY   1   DATE 23-04-2025   DEPTH 100.0 m MD
+  Progress        : 100.0 m
+  Present Formation: Namsang
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Lost circulation encountered at 30 m MD in Dihing. Loss rate recorded as 3.1 m3/hr.
+      Cement plug placed across the loss zone and drilled out after 2.4 hrs WOC.
+      NPT 4.6 hrs.
+
+DAY   2   DATE 24-04-2025   DEPTH 470.0 m MD
+  Progress        : 370.0 m
+  Present Formation: Girujan Clay
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   3   DATE 25-04-2025   DEPTH 770.0 m MD
+  Progress        : 300.0 m
+  Present Formation: Girujan Clay
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   4   DATE 26-04-2025   DEPTH 800.0 m MD
+  Progress        : 30.0 m
+  Present Formation: Girujan Clay
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Hole instability and sloughing from 800 m to 829 m MD in Girujan Clay.
+      Circulated hi-vis sweeps and back-reamed the interval before continuing.
+      NPT 26.0 hrs.
+
+DAY   5   DATE 27-04-2025   DEPTH 840.0 m MD
+  Progress        : 40.0 m
+  Present Formation: Girujan Clay
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Tight hole experienced at 840 m MD in Girujan Clay; 3 reaming passes required.
+      Worked the string over the tight interval and raised mud weight to 1.16 sg.
+      NPT 21.9 hrs.
+
+DAY   6   DATE 28-04-2025   DEPTH 1,000.0 m MD
+  Progress        : 160.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Cement bond log across the 13-3/8in surface showed poor bonding, bond index 0.426.
+      Remedial squeeze carried out and the bond log re-run; bond improved to fair.
+
+[PAGE 2]
+      NPT 16.3 hrs.
+
+DAY   7   DATE 29-04-2025   DEPTH 1,040.0 m MD
+  Progress        : 40.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   8   DATE 30-04-2025   DEPTH 1,270.0 m MD
+  Progress        : 230.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   9   DATE 01-05-2025   DEPTH 1,480.0 m MD
+  Progress        : 210.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  10   DATE 02-05-2025   DEPTH 1,690.0 m MD
+  Progress        : 210.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  11   DATE 03-05-2025   DEPTH 1,880.0 m MD
+  Progress        : 190.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  12   DATE 04-05-2025   DEPTH 1,930.0 m MD
+  Progress        : 50.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  13   DATE 05-05-2025   DEPTH 1,930.0 m MD
+  Progress        : 0.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  14   DATE 06-05-2025   DEPTH 2,070.0 m MD
+
+[PAGE 3]
+  Progress        : 140.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  15   DATE 07-05-2025   DEPTH 2,250.0 m MD
+  Progress        : 180.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  16   DATE 08-05-2025   DEPTH 2,400.0 m MD
+  Progress        : 150.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  17   DATE 09-05-2025   DEPTH 2,510.0 m MD
+  Progress        : 110.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Cavings observed at shakers while drilling Barail Coal Shale at 2,430 m MD; approximately 7.3 m3 recovered.
+      Mud weight raised to 1.27 sg and inhibition increased; hole condition improved.
+      NPT 6.4 hrs.
+
+DAY  18   DATE 10-05-2025   DEPTH 2,650.0 m MD
+  Progress        : 140.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  19   DATE 11-05-2025   DEPTH 2,760.0 m MD
+  Progress        : 110.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - CBL/VDL run on the 9-5/8in intermediate indicated poor to fair bond, bond index 0.26.
+      Remedial squeeze carried out and the bond log re-run; bond improved to fair.
+      NPT 23.0 hrs.
+
+DAY  20   DATE 12-05-2025   DEPTH 2,840.0 m MD
+  Progress        : 80.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+
+[PAGE 4]
+DAY  21   DATE 13-05-2025   DEPTH 2,980.0 m MD
+  Progress        : 140.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  22   DATE 14-05-2025   DEPTH 3,060.0 m MD
+  Progress        : 80.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - String became stuck at 3,020 m MD (2,887 m TVD) in Barail Arenaceous. Overpull of 12.1 t recorded.
+      Back-off performed and fishing assembly run; fish recovered after 5.5 hrs.
+      NPT 8.0 hrs.
+
+DAY  23   DATE 15-05-2025   DEPTH 3,180.0 m MD
+  Progress        : 120.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  24   DATE 16-05-2025   DEPTH 3,189.7 m MD
+  Progress        : 9.7 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+

@@ -1,0 +1,62 @@
+[PAGE 1]
+OIL INDIA LIMITED - MUD LOG / LITHOLOGY LOG
+Well: Duliajan-49 (DLJ-049)    Field: Duliajan
+Mud System: Low-solids non-dispersed WBM
+==============================================================================
+
+    MD (m)   TVD (m)Formation                      ROP     Gas     MW
+                                                (m/hr) (units)   (sg)
+------------------------------------------------------------------------------
+        10        10Dihing                        25.2       4   1.08
+        60        60Dihing                        24.3       4   1.08
+       110       110Dihing                        13.9       2   1.08
+       160       160Dihing                        11.3       6   1.08
+           >> While drilling Dihing at 160 m MD, returns reduced and losses of 3.0 m3/hr were measured.
+       210       210Dihing                        13.5       0   1.08
+       260       260Namsang                       13.0       1   1.09
+       310       310Namsang                       14.9       5   1.09
+       360       360Namsang                       14.6       3   1.09
+       410       410Namsang                        9.6       0   1.09
+       460       460Namsang                       13.7       2   1.09
+       510       510Namsang                       11.1       0   1.09
+       560       560Namsang                        9.3       3   1.09
+       610       610Namsang                       11.8       1   1.09
+       660       660Namsang                        9.4       0   1.09
+       710       710Girujan Clay                   9.3       0   1.12
+       760       760Girujan Clay                  11.4       4   1.12
+       810       810Girujan Clay                   9.3       6   1.12
+       860       860Girujan Clay                   7.4       2   1.12
+       910       910Girujan Clay                   8.4       3   1.12
+       960       960Girujan Clay                   8.3       3   1.12
+     1,010     1,010Girujan Clay                   6.5       4   1.12
+     1,060     1,060Girujan Clay                   7.5       2   1.12
+     1,110     1,110Girujan Clay                   9.1       3   1.12
+     1,160     1,160Girujan Clay                   6.5       2   1.12
+     1,210     1,210Tipam Sandstone                6.0      33   1.08
+     1,260     1,260Tipam Sandstone                8.6      33   1.08
+     1,310     1,310Tipam Sandstone               18.9      28   1.08
+           >> CBL/VDL run on the 13-3/8in surface indicated poor to fair bond, bond index 0.327.
+     1,360     1,360Tipam Sandstone               16.7      30   1.08
+     1,410     1,410Tipam Sandstone               17.7      28   1.08
+     1,460     1,460Tipam Sandstone               15.6      26   1.08
+           >> String became stuck at 1,460 m MD (1,460 m TVD) in Tipam Sandstone. Overpull of 12.3 t recorded.
+     1,510     1,510Tipam Sandstone               13.2      30   1.08
+     1,560     1,560Tipam Sandstone               12.4      32   1.08
+     1,610     1,610Tipam Sandstone               15.2      30   1.08
+     1,660     1,660Tipam Sandstone               11.6      28   1.08
+     1,710     1,710Tipam Sandstone               13.8      31   1.08
+     1,760     1,760Tipam Sandstone               14.8      29   1.08
+     1,810     1,810Tipam Sandstone               16.3      32   1.08
+
+LITHOLOGICAL DESCRIPTION
+
+[PAGE 2]
+------------------------------------------------------------------------------
+11 m MD - Dihing
+    Unconsolidated pebbly sandstone, clay and gravel.
+213 m MD - Namsang
+    Medium to coarse sandstone with clay interbeds.
+667 m MD - Girujan Clay
+    Mottled clay with thin siltstone and sandstone bands.
+1,178 m MD - Tipam Sandstone
+    Massive ferruginous sandstone with clay partings.

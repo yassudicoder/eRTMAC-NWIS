@@ -1,0 +1,296 @@
+[PAGE 1]
+OIL INDIA LIMITED - DAILY DRILLING REPORT
+Well: Dikom-20 (DKM-020)    Field: Dikom    Rig: OIL-RIG-12 (E-2000)
+==============================================================================
+
+DAY   1   DATE 01-01-2017   DEPTH 80.0 m MD
+  Progress        : 80.0 m
+  Present Formation: Namsang
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Hole washout logged at 30 m MD in Namsang; caliper 25.8 percent over gauge.
+      Noted for cement volume calculation; no remedial action taken.
+      NPT 6.4 hrs.
+
+DAY   2   DATE 02-01-2017   DEPTH 360.0 m MD
+  Progress        : 280.0 m
+  Present Formation: Girujan Clay
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   3   DATE 03-01-2017   DEPTH 590.0 m MD
+  Progress        : 230.0 m
+  Present Formation: Girujan Clay
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Bit and BHA balling up in the Girujan Clay at 390 m MD, SPP increase of 10.8 ksc.
+      Raised flow rate and added detergent to the system.
+      NPT 5.0 hrs.
+
+DAY   4   DATE 04-01-2017   DEPTH 690.0 m MD
+  Progress        : 100.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   5   DATE 05-01-2017   DEPTH 1,050.0 m MD
+  Progress        : 360.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   6   DATE 06-01-2017   DEPTH 1,360.0 m MD
+  Progress        : 310.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Hole washout logged at 1,360 m MD in Tipam Sandstone; caliper 18.0 percent over gauge.
+      Noted for cement volume calculation; no remedial action taken.
+      NPT 7.8 hrs.
+
+
+[PAGE 2]
+DAY   7   DATE 07-01-2017   DEPTH 1,600.0 m MD
+  Progress        : 240.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   8   DATE 08-01-2017   DEPTH 1,880.0 m MD
+  Progress        : 280.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   9   DATE 09-01-2017   DEPTH 2,130.0 m MD
+  Progress        : 250.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  10   DATE 10-01-2017   DEPTH 2,240.0 m MD
+  Progress        : 110.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - CBL/VDL run on the 9-5/8in intermediate indicated poor to fair bond, bond index 0.325.
+      Accepted after pressure testing the shoe; monitored for annular pressure.
+      NPT 10.2 hrs.
+
+DAY  11   DATE 11-01-2017   DEPTH 2,430.0 m MD
+  Progress        : 190.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  12   DATE 12-01-2017   DEPTH 2,570.0 m MD
+  Progress        : 140.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  13   DATE 13-01-2017   DEPTH 2,570.0 m MD
+  Progress        : 0.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  14   DATE 14-01-2017   DEPTH 2,570.0 m MD
+
+[PAGE 3]
+  Progress        : 0.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  15   DATE 15-01-2017   DEPTH 2,740.0 m MD
+  Progress        : 170.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  16   DATE 16-01-2017   DEPTH 2,890.0 m MD
+  Progress        : 150.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Cement bond log across the 7in liner showed poor bonding, bond index 0.07.
+      Accepted after pressure testing the shoe; monitored for annular pressure.
+      NPT 38.8 hrs.
+    - Primary cement job on the 7in liner failed acceptance; remedial squeeze carried out at 2,882 m MD.
+      Second squeeze required before an acceptable test was obtained.
+      NPT 45.3 hrs.
+
+DAY  17   DATE 17-01-2017   DEPTH 2,970.0 m MD
+  Progress        : 80.0 m
+  Present Formation: Kopili Shale
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  18   DATE 18-01-2017   DEPTH 3,090.0 m MD
+  Progress        : 120.0 m
+  Present Formation: Kopili Shale
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  19   DATE 19-01-2017   DEPTH 3,210.0 m MD
+  Progress        : 120.0 m
+  Present Formation: Kopili Shale
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - High torque and drag from 3,210 m MD in Kopili Shale; peak torque 22.9 kNm.
+      Circulated sweeps to clean the hole; torque returned to normal.
+      NPT 7.4 hrs.
+
+DAY  20   DATE 20-01-2017   DEPTH 3,290.0 m MD
+  Progress        : 80.0 m
+  Present Formation: Kopili Shale
+  Bit in use      : PDC 12-1/4in M323
+
+[PAGE 4]
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  21   DATE 21-01-2017   DEPTH 3,410.0 m MD
+  Progress        : 120.0 m
+  Present Formation: Kopili Shale
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  22   DATE 22-01-2017   DEPTH 3,520.0 m MD
+  Progress        : 110.0 m
+  Present Formation: Kopili Shale
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  23   DATE 23-01-2017   DEPTH 3,640.0 m MD
+  Progress        : 120.0 m
+  Present Formation: Kopili Shale
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  24   DATE 24-01-2017   DEPTH 3,700.0 m MD
+  Progress        : 60.0 m
+  Present Formation: Kopili Shale
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  25   DATE 25-01-2017   DEPTH 3,700.0 m MD
+  Progress        : 0.0 m
+  Present Formation: Kopili Shale
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  26   DATE 26-01-2017   DEPTH 3,700.0 m MD
+  Progress        : 0.0 m
+  Present Formation: Kopili Shale
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  27   DATE 27-01-2017   DEPTH 3,700.0 m MD
+  Progress        : 0.0 m
+  Present Formation: Kopili Shale
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+
+[PAGE 5]
+DAY  28   DATE 28-01-2017   DEPTH 3,720.0 m MD
+  Progress        : 20.0 m
+  Present Formation: Kopili Shale
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  29   DATE 29-01-2017   DEPTH 3,830.0 m MD
+  Progress        : 110.0 m
+  Present Formation: Kopili Shale
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  30   DATE 30-01-2017   DEPTH 3,940.0 m MD
+  Progress        : 110.0 m
+  Present Formation: Kopili Shale
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  31   DATE 31-01-2017   DEPTH 4,040.0 m MD
+  Progress        : 100.0 m
+  Present Formation: Kopili Shale
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  32   DATE 01-02-2017   DEPTH 4,040.0 m MD
+  Progress        : 0.0 m
+  Present Formation: Kopili Shale
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  33   DATE 02-02-2017   DEPTH 4,040.0 m MD
+  Progress        : 0.0 m
+  Present Formation: Kopili Shale
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  34   DATE 03-02-2017   DEPTH 4,140.0 m MD
+  Progress        : 100.0 m
+  Present Formation: Kopili Shale
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  35   DATE 04-02-2017   DEPTH 4,260.0 m MD
+  Progress        : 120.0 m
+  Present Formation: Kopili Shale
+
+[PAGE 6]
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  36   DATE 05-02-2017   DEPTH 4,370.0 m MD
+  Progress        : 110.0 m
+  Present Formation: Kopili Shale
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  37   DATE 06-02-2017   DEPTH 4,490.0 m MD
+  Progress        : 120.0 m
+  Present Formation: Kopili Shale
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  38   DATE 07-02-2017   DEPTH 4,510.1 m MD
+  Progress        : 20.1 m
+  Present Formation: Kopili Shale
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+

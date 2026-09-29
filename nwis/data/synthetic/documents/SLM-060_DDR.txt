@@ -1,0 +1,337 @@
+[PAGE 1]
+OIL INDIA LIMITED - DAILY DRILLING REPORT
+Well: Shalmari-60 (SLM-060)    Field: Shalmari    Rig: OIL-RIG-17 (NOV ideal)
+==============================================================================
+
+DAY   1   DATE 22-04-2015   DEPTH 250.0 m MD
+  Progress        : 250.0 m
+  Present Formation: Namsang
+  Bit in use      : TCI 17-1/2in 517
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   2   DATE 23-04-2015   DEPTH 600.0 m MD
+  Progress        : 350.0 m
+  Present Formation: Girujan Clay
+  Bit in use      : TCI 17-1/2in 517
+  Operations / Remarks:
+    - Bit and BHA balling up in the Girujan Clay at 540 m MD, SPP increase of 30.8 ksc.
+      Raised flow rate and added detergent to the system.
+      NPT 5.2 hrs.
+
+DAY   3   DATE 24-04-2015   DEPTH 910.0 m MD
+  Progress        : 310.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : TCI 17-1/2in 517
+  Operations / Remarks:
+    - Cavings observed at shakers while drilling Girujan Clay at 880 m MD; approximately 1.8 m3 recovered.
+      Mud weight raised to 1.22 sg and inhibition increased; hole condition improved.
+      NPT 4.3 hrs.
+
+DAY   4   DATE 25-04-2015   DEPTH 940.0 m MD
+  Progress        : 30.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Cement bond log across the 13-3/8in surface showed poor bonding, bond index 0.27.
+      Accepted after pressure testing the shoe; monitored for annular pressure.
+      NPT 49.8 hrs.
+
+DAY   5   DATE 26-04-2015   DEPTH 1,200.0 m MD
+  Progress        : 260.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   6   DATE 27-04-2015   DEPTH 1,440.0 m MD
+  Progress        : 240.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+
+[PAGE 2]
+DAY   7   DATE 28-04-2015   DEPTH 1,660.0 m MD
+  Progress        : 220.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   8   DATE 29-04-2015   DEPTH 1,870.0 m MD
+  Progress        : 210.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   9   DATE 30-04-2015   DEPTH 1,930.0 m MD
+  Progress        : 60.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - String became stuck at 1,930 m MD (1,930 m TVD) in Tipam Sandstone. Overpull of 25.0 t recorded.
+      Jarring continued for 15.9 hrs before the string came free.
+      NPT 21.6 hrs.
+
+DAY  10   DATE 01-05-2015   DEPTH 2,080.0 m MD
+  Progress        : 150.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  11   DATE 02-05-2015   DEPTH 2,250.0 m MD
+  Progress        : 170.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  12   DATE 03-05-2015   DEPTH 2,290.0 m MD
+  Progress        : 40.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  13   DATE 04-05-2015   DEPTH 2,290.0 m MD
+  Progress        : 0.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  14   DATE 05-05-2015   DEPTH 2,290.0 m MD
+
+[PAGE 3]
+  Progress        : 0.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  15   DATE 06-05-2015   DEPTH 2,290.0 m MD
+  Progress        : 0.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  16   DATE 07-05-2015   DEPTH 2,360.0 m MD
+  Progress        : 70.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  17   DATE 08-05-2015   DEPTH 2,530.0 m MD
+  Progress        : 170.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  18   DATE 09-05-2015   DEPTH 2,650.0 m MD
+  Progress        : 120.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Cement bond log across the 9-5/8in intermediate showed poor bonding, bond index 0.202.
+      Accepted after pressure testing the shoe; monitored for annular pressure.
+      NPT 51.4 hrs.
+
+DAY  19   DATE 10-05-2015   DEPTH 2,710.0 m MD
+  Progress        : 60.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  20   DATE 11-05-2015   DEPTH 2,840.0 m MD
+  Progress        : 130.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  21   DATE 12-05-2015   DEPTH 2,970.0 m MD
+  Progress        : 130.0 m
+
+[PAGE 4]
+  Present Formation: Barail Arenaceous
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  22   DATE 13-05-2015   DEPTH 3,090.0 m MD
+  Progress        : 120.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  23   DATE 14-05-2015   DEPTH 3,200.0 m MD
+  Progress        : 110.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  24   DATE 15-05-2015   DEPTH 3,320.0 m MD
+  Progress        : 120.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  25   DATE 16-05-2015   DEPTH 3,350.0 m MD
+  Progress        : 30.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Gas migration through the setting cement behind the 7in liner at 3,341 m MD.
+      Squeeze performed and sustained casing pressure resolved.
+      NPT 45.3 hrs.
+    - CBL/VDL run on the 7in liner indicated poor to fair bond, bond index 0.184.
+      Accepted after pressure testing the shoe; monitored for annular pressure.
+      NPT 29.8 hrs.
+
+DAY  26   DATE 17-05-2015   DEPTH 3,430.0 m MD
+  Progress        : 80.0 m
+  Present Formation: Kopili Shale
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  27   DATE 18-05-2015   DEPTH 3,510.0 m MD
+  Progress        : 80.0 m
+  Present Formation: Kopili Shale
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Torque increased sharply at 3,510 m MD while drilling Kopili Shale, peaking at 14.0 kNm.
+      Circulated sweeps to clean the hole; torque returned to normal.
+
+[PAGE 5]
+      NPT 18.5 hrs.
+
+DAY  28   DATE 19-05-2015   DEPTH 3,560.0 m MD
+  Progress        : 50.0 m
+  Present Formation: Kopili Shale
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  29   DATE 20-05-2015   DEPTH 3,660.0 m MD
+  Progress        : 100.0 m
+  Present Formation: Kopili Shale
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  30   DATE 21-05-2015   DEPTH 3,760.0 m MD
+  Progress        : 100.0 m
+  Present Formation: Kopili Shale
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  31   DATE 22-05-2015   DEPTH 3,870.0 m MD
+  Progress        : 110.0 m
+  Present Formation: Kopili Shale
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  32   DATE 23-05-2015   DEPTH 3,970.0 m MD
+  Progress        : 100.0 m
+  Present Formation: Kopili Shale
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  33   DATE 24-05-2015   DEPTH 4,070.0 m MD
+  Progress        : 100.0 m
+  Present Formation: Kopili Shale
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  34   DATE 25-05-2015   DEPTH 4,140.0 m MD
+  Progress        : 70.0 m
+  Present Formation: Kopili Shale
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  35   DATE 26-05-2015   DEPTH 4,140.0 m MD
+
+[PAGE 6]
+  Progress        : 0.0 m
+  Present Formation: Kopili Shale
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  36   DATE 27-05-2015   DEPTH 4,140.0 m MD
+  Progress        : 0.0 m
+  Present Formation: Kopili Shale
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  37   DATE 28-05-2015   DEPTH 4,240.0 m MD
+  Progress        : 100.0 m
+  Present Formation: Kopili Shale
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  38   DATE 29-05-2015   DEPTH 4,310.0 m MD
+  Progress        : 70.0 m
+  Present Formation: Kopili Shale
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Hole instability and sloughing from 4,310 m to 4,357 m MD in Kopili Shale.
+      Circulated hi-vis sweeps and back-reamed the interval before continuing.
+      NPT 18.5 hrs.
+
+DAY  39   DATE 30-05-2015   DEPTH 4,370.0 m MD
+  Progress        : 60.0 m
+  Present Formation: Kopili Shale
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  40   DATE 31-05-2015   DEPTH 4,470.0 m MD
+  Progress        : 100.0 m
+  Present Formation: Kopili Shale
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  41   DATE 01-06-2015   DEPTH 4,570.0 m MD
+  Progress        : 100.0 m
+  Present Formation: Kopili Shale
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  42   DATE 02-06-2015   DEPTH 4,670.0 m MD
+  Progress        : 100.0 m
+
+[PAGE 7]
+  Present Formation: Kopili Shale
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  43   DATE 03-06-2015   DEPTH 4,736.4 m MD
+  Progress        : 66.4 m
+  Present Formation: Kopili Shale
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+

@@ -1,0 +1,130 @@
+[PAGE 1]
+OIL INDIA LIMITED
+DRILLING DEPARTMENT, DULIAJAN, ASSAM
+
+WELL COMPLETION REPORT
+========================================================================
+
+1. WELL IDENTIFICATION
+------------------------------------------------------------------------
+Well Number            : Makum-73
+Well Code              : MKM-073
+Field / Structure      : Makum
+Category               : Development
+Well Profile           : Vertical
+Surface Coordinates    : 27.54476 N, 95.46887 E
+Bottom Hole Coordinates: 27.54476 N, 95.46887 E
+Ground Level           : 140.5 m above MSL
+Rig                    : OIL-RIG-25 (ZJ-70)
+Date Spudded           : 14-01-2024
+Date Completed         : 28-01-2024
+Total Depth (MD)       : 1,552.6 m
+Total Depth (TVD)      : 1,552.6 m
+Target Formation       : Tipam Sandstone
+Total Days Drilled     : 8
+Total NPT              : 70.8 hrs
+
+2. CASING AND HOLE PROGRAMME
+------------------------------------------------------------------------
+Hole Size   Casing                     Shoe MD (m)  Shoe TVD (m)   TOC (m)
+26in        20in conductor                    73.6          73.6         0
+17-1/2in    13-3/8in surface               1,106.0       1,106.0         0
+
+Mud System             : Low-solids non-dispersed WBM
+
+2A. CEMENTING RECORD
+------------------------------------------------------------------------
+Casing                     Shoe MD  Planned TOC  Actual TOC   Slurry  Returns   Bond
+                               (m)          (m)         (m)     (m3)           index
+13-3/8in surface             1,106            0           3     65.0     full   0.26
+
+Cement bond log across the 13-3/8in surface indicated poor to fair bond (bond index 0.26).
+
+3. GEOLOGICAL SUMMARY - FORMATION TOPS
+------------------------------------------------------------------------
+Formation                    Top MD (m)   Top TVD (m)   Lithology
+Dihing                             17.1          17.1   Unconsolidated pebbly sandstone, clay and gravel
+Namsang                           116.1         116.1   Medium to coarse sandstone with clay interbeds
+
+[PAGE 2]
+Girujan Clay                      534.2         534.2   Mottled clay with thin siltstone and sandstone bands
+Tipam Sandstone                 1,048.8       1,048.8   Massive ferruginous sandstone with clay partings
+
+The well encountered the normal Upper Assam section. Formation tops were
+picked on the basis of cuttings examination and wireline log correlation
+with the neighbouring wells of the structure.
+
+3A. RESERVOIR SUMMARY
+------------------------------------------------------------------------
+Formation             Fluid            Gross  Net Pay   Poro     Perm     Sw   Press
+                                         (m)      (m)    (%)     (mD)    (%)    (sg)
+Tipam Sandstone       oil              169.3    119.5   24.3  1,428.2   28.0    0.88
+
+Tipam Sandstone: net pay 119.5 m, average porosity 24.3 percent, permeability 1,428 mD, water saturation 28.0 percent.
+    Reservoir pressure has declined from a virgin 1.02 sg to 0.88 sg equivalent, a depletion of 0.14 sg. Differential sticking risk across this interval is correspondingly elevated.
+    Formation temperature at top of interval: 57 deg C.
+
+4. DRILLING PARAMETERS BY SECTION
+------------------------------------------------------------------------
+Formation                    Avg ROP   Avg WOB   Avg RPM    Mud Wt
+                              (m/hr)       (t)                (sg)
+Dihing                         20.98       9.4        80      1.08
+Namsang                        25.51      10.5        86      1.09
+Girujan Clay                   18.21      13.0        84      1.12
+Tipam Sandstone                 8.28      14.0        81      1.08
+
+5. DRILLING PROBLEMS AND REMEDIAL MEASURES
+------------------------------------------------------------------------
+5.1  Dihing - 15-01-2024
+     Hole washout logged at 110 m MD in Dihing; caliper 40.2 percent over gauge.
+     Noted for cement volume calculation; no remedial action taken.
+     Non-productive time attributable to this event: 4.3 hrs.
+
+5.2  Namsang - 15-01-2024
+     Hole washout logged at 440 m MD in Namsang; caliper 38.8 percent over gauge.
+     Noted for cement volume calculation; no remedial action taken.
+     Non-productive time attributable to this event: 2.8 hrs.
+
+5.3  Girujan Clay - 16-01-2024
+     Hole pack-off tendency at 640 m MD in the Girujan Clay. Back-reamed 6 times.
+     Reamed and circulated the interval clean before continuing.
+     Non-productive time attributable to this event: 6.4 hrs.
+
+5.4  Tipam Sandstone - 19-01-2024
+     Bond log showed channelling behind the 13-3/8in surface, casing poorly centralised.
+     Squeeze performed across the channelled interval.
+
+[PAGE 3]
+     Non-productive time attributable to this event: 18.3 hrs.
+
+5.5  Tipam Sandstone - 19-01-2024
+     Cement bond log across the 13-3/8in surface showed poor bonding, bond index 0.256.
+     Accepted after pressure testing the shoe; monitored for annular pressure.
+     Non-productive time attributable to this event: 36.5 hrs.
+
+5.6  Tipam Sandstone - 21-01-2024
+     Hole washout logged at 1,540 m MD in Tipam Sandstone; caliper 39.4 percent over gauge.
+     Noted for cement volume calculation; no remedial action taken.
+     Non-productive time attributable to this event: 2.5 hrs.
+
+
+6. LESSONS LEARNT AND RECOMMENDATIONS FOR FUTURE WELLS
+------------------------------------------------------------------------
+- Tipam Sandstone - cementing problem: bond log showed poor to fair bonding across the interval, risking annular communication.
+  Future wells on this structure should plan for this around
+  1,106 m MD.
+- Girujan Clay - tight hole: plastic clay creeping and closing the hole.
+  Future wells on this structure should plan for this around
+  640 m MD.
+- Tipam Sandstone - cementing problem: washed-out hole left the casing poorly centralised, so the slurry channelled up one side of the annulus.
+  Future wells on this structure should plan for this around
+  1,106 m MD.
+- Dihing - hole washout: unconsolidated gravel eroded by high flow rate.
+  Future wells on this structure should plan for this around
+  110 m MD.
+- Namsang - hole washout: poorly consolidated sand.
+  Future wells on this structure should plan for this around
+  440 m MD.
+
+Prepared by  : Drilling Engineering Group, OIL, Duliajan
+Reviewed by  : Head - Drilling Services

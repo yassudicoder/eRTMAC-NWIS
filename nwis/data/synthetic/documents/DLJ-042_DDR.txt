@@ -1,0 +1,427 @@
+[PAGE 1]
+OIL INDIA LIMITED - DAILY DRILLING REPORT
+Well: Duliajan-42 (DLJ-042)    Field: Duliajan    Rig: OIL-RIG-21 (E-1400)
+==============================================================================
+
+DAY   1   DATE 09-03-2018   DEPTH 210.0 m MD
+  Progress        : 210.0 m
+  Present Formation: Namsang
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Hole washout logged at 210 m MD in Namsang; caliper 47.1 percent over gauge.
+      Reduced flow rate through the interval.
+      NPT 5.2 hrs.
+
+DAY   2   DATE 10-03-2018   DEPTH 520.0 m MD
+  Progress        : 310.0 m
+  Present Formation: Namsang
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   3   DATE 11-03-2018   DEPTH 800.0 m MD
+  Progress        : 280.0 m
+  Present Formation: Girujan Clay
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   4   DATE 12-03-2018   DEPTH 920.0 m MD
+  Progress        : 120.0 m
+  Present Formation: Girujan Clay
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Hole pack-off tendency at 920 m MD in the Girujan Clay. Back-reamed 6 times.
+      Worked the string over the tight interval and raised mud weight to 1.21 sg.
+      NPT 19.9 hrs.
+
+DAY   5   DATE 13-03-2018   DEPTH 1,100.0 m MD
+  Progress        : 180.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   6   DATE 14-03-2018   DEPTH 1,150.0 m MD
+  Progress        : 50.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   7   DATE 15-03-2018   DEPTH 1,370.0 m MD
+  Progress        : 220.0 m
+
+[PAGE 2]
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   8   DATE 16-03-2018   DEPTH 1,570.0 m MD
+  Progress        : 200.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   9   DATE 17-03-2018   DEPTH 1,780.0 m MD
+  Progress        : 210.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  10   DATE 18-03-2018   DEPTH 1,960.0 m MD
+  Progress        : 180.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  11   DATE 19-03-2018   DEPTH 2,150.0 m MD
+  Progress        : 190.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  12   DATE 20-03-2018   DEPTH 2,320.0 m MD
+  Progress        : 170.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  13   DATE 21-03-2018   DEPTH 2,480.0 m MD
+  Progress        : 160.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Differential sticking at 2,480 m MD across the Tipam Sandstone; maximum overpull 28.6 t.
+      Back-off performed and fishing assembly run; fish recovered after 6.8 hrs.
+      NPT 15.0 hrs.
+
+DAY  14   DATE 22-03-2018   DEPTH 2,550.0 m MD
+  Progress        : 70.0 m
+  Present Formation: Tipam Sandstone
+
+[PAGE 3]
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  15   DATE 23-03-2018   DEPTH 2,700.0 m MD
+  Progress        : 150.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  16   DATE 24-03-2018   DEPTH 2,840.0 m MD
+  Progress        : 140.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  17   DATE 25-03-2018   DEPTH 2,980.0 m MD
+  Progress        : 140.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  18   DATE 26-03-2018   DEPTH 3,110.0 m MD
+  Progress        : 130.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  19   DATE 27-03-2018   DEPTH 3,200.0 m MD
+  Progress        : 90.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Cement bond log across the 9-5/8in intermediate showed poor bonding, bond index 0.443.
+      Remedial squeeze carried out and the bond log re-run; bond improved to fair.
+      NPT 21.8 hrs.
+
+DAY  20   DATE 28-03-2018   DEPTH 3,270.0 m MD
+  Progress        : 70.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  21   DATE 29-03-2018   DEPTH 3,330.0 m MD
+  Progress        : 60.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : PDC 8-1/2in M433
+
+[PAGE 4]
+  Operations / Remarks:
+    - Differential sticking at 3,290 m MD across the Barail Arenaceous; maximum overpull 23.8 t.
+      Jarring continued for 7.8 hrs before the string came free.
+      NPT 10.9 hrs.
+
+DAY  22   DATE 30-03-2018   DEPTH 3,440.0 m MD
+  Progress        : 110.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  23   DATE 31-03-2018   DEPTH 3,560.0 m MD
+  Progress        : 120.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  24   DATE 01-04-2018   DEPTH 3,680.0 m MD
+  Progress        : 120.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  25   DATE 02-04-2018   DEPTH 3,790.0 m MD
+  Progress        : 110.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  26   DATE 03-04-2018   DEPTH 3,900.0 m MD
+  Progress        : 110.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  27   DATE 04-04-2018   DEPTH 3,930.0 m MD
+  Progress        : 30.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - CBL/VDL run on the 7in liner indicated poor to fair bond, bond index 0.293.
+      Remedial squeeze carried out and the bond log re-run; bond improved to fair.
+      NPT 52.4 hrs.
+
+DAY  28   DATE 05-04-2018   DEPTH 4,040.0 m MD
+  Progress        : 110.0 m
+  Present Formation: Kopili Shale
+
+[PAGE 5]
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  29   DATE 06-04-2018   DEPTH 4,090.0 m MD
+  Progress        : 50.0 m
+  Present Formation: Kopili Shale
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - High torque and drag from 4,060 m MD in Kopili Shale; peak torque 22.5 kNm.
+      Added lubricant to the mud system and reduced RPM.
+      NPT 13.6 hrs.
+
+DAY  30   DATE 07-04-2018   DEPTH 4,130.0 m MD
+  Progress        : 40.0 m
+  Present Formation: Kopili Shale
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  31   DATE 08-04-2018   DEPTH 4,130.0 m MD
+  Progress        : 0.0 m
+  Present Formation: Kopili Shale
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  32   DATE 09-04-2018   DEPTH 4,170.0 m MD
+  Progress        : 40.0 m
+  Present Formation: Kopili Shale
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  33   DATE 10-04-2018   DEPTH 4,260.0 m MD
+  Progress        : 90.0 m
+  Present Formation: Kopili Shale
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  34   DATE 11-04-2018   DEPTH 4,360.0 m MD
+  Progress        : 100.0 m
+  Present Formation: Kopili Shale
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  35   DATE 12-04-2018   DEPTH 4,440.0 m MD
+  Progress        : 80.0 m
+  Present Formation: Sylhet Limestone
+  Bit in use      : TCI 12-1/4in 537
+
+[PAGE 6]
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  36   DATE 13-04-2018   DEPTH 4,530.0 m MD
+  Progress        : 90.0 m
+  Present Formation: Sylhet Limestone
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  37   DATE 14-04-2018   DEPTH 4,610.0 m MD
+  Progress        : 80.0 m
+  Present Formation: Sylhet Limestone
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  38   DATE 15-04-2018   DEPTH 4,680.0 m MD
+  Progress        : 70.0 m
+  Present Formation: Sylhet Limestone
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  39   DATE 16-04-2018   DEPTH 4,680.0 m MD
+  Progress        : 0.0 m
+  Present Formation: Sylhet Limestone
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  40   DATE 17-04-2018   DEPTH 4,680.0 m MD
+  Progress        : 0.0 m
+  Present Formation: Sylhet Limestone
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  41   DATE 18-04-2018   DEPTH 4,680.0 m MD
+  Progress        : 0.0 m
+  Present Formation: Sylhet Limestone
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  42   DATE 19-04-2018   DEPTH 4,720.0 m MD
+  Progress        : 40.0 m
+  Present Formation: Sylhet Limestone
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+
+[PAGE 7]
+DAY  43   DATE 20-04-2018   DEPTH 4,790.0 m MD
+  Progress        : 70.0 m
+  Present Formation: Langpar
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  44   DATE 21-04-2018   DEPTH 4,870.0 m MD
+  Progress        : 80.0 m
+  Present Formation: Langpar
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  45   DATE 22-04-2018   DEPTH 4,940.0 m MD
+  Progress        : 70.0 m
+  Present Formation: Langpar
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  46   DATE 23-04-2018   DEPTH 5,010.0 m MD
+  Progress        : 70.0 m
+  Present Formation: Langpar
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  47   DATE 24-04-2018   DEPTH 5,070.0 m MD
+  Progress        : 60.0 m
+  Present Formation: Langpar
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  48   DATE 25-04-2018   DEPTH 5,140.0 m MD
+  Progress        : 70.0 m
+  Present Formation: Langpar
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  49   DATE 26-04-2018   DEPTH 5,200.0 m MD
+  Progress        : 60.0 m
+  Present Formation: Langpar
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  50   DATE 27-04-2018   DEPTH 5,270.0 m MD
+  Progress        : 70.0 m
+  Present Formation: Basement
+
+[PAGE 8]
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  51   DATE 28-04-2018   DEPTH 5,300.0 m MD
+  Progress        : 30.0 m
+  Present Formation: Basement
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  52   DATE 29-04-2018   DEPTH 5,340.0 m MD
+  Progress        : 40.0 m
+  Present Formation: Basement
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  53   DATE 30-04-2018   DEPTH 5,370.0 m MD
+  Progress        : 30.0 m
+  Present Formation: Basement
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  54   DATE 01-05-2018   DEPTH 5,400.0 m MD
+  Progress        : 30.0 m
+  Present Formation: Basement
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  55   DATE 02-05-2018   DEPTH 5,430.0 m MD
+  Progress        : 30.0 m
+  Present Formation: Basement
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  56   DATE 03-05-2018   DEPTH 5,440.5 m MD
+  Progress        : 10.5 m
+  Present Formation: Basement
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - ROP dropped to 1.38 m/hr at 5,440 m MD in Basement.
+      Bit pulled and replaced; drilling parameters optimised.
+      NPT 5.3 hrs.
+

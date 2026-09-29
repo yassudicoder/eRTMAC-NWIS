@@ -1,0 +1,113 @@
+[PAGE 1]
+OIL INDIA LIMITED - DAILY DRILLING REPORT
+Well: Tengakhat-76 (TGK-076)    Field: Tengakhat    Rig: OIL-RIG-30 (ZJ-50)
+==============================================================================
+
+DAY   1   DATE 08-09-2026   DEPTH 80.0 m MD
+  Progress        : 80.0 m
+  Present Formation: Namsang
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Partial mud losses of 2.6 m3/hr observed at 40 m MD (40 m TVD) while drilling Dihing.
+      LCM pill of 133 bbl (medium nut plug and mica) pumped; losses reduced.
+      NPT 6.8 hrs.
+
+DAY   2   DATE 09-09-2026   DEPTH 280.0 m MD
+  Progress        : 200.0 m
+  Present Formation: Namsang
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   3   DATE 10-09-2026   DEPTH 600.0 m MD
+  Progress        : 320.0 m
+  Present Formation: Girujan Clay
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   4   DATE 11-09-2026   DEPTH 790.0 m MD
+  Progress        : 190.0 m
+  Present Formation: Girujan Clay
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Bit balling suspected at 770 m MD in Girujan Clay; standpipe pressure rose by 24.6 ksc.
+      Pulled off bottom, circulated and jetted the bit clean.
+      NPT 7.8 hrs.
+
+DAY   5   DATE 12-09-2026   DEPTH 930.0 m MD
+  Progress        : 140.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   6   DATE 13-09-2026   DEPTH 1,060.0 m MD
+  Progress        : 130.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   7   DATE 14-09-2026   DEPTH 1,230.0 m MD
+  Progress        : 170.0 m
+
+[PAGE 2]
+  Present Formation: Tipam Sandstone
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   8   DATE 15-09-2026   DEPTH 1,380.0 m MD
+  Progress        : 150.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   9   DATE 16-09-2026   DEPTH 1,530.0 m MD
+  Progress        : 150.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  10   DATE 17-09-2026   DEPTH 1,670.0 m MD
+  Progress        : 140.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  11   DATE 18-09-2026   DEPTH 1,750.0 m MD
+  Progress        : 80.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Lost circulation encountered at 1,690 m MD in Tipam Sandstone. Loss rate recorded as 10.1 m3/hr.
+      Pumped 79 bbl of coarse LCM slurry and cut mud weight by 0.03 sg.
+      NPT 12.0 hrs.
+
+DAY  12   DATE 19-09-2026   DEPTH 1,900.0 m MD
+  Progress        : 150.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  13   DATE 20-09-2026   DEPTH 2,030.0 m MD
+  Progress        : 130.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  14   DATE 21-09-2026   DEPTH 2,084.3 m MD
+  Progress        : 54.3 m
+  Present Formation: Tipam Sandstone
+
+[PAGE 3]
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+

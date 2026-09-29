@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Naharkatiya Tipam depleted fairway",
+    "lat": 27.298,
+    "lon": 95.328,
+    "radius_km": 5.0,
+    "formation": "Tipam Sandstone",
+    "event_type": "MUD_LOSS",
+    "probability_boost": 0.45,
+    "severity_boost": 1
+  },
+  {
+    "name": "Naharkatiya Tipam differential-sticking belt",
+    "lat": 27.288,
+    "lon": 95.345,
+    "radius_km": 4.0,
+    "formation": "Tipam Sandstone",
+    "event_type": "STUCK_PIPE",
+    "probability_boost": 0.35,
+    "severity_boost": 1
+  },
+  {
+    "name": "Duliajan-Hugrijan coal caving trend",
+    "lat": 27.39,
+    "lon": 95.39,
+    "radius_km": 6.5,
+    "formation": "Barail Coal Shale",
+    "event_type": "WELLBORE_INSTABILITY",
+    "probability_boost": 0.4,
+    "severity_boost": 1
+  },
+  {
+    "name": "Moran Barail over-pressure cell",
+    "lat": 27.185,
+    "lon": 94.925,
+    "radius_km": 4.5,
+    "formation": "Barail Arenaceous",
+    "event_type": "KICK",
+    "probability_boost": 0.38,
+    "severity_boost": 1
+  },
+  {
+    "name": "Jorajan Kopili pressure ramp",
+    "lat": 27.245,
+    "lon": 95.23,
+    "radius_km": 4.0,
+    "formation": "Kopili Shale",
+    "event_type": "KICK",
+    "probability_boost": 0.3,
+    "severity_boost": 1
+  },
+  {
+    "name": "Tengakhat fractured Sylhet corridor",
+    "lat": 27.305,
+    "lon": 95.13,
+    "radius_km": 5.5,
+    "formation": "Sylhet Limestone",
+    "event_type": "MUD_LOSS",
+    "probability_boost": 0.35,
+    "severity_boost": 1
+  },
+  {
+    "name": "Dikom Girujan swelling-clay zone",
+    "lat": 27.476,
+    "lon": 95.085,
+    "radius_km": 4.2,
+    "formation": "Girujan Clay",
+    "event_type": "WELLBORE_INSTABILITY",
+    "probability_boost": 0.32,
+    "severity_boost": 1
+  }
+]

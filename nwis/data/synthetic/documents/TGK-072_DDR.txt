@@ -1,0 +1,195 @@
+[PAGE 1]
+OIL INDIA LIMITED - DAILY DRILLING REPORT
+Well: Tengakhat-72 (TGK-072)    Field: Tengakhat    Rig: OIL-RIG-30 (ZJ-50)
+==============================================================================
+
+DAY   1   DATE 20-11-2013   DEPTH 90.0 m MD
+  Progress        : 90.0 m
+  Present Formation: Namsang
+  Bit in use      : TCI 17-1/2in 517
+  Operations / Remarks:
+    - Hole washout logged at 20 m MD in Dihing; caliper 17.7 percent over gauge.
+      Reduced flow rate through the interval.
+      NPT 6.7 hrs.
+
+DAY   2   DATE 21-11-2013   DEPTH 310.0 m MD
+  Progress        : 220.0 m
+  Present Formation: Namsang
+  Bit in use      : TCI 17-1/2in 517
+  Operations / Remarks:
+    - Hole washout logged at 310 m MD in Namsang; caliper 14.3 percent over gauge.
+      Noted for cement volume calculation; no remedial action taken.
+      NPT 7.8 hrs.
+
+DAY   3   DATE 22-11-2013   DEPTH 630.0 m MD
+  Progress        : 320.0 m
+  Present Formation: Girujan Clay
+  Bit in use      : TCI 17-1/2in 517
+  Operations / Remarks:
+    - While drilling Namsang at 390 m MD, returns reduced and losses of 2.5 m3/hr were measured.
+      Cement plug placed across the loss zone and drilled out after 3.1 hrs WOC.
+      NPT 4.0 hrs.
+
+DAY   4   DATE 23-11-2013   DEPTH 920.0 m MD
+  Progress        : 290.0 m
+  Present Formation: Girujan Clay
+  Bit in use      : TCI 17-1/2in 517
+  Operations / Remarks:
+    - Tight hole experienced at 920 m MD in Girujan Clay; 7 reaming passes required.
+      Reamed and circulated the interval clean before continuing.
+      NPT 6.3 hrs.
+
+DAY   5   DATE 24-11-2013   DEPTH 1,010.0 m MD
+  Progress        : 90.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Cement bond log across the 13-3/8in surface showed poor bonding, bond index 0.389.
+      Remedial squeeze carried out and the bond log re-run; bond improved to fair.
+      NPT 10.5 hrs.
+
+DAY   6   DATE 25-11-2013   DEPTH 1,230.0 m MD
+  Progress        : 220.0 m
+  Present Formation: Tipam Sandstone
+
+[PAGE 2]
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   7   DATE 26-11-2013   DEPTH 1,580.0 m MD
+  Progress        : 350.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   8   DATE 27-11-2013   DEPTH 1,890.0 m MD
+  Progress        : 310.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   9   DATE 28-11-2013   DEPTH 1,960.0 m MD
+  Progress        : 70.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  10   DATE 29-11-2013   DEPTH 1,960.0 m MD
+  Progress        : 0.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  11   DATE 30-11-2013   DEPTH 2,180.0 m MD
+  Progress        : 220.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  12   DATE 01-12-2013   DEPTH 2,260.0 m MD
+  Progress        : 80.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  13   DATE 02-12-2013   DEPTH 2,260.0 m MD
+  Progress        : 0.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+[PAGE 3]
+
+DAY  14   DATE 03-12-2013   DEPTH 2,330.0 m MD
+  Progress        : 70.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  15   DATE 04-12-2013   DEPTH 2,590.0 m MD
+  Progress        : 260.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  16   DATE 05-12-2013   DEPTH 2,670.0 m MD
+  Progress        : 80.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - High torque and drag from 2,670 m MD in Barail Coal Shale; peak torque 25.2 kNm.
+      Circulated sweeps to clean the hole; torque returned to normal.
+      NPT 15.9 hrs.
+
+DAY  17   DATE 06-12-2013   DEPTH 2,900.0 m MD
+  Progress        : 230.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  18   DATE 07-12-2013   DEPTH 3,110.0 m MD
+  Progress        : 210.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Cement bond log across the 9-5/8in intermediate showed poor bonding, bond index 0.18.
+      Accepted after pressure testing the shoe; monitored for annular pressure.
+      NPT 44.9 hrs.
+
+DAY  19   DATE 08-12-2013   DEPTH 3,140.0 m MD
+  Progress        : 30.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Wellbore instability in Barail Coal Shale from 3,140 m MD. Excessive cavings (11.8 m3) over the shakers.
+      Circulated hi-vis sweeps and back-reamed the interval before continuing.
+      NPT 20.5 hrs.
+
+DAY  20   DATE 09-12-2013   DEPTH 3,190.0 m MD
+  Progress        : 50.0 m
+  Present Formation: Barail Arenaceous
+
+[PAGE 4]
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  21   DATE 10-12-2013   DEPTH 3,320.0 m MD
+  Progress        : 130.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  22   DATE 11-12-2013   DEPTH 3,440.0 m MD
+  Progress        : 120.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  23   DATE 12-12-2013   DEPTH 3,550.0 m MD
+  Progress        : 110.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  24   DATE 13-12-2013   DEPTH 3,599.9 m MD
+  Progress        : 49.9 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+

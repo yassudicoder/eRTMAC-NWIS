@@ -1,0 +1,116 @@
+[PAGE 1]
+OIL INDIA LIMITED - MUD LOG / LITHOLOGY LOG
+Well: Jorajan-23 (JRJ-023)    Field: Jorajan
+Mud System: KCl-glycol inhibitive WBM
+==============================================================================
+
+    MD (m)   TVD (m)Formation                      ROP     Gas     MW
+                                                (m/hr) (units)   (sg)
+------------------------------------------------------------------------------
+        10        10Dihing                        18.8       2   1.08
+        60        60Dihing                        27.9       0   1.08
+       110       110Dihing                        25.5       3   1.08
+       160       160Dihing                        22.8       4   1.08
+       210       210Namsang                       15.6       1   1.09
+       260       260Namsang                       25.0       0   1.09
+       310       310Namsang                       22.6       4   1.09
+       360       360Namsang                       22.3       5   1.09
+       410       410Namsang                       22.5       0   1.09
+       460       460Namsang                       15.5       3   1.09
+       510       510Namsang                       18.8       3   1.09
+       560       560Namsang                       16.8       2   1.09
+       610       610Namsang                       16.3       2   1.09
+       660       660Girujan Clay                  15.2       2   1.12
+       710       710Girujan Clay                  12.9       3   1.12
+       760       760Girujan Clay                  11.9       3   1.12
+       810       810Girujan Clay                  12.0       2   1.12
+       860       860Girujan Clay                  12.8       4   1.12
+       910       909Girujan Clay                  12.5       2   1.12
+       960       957Girujan Clay                  12.2       2   1.12
+     1,010     1,005Girujan Clay                   9.9       4   1.12
+     1,060     1,052Girujan Clay                  14.5       0   1.12
+     1,110     1,099Girujan Clay                  10.9       0   1.12
+     1,160     1,145Girujan Clay                  10.5       3   1.12
+     1,210     1,191Tipam Sandstone               13.5      31   1.08
+     1,260     1,238Tipam Sandstone                8.7      31   1.08
+     1,310     1,284Tipam Sandstone                7.2      32   1.08
+     1,360     1,330Tipam Sandstone                9.7      31   1.08
+     1,410     1,377Tipam Sandstone               11.4      30   1.08
+     1,460     1,423Tipam Sandstone               11.0      32   1.08
+     1,510     1,470Tipam Sandstone               10.8      32   1.08
+     1,560     1,516Tipam Sandstone               10.7      29   1.08
+     1,610     1,562Tipam Sandstone                9.1      29   1.08
+     1,660     1,609Tipam Sandstone                7.4      29   1.08
+     1,710     1,655Tipam Sandstone                9.1      29   1.08
+     1,760     1,701Tipam Sandstone                7.1      30   1.08
+     1,810     1,748Tipam Sandstone                8.2      30   1.08
+     1,860     1,794Tipam Sandstone                9.1      30   1.08
+     1,910     1,840Tipam Sandstone                6.9      33   1.08
+     1,960     1,887Tipam Sandstone                8.1      34   1.08
+           >> Mud loss of 25.5 m3/hr recorded between 1,960 m and 2,012 m MD in Tipam Sandstone.
+     2,010     1,933Tipam Sandstone                6.8      32   1.08
+
+[PAGE 2]
+     2,060     1,980Tipam Sandstone                7.0      31   1.08
+     2,110     2,026Tipam Sandstone                9.0      31   1.08
+     2,160     2,072Tipam Sandstone                7.0      31   1.08
+     2,210     2,119Tipam Sandstone                8.8      28   1.08
+     2,260     2,165Tipam Sandstone                8.4      30   1.08
+     2,310     2,211Tipam Sandstone                9.3      30   1.08
+     2,360     2,258Tipam Sandstone                6.4      26   1.08
+     2,410     2,304Tipam Sandstone                9.2      34   1.08
+     2,460     2,350Tipam Sandstone                8.4      31   1.08
+     2,510     2,397Tipam Sandstone                8.3      32   1.08
+     2,560     2,443Tipam Sandstone                6.1      30   1.08
+     2,610     2,490Tipam Sandstone                8.5      32   1.08
+     2,660     2,536Barail Coal Shale              7.5      22   1.20
+     2,710     2,582Barail Coal Shale              7.2      20   1.20
+     2,760     2,628Barail Coal Shale              6.6      22   1.20
+     2,810     2,675Barail Coal Shale              6.0      18   1.20
+     2,860     2,721Barail Coal Shale              4.9      20   1.20
+           >> Torque increased sharply at 2,850 m MD while drilling Barail Coal Shale, peaking at 18.7 kNm.
+     2,910     2,768Barail Coal Shale              4.6      21   1.20
+     2,960     2,814Barail Coal Shale              6.1      20   1.20
+     3,010     2,860Barail Coal Shale              5.0      22   1.20
+     3,060     2,907Barail Coal Shale              6.2      24   1.20
+     3,110     2,953Barail Coal Shale              6.4      22   1.20
+           >> CBL/VDL run on the 9-5/8in intermediate indicated poor to fair bond, bond index 0.378.
+     3,160     2,999Barail Coal Shale              6.0      20   1.20
+     3,210     3,046Barail Arenaceous              5.8      29   1.25
+     3,260     3,092Barail Arenaceous              5.7      30   1.25
+     3,310     3,138Barail Arenaceous              4.5      28   1.25
+     3,360     3,185Barail Arenaceous              5.9      31   1.25
+     3,410     3,231Barail Arenaceous              4.5      31   1.25
+           >> Influx taken at 3,400 m MD in the Barail Arenaceous. Well shut in, SIDPP 30.4 ksc; killed by drillers method.
+     3,460     3,278Barail Arenaceous              5.9      29   1.25
+     3,510     3,324Barail Arenaceous              5.3      29   1.25
+     3,560     3,370Barail Arenaceous              6.2      33   1.25
+     3,610     3,417Barail Arenaceous              4.1      29   1.25
+     3,660     3,463Barail Arenaceous              5.1      32   1.25
+     3,710     3,509Barail Arenaceous              4.6      28   1.25
+     3,760     3,556Barail Arenaceous              3.8      27   1.25
+     3,810     3,602Barail Arenaceous              2.8      32   1.25
+     3,860     3,648Kopili Shale                   3.7       6   1.48
+     3,910     3,695Kopili Shale                   3.3       5   1.48
+           >> Wellbore instability in Kopili Shale from 3,910 m MD. Excessive cavings (9.3 m3) over the shakers.
+     3,960     3,741Kopili Shale                   3.4       6   1.48
+     4,010     3,788Kopili Shale                   3.5       0   1.48
+
+LITHOLOGICAL DESCRIPTION
+------------------------------------------------------------------------------
+11 m MD - Dihing
+    Unconsolidated pebbly sandstone, clay and gravel.
+185 m MD - Namsang
+
+[PAGE 3]
+    Medium to coarse sandstone with clay interbeds.
+623 m MD - Girujan Clay
+    Mottled clay with thin siltstone and sandstone bands.
+1,168 m MD - Tipam Sandstone
+    Massive ferruginous sandstone with clay partings.
+2,619 m MD - Barail Coal Shale
+    Carbonaceous shale with coal seams and thin sandstone.
+3,198 m MD - Barail Arenaceous
+    Fine to medium sandstone with shale interbeds - principal pay.
+3,855 m MD - Kopili Shale
+    Dark grey marine shale with thin limestone stringers.

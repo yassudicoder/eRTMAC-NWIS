@@ -1,0 +1,129 @@
+[PAGE 1]
+OIL INDIA LIMITED - DAILY DRILLING REPORT
+Well: Dikom-24 (DKM-024)    Field: Dikom    Rig: OIL-RIG-17 (NOV ideal)
+==============================================================================
+
+DAY   1   DATE 20-04-2016   DEPTH 90.0 m MD
+  Progress        : 90.0 m
+  Present Formation: Namsang
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Partial mud losses of 3.5 m3/hr observed at 20 m MD (20 m TVD) while drilling Dihing.
+      Reduced flow rate and continued drilling blind with water.
+      NPT 4.4 hrs.
+
+DAY   2   DATE 21-04-2016   DEPTH 290.0 m MD
+  Progress        : 200.0 m
+  Present Formation: Girujan Clay
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   3   DATE 22-04-2016   DEPTH 510.0 m MD
+  Progress        : 220.0 m
+  Present Formation: Girujan Clay
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   4   DATE 23-04-2016   DEPTH 660.0 m MD
+  Progress        : 150.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : TCI 17-1/2in 517
+  Operations / Remarks:
+    - CBL/VDL run on the 13-3/8in surface indicated poor to fair bond, bond index 0.308.
+      Accepted after pressure testing the shoe; monitored for annular pressure.
+      NPT 6.0 hrs.
+    - Remedial cement squeeze performed behind the 13-3/8in surface at 648 m MD before drilling ahead.
+      Second squeeze required before an acceptable test was obtained.
+      NPT 56.2 hrs.
+
+DAY   5   DATE 24-04-2016   DEPTH 800.0 m MD
+  Progress        : 140.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : TCI 17-1/2in 517
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   6   DATE 25-04-2016   DEPTH 1,120.0 m MD
+  Progress        : 320.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : TCI 17-1/2in 517
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+[PAGE 2]
+
+DAY   7   DATE 26-04-2016   DEPTH 1,430.0 m MD
+  Progress        : 310.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : TCI 17-1/2in 517
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   8   DATE 27-04-2016   DEPTH 1,520.0 m MD
+  Progress        : 90.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : TCI 17-1/2in 517
+  Operations / Remarks:
+    - Lost circulation encountered at 1,520 m MD in Tipam Sandstone. Loss rate recorded as 8.1 m3/hr.
+      Cement plug placed across the loss zone and drilled out after 13.6 hrs WOC.
+      NPT 18.6 hrs.
+
+DAY   9   DATE 28-04-2016   DEPTH 1,760.0 m MD
+  Progress        : 240.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : TCI 17-1/2in 517
+  Operations / Remarks:
+    - Hole instability and sloughing from 1,760 m to 1,790 m MD in Barail Coal Shale.
+      Circulated hi-vis sweeps and back-reamed the interval before continuing.
+      NPT 19.5 hrs.
+
+DAY  10   DATE 29-04-2016   DEPTH 1,820.0 m MD
+  Progress        : 60.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : TCI 17-1/2in 517
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  11   DATE 30-04-2016   DEPTH 2,050.0 m MD
+  Progress        : 230.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : TCI 17-1/2in 517
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  12   DATE 01-05-2016   DEPTH 2,200.0 m MD
+  Progress        : 150.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : TCI 17-1/2in 517
+  Operations / Remarks:
+    - Torque increased sharply at 2,080 m MD while drilling Barail Coal Shale, peaking at 23.9 kNm.
+      Added lubricant to the mud system and reduced RPM.
+      NPT 7.6 hrs.
+
+DAY  13   DATE 02-05-2016   DEPTH 2,250.0 m MD
+  Progress        : 50.0 m
+  Present Formation: Barail Coal Shale
+
+[PAGE 3]
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Cement bond log across the 9-5/8in intermediate showed poor bonding, bond index 0.269.
+      Accepted after pressure testing the shoe; monitored for annular pressure.
+      NPT 21.1 hrs.
+
+DAY  14   DATE 03-05-2016   DEPTH 2,410.0 m MD
+  Progress        : 160.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  15   DATE 04-05-2016   DEPTH 2,498.3 m MD
+  Progress        : 88.3 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+

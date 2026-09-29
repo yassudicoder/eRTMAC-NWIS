@@ -1,0 +1,119 @@
+[PAGE 1]
+OIL INDIA LIMITED - DAILY DRILLING REPORT
+Well: Naharkatiya-58 (NHK-058)    Field: Naharkatiya    Rig: OIL-RIG-12 (E-2000)
+==============================================================================
+
+DAY   1   DATE 12-07-2016   DEPTH 210.0 m MD
+  Progress        : 210.0 m
+  Present Formation: Namsang
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   2   DATE 13-07-2016   DEPTH 480.0 m MD
+  Progress        : 270.0 m
+  Present Formation: Namsang
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   3   DATE 14-07-2016   DEPTH 680.0 m MD
+  Progress        : 200.0 m
+  Present Formation: Girujan Clay
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Wellbore instability in Girujan Clay from 680 m MD. Excessive cavings (3.5 m3) over the shakers.
+      Circulated hi-vis sweeps and back-reamed the interval before continuing.
+      NPT 13.9 hrs.
+
+DAY   4   DATE 15-07-2016   DEPTH 800.0 m MD
+  Progress        : 120.0 m
+  Present Formation: Girujan Clay
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   5   DATE 16-07-2016   DEPTH 990.0 m MD
+  Progress        : 190.0 m
+  Present Formation: Girujan Clay
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   6   DATE 17-07-2016   DEPTH 1,180.0 m MD
+  Progress        : 190.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   7   DATE 18-07-2016   DEPTH 1,180.0 m MD
+  Progress        : 0.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : Insert 8-1/2in 617
+
+[PAGE 2]
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   8   DATE 19-07-2016   DEPTH 1,210.0 m MD
+  Progress        : 30.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - While drilling Tipam Sandstone at 1,200 m MD, returns reduced and losses of 8.3 m3/hr were measured.
+      Cement plug placed across the loss zone and drilled out after 7.6 hrs WOC.
+      NPT 14.0 hrs.
+
+DAY   9   DATE 20-07-2016   DEPTH 1,250.0 m MD
+  Progress        : 40.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Partial returns lost during the 13-3/8in surface cement job at 1,240 m MD.
+      Cut slurry density and continued; losses were cured before the plug bumped.
+      NPT 42.2 hrs.
+    - Top of cement logged at 427 m against a planned top of 0 m behind the 13-3/8in surface.
+      Top-up job performed through the annulus to raise the cement top.
+      NPT 26.6 hrs.
+    - CBL/VDL run on the 13-3/8in surface indicated poor to fair bond, bond index 0.445.
+      Accepted after pressure testing the shoe; monitored for annular pressure.
+      NPT 7.0 hrs.
+
+DAY  10   DATE 21-07-2016   DEPTH 1,350.0 m MD
+  Progress        : 100.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  11   DATE 22-07-2016   DEPTH 1,510.0 m MD
+  Progress        : 160.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  12   DATE 23-07-2016   DEPTH 1,660.0 m MD
+  Progress        : 150.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  13   DATE 24-07-2016   DEPTH 1,800.0 m MD
+  Progress        : 140.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : Insert 8-1/2in 617
+
+[PAGE 3]
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  14   DATE 25-07-2016   DEPTH 1,820.7 m MD
+  Progress        : 20.7 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+

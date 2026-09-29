@@ -1,0 +1,68 @@
+[PAGE 1]
+OIL INDIA LIMITED - MUD LOG / LITHOLOGY LOG
+Well: Tengakhat-71 (TGK-071)    Field: Tengakhat
+Mud System: Water-based bentonite / PHPA
+==============================================================================
+
+    MD (m)   TVD (m)Formation                      ROP     Gas     MW
+                                                (m/hr) (units)   (sg)
+------------------------------------------------------------------------------
+        10        10Dihing                        28.3       1   1.08
+        60        60Dihing                        20.8       2   1.08
+       110       110Namsang                       21.6       4   1.09
+       160       160Namsang                       14.2       5   1.09
+       210       210Namsang                       14.4       3   1.09
+       260       260Namsang                       17.6       7   1.09
+       310       310Namsang                       21.2       2   1.09
+       360       360Namsang                       17.7       2   1.09
+       410       410Namsang                       18.0       2   1.09
+       460       460Namsang                       16.9       5   1.09
+           >> Lost circulation encountered at 460 m MD in Namsang. Loss rate recorded as 4.0 m3/hr.
+       510       510Namsang                       16.6       3   1.09
+       560       560Girujan Clay                  14.0       1   1.12
+       610       610Girujan Clay                  10.7       1   1.12
+       660       660Girujan Clay                  13.0       2   1.12
+       710       710Girujan Clay                   9.4       3   1.12
+       760       760Girujan Clay                  14.6       2   1.12
+           >> Hole pack-off tendency at 760 m MD in the Girujan Clay. Back-reamed 3 times.
+       810       810Girujan Clay                  11.8       3   1.12
+       860       860Girujan Clay                  10.8       4   1.12
+       910       910Girujan Clay                  11.6       5   1.12
+       960       960Girujan Clay                  13.9       1   1.12
+     1,010     1,010Girujan Clay                  11.6       3   1.12
+     1,060     1,060Tipam Sandstone                9.3      28   1.08
+     1,110     1,110Tipam Sandstone                9.0      30   1.08
+     1,160     1,160Tipam Sandstone               11.7      30   1.08
+     1,210     1,210Tipam Sandstone               12.2      29   1.08
+     1,260     1,260Tipam Sandstone               11.7      29   1.08
+     1,310     1,310Tipam Sandstone                9.3      29   1.08
+     1,360     1,360Tipam Sandstone               11.8      30   1.08
+     1,410     1,410Tipam Sandstone               12.3      32   1.08
+     1,460     1,460Tipam Sandstone                7.8      30   1.08
+     1,510     1,510Tipam Sandstone               11.9      30   1.08
+           >> String became stuck at 1,490 m MD (1,490 m TVD) in Tipam Sandstone. Overpull of 58.4 t recorded.
+     1,560     1,560Tipam Sandstone               10.2      31   1.08
+     1,610     1,610Tipam Sandstone               12.2      31   1.08
+     1,660     1,660Tipam Sandstone               10.1      31   1.08
+     1,710     1,710Tipam Sandstone                8.8      30   1.08
+     1,760     1,760Tipam Sandstone                9.3      32   1.08
+     1,810     1,810Tipam Sandstone                9.8      31   1.08
+     1,860     1,860Tipam Sandstone                9.9      31   1.08
+     1,910     1,910Tipam Sandstone                9.1      30   1.08
+
+[PAGE 2]
+     1,960     1,960Tipam Sandstone               10.6      36   1.08
+     2,010     2,010Tipam Sandstone                9.7      30   1.08
+     2,060     2,060Tipam Sandstone                7.3      26   1.08
+     2,110     2,110Tipam Sandstone                8.8      29   1.08
+
+LITHOLOGICAL DESCRIPTION
+------------------------------------------------------------------------------
+30 m MD - Dihing
+    Unconsolidated pebbly sandstone, clay and gravel.
+97 m MD - Namsang
+    Medium to coarse sandstone with clay interbeds.
+516 m MD - Girujan Clay
+    Mottled clay with thin siltstone and sandstone bands.
+1,012 m MD - Tipam Sandstone
+    Massive ferruginous sandstone with clay partings.

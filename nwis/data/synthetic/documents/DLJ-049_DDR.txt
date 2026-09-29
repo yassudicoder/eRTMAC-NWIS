@@ -1,0 +1,83 @@
+[PAGE 1]
+OIL INDIA LIMITED - DAILY DRILLING REPORT
+Well: Duliajan-49 (DLJ-049)    Field: Duliajan    Rig: OIL-RIG-30 (ZJ-50)
+==============================================================================
+
+DAY   1   DATE 17-01-2020   DEPTH 90.0 m MD
+  Progress        : 90.0 m
+  Present Formation: Dihing
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   2   DATE 18-01-2020   DEPTH 290.0 m MD
+  Progress        : 200.0 m
+  Present Formation: Namsang
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - While drilling Dihing at 160 m MD, returns reduced and losses of 3.0 m3/hr were measured.
+      Pumped 96 bbl of coarse LCM slurry and cut mud weight by 0.03 sg.
+      NPT 4.2 hrs.
+
+DAY   3   DATE 19-01-2020   DEPTH 570.0 m MD
+  Progress        : 280.0 m
+  Present Formation: Namsang
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   4   DATE 20-01-2020   DEPTH 790.0 m MD
+  Progress        : 220.0 m
+  Present Formation: Girujan Clay
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   5   DATE 21-01-2020   DEPTH 990.0 m MD
+  Progress        : 200.0 m
+  Present Formation: Girujan Clay
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   6   DATE 22-01-2020   DEPTH 1,170.0 m MD
+  Progress        : 180.0 m
+  Present Formation: Girujan Clay
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   7   DATE 23-01-2020   DEPTH 1,290.0 m MD
+  Progress        : 120.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 17-1/2in S123
+
+[PAGE 2]
+  Operations / Remarks:
+    - CBL/VDL run on the 13-3/8in surface indicated poor to fair bond, bond index 0.327.
+      Remedial squeeze carried out and the bond log re-run; bond improved to fair.
+      NPT 11.6 hrs.
+
+DAY   8   DATE 24-01-2020   DEPTH 1,460.0 m MD
+  Progress        : 170.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Differential sticking at 1,460 m MD across the Tipam Sandstone; maximum overpull 12.3 t.
+      Back-off performed and fishing assembly run; fish recovered after 2.9 hrs.
+      NPT 6.9 hrs.
+
+DAY   9   DATE 25-01-2020   DEPTH 1,760.0 m MD
+  Progress        : 300.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  10   DATE 26-01-2020   DEPTH 1,813.6 m MD
+  Progress        : 53.6 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+

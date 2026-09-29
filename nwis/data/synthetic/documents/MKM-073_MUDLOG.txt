@@ -1,0 +1,59 @@
+[PAGE 1]
+OIL INDIA LIMITED - MUD LOG / LITHOLOGY LOG
+Well: Makum-73 (MKM-073)    Field: Makum
+Mud System: Low-solids non-dispersed WBM
+==============================================================================
+
+    MD (m)   TVD (m)Formation                      ROP     Gas     MW
+                                                (m/hr) (units)   (sg)
+------------------------------------------------------------------------------
+        10        10Dihing                        16.6       2   1.08
+        60        60Dihing                        18.0       4   1.08
+       110       110Dihing                        30.1       3   1.08
+           >> Hole washout logged at 110 m MD in Dihing; caliper 40.2 percent over gauge.
+       160       160Namsang                       25.4       0   1.09
+       210       210Namsang                       29.1       1   1.09
+       260       260Namsang                       26.4       1   1.09
+       310       310Namsang                       27.9       2   1.09
+       360       360Namsang                       26.5       0   1.09
+       410       410Namsang                       29.3       2   1.09
+       460       460Namsang                       23.2       1   1.09
+           >> Hole washout logged at 440 m MD in Namsang; caliper 38.8 percent over gauge.
+       510       510Namsang                       23.7       2   1.09
+       560       560Girujan Clay                  17.0       0   1.12
+       610       610Girujan Clay                  15.6       3   1.12
+       660       660Girujan Clay                  21.9       4   1.12
+           >> Tight hole experienced at 640 m MD in Girujan Clay; 6 reaming passes required.
+       710       710Girujan Clay                  22.3       1   1.12
+       760       760Girujan Clay                  20.3       2   1.12
+       810       810Girujan Clay                  17.6       4   1.12
+       860       860Girujan Clay                  19.3       0   1.12
+       910       910Girujan Clay                  13.7       3   1.12
+       960       960Girujan Clay                  19.7       2   1.12
+     1,010     1,010Girujan Clay                  20.8       4   1.12
+     1,060     1,060Tipam Sandstone               14.4      31   1.08
+     1,110     1,110Tipam Sandstone               13.0      27   1.08
+           >> CBL/VDL run on the 13-3/8in surface indicated poor to fair bond, bond index 0.256.
+     1,160     1,160Tipam Sandstone                7.9      32   1.08
+     1,210     1,210Tipam Sandstone                6.2      29   1.08
+     1,260     1,260Tipam Sandstone                8.9      32   1.08
+     1,310     1,310Tipam Sandstone                7.6      34   1.08
+     1,360     1,360Tipam Sandstone                6.8      32   1.08
+     1,410     1,410Tipam Sandstone                8.4      31   1.08
+     1,460     1,460Tipam Sandstone                6.0      31   1.08
+     1,510     1,510Tipam Sandstone                7.3      30   1.08
+     1,553     1,553Tipam Sandstone                7.3      28   1.08
+           >> Hole washout logged at 1,540 m MD in Tipam Sandstone; caliper 39.4 percent over gauge.
+
+LITHOLOGICAL DESCRIPTION
+------------------------------------------------------------------------------
+17 m MD - Dihing
+    Unconsolidated pebbly sandstone, clay and gravel.
+
+[PAGE 2]
+116 m MD - Namsang
+    Medium to coarse sandstone with clay interbeds.
+534 m MD - Girujan Clay
+    Mottled clay with thin siltstone and sandstone bands.
+1,049 m MD - Tipam Sandstone
+    Massive ferruginous sandstone with clay partings.

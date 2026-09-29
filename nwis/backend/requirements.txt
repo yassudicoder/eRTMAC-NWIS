@@ -1,0 +1,22 @@
+# NWIS backend.
+#
+# The engines run on the Python standard library alone: no numpy, pandas or
+# scikit-learn. That is deliberate - it keeps the prototype installable on a
+# locked-down machine and makes the scoring logic readable rather than hidden
+# behind a framework.
+
+fastapi>=0.110
+uvicorn[standard]>=0.27
+
+# --- optional -------------------------------------------------------------
+# Needed only to ingest PDFs and scanned reports. The synthetic corpus is
+# plain text, so the demo runs without them.
+#
+#   pymupdf>=1.24        PDF text layer and page rasterisation
+#   pytesseract>=0.3.10  OCR for scanned pages (needs the Tesseract binary)
+#   pillow>=10.0         image handling for the OCR path
+
+# --- development ----------------------------------------------------------
+# The test suite also runs standalone:  python backend/tests/test_nwis.py
+#
+#   pytest>=8.0

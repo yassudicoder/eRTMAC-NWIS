@@ -1,0 +1,220 @@
+[PAGE 1]
+OIL INDIA LIMITED - DAILY DRILLING REPORT
+Well: Hugrijan-69 (HGJ-069)    Field: Hugrijan    Rig: OIL-RIG-12 (E-2000)
+==============================================================================
+
+DAY   1   DATE 26-01-2016   DEPTH 130.0 m MD
+  Progress        : 130.0 m
+  Present Formation: Dihing
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   2   DATE 27-01-2016   DEPTH 420.0 m MD
+  Progress        : 290.0 m
+  Present Formation: Namsang
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   3   DATE 28-01-2016   DEPTH 680.0 m MD
+  Progress        : 260.0 m
+  Present Formation: Namsang
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   4   DATE 29-01-2016   DEPTH 910.0 m MD
+  Progress        : 230.0 m
+  Present Formation: Girujan Clay
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   5   DATE 30-01-2016   DEPTH 1,060.0 m MD
+  Progress        : 150.0 m
+  Present Formation: Girujan Clay
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Cavings observed at shakers while drilling Girujan Clay at 920 m MD; approximately 2.5 m3 recovered.
+      Circulated hi-vis sweeps and back-reamed the interval before continuing.
+      NPT 4.6 hrs.
+
+DAY   6   DATE 31-01-2016   DEPTH 1,180.0 m MD
+  Progress        : 120.0 m
+  Present Formation: Girujan Clay
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Hole pack-off tendency at 1,180 m MD in the Girujan Clay. Back-reamed 6 times.
+      Reamed and circulated the interval clean before continuing.
+      NPT 11.5 hrs.
+
+DAY   7   DATE 01-02-2016   DEPTH 1,330.0 m MD
+  Progress        : 150.0 m
+
+[PAGE 2]
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   8   DATE 02-02-2016   DEPTH 1,410.0 m MD
+  Progress        : 80.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   9   DATE 03-02-2016   DEPTH 1,610.0 m MD
+  Progress        : 200.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  10   DATE 04-02-2016   DEPTH 1,790.0 m MD
+  Progress        : 180.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  11   DATE 05-02-2016   DEPTH 1,980.0 m MD
+  Progress        : 190.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  12   DATE 06-02-2016   DEPTH 2,150.0 m MD
+  Progress        : 170.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  13   DATE 07-02-2016   DEPTH 2,320.0 m MD
+  Progress        : 170.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  14   DATE 08-02-2016   DEPTH 2,490.0 m MD
+  Progress        : 170.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+
+[PAGE 3]
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  15   DATE 09-02-2016   DEPTH 2,650.0 m MD
+  Progress        : 160.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  16   DATE 10-02-2016   DEPTH 2,780.0 m MD
+  Progress        : 130.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  17   DATE 11-02-2016   DEPTH 2,830.0 m MD
+  Progress        : 50.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  18   DATE 12-02-2016   DEPTH 2,830.0 m MD
+  Progress        : 0.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  19   DATE 13-02-2016   DEPTH 2,950.0 m MD
+  Progress        : 120.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  20   DATE 14-02-2016   DEPTH 2,970.0 m MD
+  Progress        : 20.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - High torque and drag from 2,960 m MD in Barail Coal Shale; peak torque 25.0 kNm.
+      Circulated sweeps to clean the hole; torque returned to normal.
+      NPT 19.9 hrs.
+
+DAY  21   DATE 15-02-2016   DEPTH 3,030.0 m MD
+  Progress        : 60.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+[PAGE 4]
+
+DAY  22   DATE 16-02-2016   DEPTH 3,030.0 m MD
+  Progress        : 0.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  23   DATE 17-02-2016   DEPTH 3,150.0 m MD
+  Progress        : 120.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - CBL/VDL run on the 9-5/8in intermediate indicated poor to fair bond, bond index 0.2.
+      Remedial squeeze carried out and the bond log re-run; bond improved to fair.
+      NPT 28.9 hrs.
+    - Remedial cement squeeze performed behind the 9-5/8in intermediate at 3,144 m MD before drilling ahead.
+      Second squeeze required before an acceptable test was obtained.
+      NPT 59.8 hrs.
+
+DAY  24   DATE 18-02-2016   DEPTH 3,200.0 m MD
+  Progress        : 50.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  25   DATE 19-02-2016   DEPTH 3,300.0 m MD
+  Progress        : 100.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  26   DATE 20-02-2016   DEPTH 3,420.0 m MD
+  Progress        : 120.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  27   DATE 21-02-2016   DEPTH 3,530.0 m MD
+  Progress        : 110.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  28   DATE 22-02-2016   DEPTH 3,552.4 m MD
+  Progress        : 22.4 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : PDC 8-1/2in M433
+
+[PAGE 5]
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+

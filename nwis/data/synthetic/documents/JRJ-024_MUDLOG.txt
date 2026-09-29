@@ -1,0 +1,62 @@
+[PAGE 1]
+OIL INDIA LIMITED - MUD LOG / LITHOLOGY LOG
+Well: Jorajan-24 (JRJ-024)    Field: Jorajan
+Mud System: KCl-polymer water based mud
+==============================================================================
+
+    MD (m)   TVD (m)Formation                      ROP     Gas     MW
+                                                (m/hr) (units)   (sg)
+------------------------------------------------------------------------------
+        10        10Dihing                        25.5       3   1.08
+        60        60Dihing                        22.7       1   1.08
+       110       110Dihing                        41.9       4   1.08
+       160       160Dihing                        37.9       4   1.08
+       210       210Dihing                        30.4       4   1.08
+       260       260Namsang                       25.8       3   1.09
+       310       310Namsang                       21.7       1   1.09
+       360       360Namsang                       31.2       4   1.09
+       410       410Namsang                       31.6       4   1.09
+       460       460Namsang                       25.0       3   1.09
+       510       510Namsang                       23.3       4   1.09
+       560       560Namsang                       31.4       5   1.09
+       610       610Namsang                       26.0       4   1.09
+       660       660Namsang                       26.8       3   1.09
+       710       710Girujan Clay                  19.2       4   1.12
+       760       760Girujan Clay                  22.0       5   1.12
+       810       810Girujan Clay                  15.4       2   1.12
+       860       860Girujan Clay                  20.3       0   1.12
+       910       910Girujan Clay                  22.0       2   1.12
+       960       960Girujan Clay                  18.8       2   1.12
+           >> Bit and BHA balling up in the Girujan Clay at 950 m MD, SPP increase of 43.8 ksc.
+     1,010     1,010Girujan Clay                  17.8       1   1.12
+     1,060     1,060Girujan Clay                  20.6       3   1.12
+     1,110     1,110Girujan Clay                  18.4       6   1.12
+     1,160     1,160Girujan Clay                  18.3       4   1.12
+     1,210     1,210Girujan Clay                  21.6       1   1.12
+     1,260     1,260Tipam Sandstone               14.1      30   1.08
+     1,310     1,310Tipam Sandstone               10.9      32   1.08
+     1,360     1,360Tipam Sandstone               13.1      28   1.08
+     1,410     1,410Tipam Sandstone               16.6      32   1.08
+     1,460     1,460Tipam Sandstone               11.5      30   1.08
+     1,510     1,510Tipam Sandstone               11.1      30   1.08
+           >> Seepage losses (14.4 m3/hr) noted at 1,490 m MD in the Tipam Sandstone.
+     1,560     1,560Tipam Sandstone               14.1      30   1.08
+     1,610     1,610Tipam Sandstone               12.7      30   1.08
+     1,660     1,660Tipam Sandstone               14.9      31   1.08
+     1,710     1,710Tipam Sandstone               14.7      31   1.08
+     1,760     1,760Tipam Sandstone               15.1      29   1.08
+     1,810     1,810Tipam Sandstone               14.6      31   1.08
+     1,851     1,851Tipam Sandstone               11.5      33   1.08
+
+LITHOLOGICAL DESCRIPTION
+
+[PAGE 2]
+------------------------------------------------------------------------------
+27 m MD - Dihing
+    Unconsolidated pebbly sandstone, clay and gravel.
+233 m MD - Namsang
+    Medium to coarse sandstone with clay interbeds.
+679 m MD - Girujan Clay
+    Mottled clay with thin siltstone and sandstone bands.
+1,220 m MD - Tipam Sandstone
+    Massive ferruginous sandstone with clay partings.

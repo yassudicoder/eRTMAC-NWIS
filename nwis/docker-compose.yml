@@ -1,0 +1,34 @@
+# Single-command demo:  docker compose up --build
+#
+# The frontend image only builds the static bundle; the API serves it, so
+# there is one port to remember and no CORS to configure.
+
+services:
+  dashboard-build:
+    build:
+      context: .
+      dockerfile: frontend/Dockerfile
+    volumes:
+      - dashboard:/out
+    command: sh -c "cp -r /dist/. /out/"
+
+  api:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    depends_on:
+      dashboard-build:
+        condition: service_completed_successfully
+    ports:
+      - "8000:8000"
+    environment:
+      NWIS_FRONTEND: /app/frontend/dist
+      NWIS_RADIUS_KM: "15"
+      NWIS_LOOKAHEAD_M: "300"
+    volumes:
+      - dashboard:/app/frontend/dist
+      - nwis-db:/app/data
+
+volumes:
+  dashboard:
+  nwis-db:

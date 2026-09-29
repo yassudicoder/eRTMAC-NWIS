@@ -1,0 +1,106 @@
+[PAGE 1]
+OIL INDIA LIMITED - MUD LOG / LITHOLOGY LOG
+Well: Makum-70 (MKM-070)    Field: Makum
+Mud System: Water-based gel-lignosulphonate
+==============================================================================
+
+    MD (m)   TVD (m)Formation                      ROP     Gas     MW
+                                                (m/hr) (units)   (sg)
+------------------------------------------------------------------------------
+        10        10Dihing                        17.6       3   1.08
+        60        60Dihing                        16.9       6   1.08
+       110       110Dihing                        15.9       0   1.08
+           >> Hole washout logged at 80 m MD in Dihing; caliper 29.8 percent over gauge.
+       160       160Namsang                       10.4       0   1.09
+       210       210Namsang                       12.6       2   1.09
+       260       260Namsang                       10.3       1   1.09
+       310       310Namsang                       11.8       4   1.09
+       360       360Namsang                       14.8       5   1.09
+       410       410Namsang                       15.2       4   1.09
+       460       460Namsang                       10.5       0   1.09
+       510       510Namsang                       15.1       4   1.09
+       560       560Girujan Clay                   8.1       4   1.12
+       610       610Girujan Clay                   9.8       5   1.12
+       660       660Girujan Clay                   8.5       1   1.12
+       710       710Girujan Clay                   9.2       2   1.12
+       760       760Girujan Clay                  10.6       2   1.12
+       810       810Girujan Clay                  10.4       0   1.12
+       860       860Girujan Clay                   6.8       4   1.12
+       910       910Girujan Clay                  10.8       2   1.12
+       960       960Girujan Clay                   7.9       5   1.12
+     1,010     1,010Girujan Clay                   7.9       3   1.12
+           >> Wellbore instability in Girujan Clay from 990 m MD. Excessive cavings (0.8 m3) over the shakers.
+     1,060     1,060Tipam Sandstone                6.0      30   1.08
+     1,110     1,110Tipam Sandstone                6.2      30   1.08
+           >> Cement bond log across the 13-3/8in surface showed poor bonding, bond index 0.24.
+     1,160     1,160Tipam Sandstone               15.5      30   1.08
+           >> Pipe stuck at 1,150 m MD while drilling Tipam Sandstone. Free point established at 563.2 m.
+     1,210     1,210Tipam Sandstone               11.7      27   1.08
+     1,260     1,260Tipam Sandstone               13.9      29   1.08
+     1,310     1,310Tipam Sandstone               16.6      30   1.08
+           >> Seepage losses (11.2 m3/hr) noted at 1,290 m MD in the Tipam Sandstone.
+     1,360     1,360Tipam Sandstone               14.4      32   1.08
+     1,410     1,410Tipam Sandstone               14.4      30   1.08
+     1,460     1,460Tipam Sandstone               15.0      29   1.08
+     1,510     1,510Tipam Sandstone               13.9      27   1.08
+     1,560     1,560Tipam Sandstone               13.9      31   1.08
+     1,610     1,610Tipam Sandstone               10.6      30   1.08
+     1,660     1,660Tipam Sandstone               10.2      34   1.08
+     1,710     1,710Tipam Sandstone               11.1      31   1.08
+     1,760     1,760Tipam Sandstone               12.6      29   1.08
+     1,810     1,810Tipam Sandstone               13.4      30   1.08
+
+[PAGE 2]
+     1,860     1,860Tipam Sandstone               10.9      31   1.08
+     1,910     1,910Tipam Sandstone               13.0      31   1.08
+     1,960     1,960Tipam Sandstone                9.8      30   1.08
+     2,010     2,010Tipam Sandstone               10.9      32   1.08
+     2,060     2,060Tipam Sandstone                9.9      30   1.08
+     2,110     2,110Tipam Sandstone               13.6      28   1.08
+     2,160     2,160Tipam Sandstone               11.3      32   1.08
+     2,210     2,210Tipam Sandstone               10.6      32   1.08
+     2,260     2,260Tipam Sandstone               13.5      28   1.08
+     2,310     2,310Tipam Sandstone                9.9      30   1.08
+     2,360     2,360Barail Coal Shale              7.9      19   1.20
+     2,410     2,410Barail Coal Shale             11.3      20   1.20
+           >> String became stuck at 2,400 m MD (2,400 m TVD) in Barail Coal Shale. Overpull of 34.6 t recorded.
+     2,460     2,460Barail Coal Shale              9.4      21   1.20
+     2,510     2,510Barail Coal Shale              8.5      20   1.20
+           >> High torque and drag from 2,510 m MD in Barail Coal Shale; peak torque 28.6 kNm.
+     2,560     2,560Barail Coal Shale             11.4      18   1.20
+     2,610     2,610Barail Coal Shale              9.8      18   1.20
+     2,660     2,660Barail Coal Shale             11.1      17   1.20
+     2,710     2,710Barail Coal Shale              9.3      23   1.20
+     2,760     2,760Barail Coal Shale              8.6      18   1.20
+     2,810     2,810Barail Coal Shale              5.8      19   1.20
+           >> CBL/VDL run on the 9-5/8in intermediate indicated poor to fair bond, bond index 0.172.
+     2,860     2,860Barail Coal Shale              8.2      21   1.20
+     2,910     2,910Barail Arenaceous              6.7      30   1.25
+     2,960     2,960Barail Arenaceous              5.6      34   1.25
+     3,010     3,010Barail Arenaceous              6.3      28   1.25
+           >> Seepage losses (9.5 m3/hr) noted at 3,020 m MD in the Barail Arenaceous.
+     3,060     3,060Barail Arenaceous              5.9      31   1.25
+     3,110     3,110Barail Arenaceous              6.2      32   1.25
+           >> Influx taken at 3,120 m MD in the Barail Arenaceous. Well shut in, SIDPP 63.9 ksc; killed by drillers method.
+     3,160     3,160Barail Arenaceous              4.6      30   1.25
+     3,210     3,210Barail Arenaceous              4.3      31   1.25
+     3,260     3,260Barail Arenaceous              5.9      31   1.25
+     3,310     3,310Barail Arenaceous              4.9      29   1.25
+     3,360     3,360Barail Arenaceous              4.3      30   1.25
+
+LITHOLOGICAL DESCRIPTION
+------------------------------------------------------------------------------
+11 m MD - Dihing
+    Unconsolidated pebbly sandstone, clay and gravel.
+138 m MD - Namsang
+    Medium to coarse sandstone with clay interbeds.
+531 m MD - Girujan Clay
+    Mottled clay with thin siltstone and sandstone bands.
+1,043 m MD - Tipam Sandstone
+    Massive ferruginous sandstone with clay partings.
+2,324 m MD - Barail Coal Shale
+    Carbonaceous shale with coal seams and thin sandstone.
+2,873 m MD - Barail Arenaceous
+
+[PAGE 3]
+    Fine to medium sandstone with shale interbeds - principal pay.

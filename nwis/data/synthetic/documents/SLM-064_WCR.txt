@@ -1,0 +1,183 @@
+[PAGE 1]
+OIL INDIA LIMITED
+DRILLING DEPARTMENT, DULIAJAN, ASSAM
+
+WELL COMPLETION REPORT
+========================================================================
+
+1. WELL IDENTIFICATION
+------------------------------------------------------------------------
+Well Number            : Shalmari-64
+Well Code              : SLM-064
+Field / Structure      : Shalmari
+Category               : Appraisal
+Well Profile           : Vertical
+Surface Coordinates    : 27.46062 N, 95.21866 E
+Bottom Hole Coordinates: 27.46062 N, 95.21866 E
+Ground Level           : 132.9 m above MSL
+Rig                    : OIL-RIG-30 (ZJ-50)
+Date Spudded           : 06-02-2022
+Date Completed         : 01-04-2022
+Total Depth (MD)       : 3,434.4 m
+Total Depth (TVD)      : 3,434.4 m
+Target Formation       : Kopili Shale
+Total Days Drilled     : 41
+Total NPT              : 501.1 hrs
+
+2. CASING AND HOLE PROGRAMME
+------------------------------------------------------------------------
+Hole Size   Casing                     Shoe MD (m)  Shoe TVD (m)   TOC (m)
+26in        20in conductor                    83.7          83.7         0
+17-1/2in    13-3/8in surface                 896.9         896.9         0
+12-1/4in    9-5/8in intermediate           2,524.7       2,524.7       773
+8-1/2in     7in liner                      3,120.6       3,120.6     2,497
+
+Mud System             : Water-based gel-lignosulphonate
+
+2A. CEMENTING RECORD
+------------------------------------------------------------------------
+Casing                     Shoe MD  Planned TOC  Actual TOC   Slurry  Returns   Bond
+                               (m)          (m)         (m)     (m3)           index
+13-3/8in surface               897            0           7     47.6     full   0.42
+9-5/8in intermediate         2,525          773       1,166     82.4  partial   0.20
+7in liner                    3,121        2,497       2,492     23.4     full   0.35
+
+Cement bond log across the 13-3/8in surface indicated poor to fair bond (bond index 0.42).
+Cement bond log across the 9-5/8in intermediate indicated poor to fair bond (bond index 0.20).
+Cement bond log across the 7in liner indicated poor to fair bond (bond index 0.35).
+
+[PAGE 2]
+
+3. GEOLOGICAL SUMMARY - FORMATION TOPS
+------------------------------------------------------------------------
+Formation                    Top MD (m)   Top TVD (m)   Lithology
+Dihing                             11.0          11.0   Unconsolidated pebbly sandstone, clay and gravel
+Namsang                            23.6          23.6   Medium to coarse sandstone with clay interbeds
+Girujan Clay                      366.3         366.3   Mottled clay with thin siltstone and sandstone bands
+Tipam Sandstone                   816.7         816.7   Massive ferruginous sandstone with clay partings
+Barail Coal Shale               2,064.5       2,064.5   Carbonaceous shale with coal seams and thin sandstone
+Barail Arenaceous               2,648.7       2,648.7   Fine to medium sandstone with shale interbeds - principal pay
+Kopili Shale                    3,182.7       3,182.7   Dark grey marine shale with thin limestone stringers
+
+The well encountered the normal Upper Assam section. Formation tops were
+picked on the basis of cuttings examination and wireline log correlation
+with the neighbouring wells of the structure.
+
+3A. RESERVOIR SUMMARY
+------------------------------------------------------------------------
+Formation             Fluid            Gross  Net Pay   Poro     Perm     Sw   Press
+                                         (m)      (m)    (%)     (mD)    (%)    (sg)
+Tipam Sandstone       oil              218.5    179.7   21.9    757.3   41.8    0.88
+Barail Arenaceous     oil and gas      204.0    117.0   18.8    125.3   31.9    1.02
+
+Tipam Sandstone: net pay 179.7 m, average porosity 21.9 percent, permeability 757 mD, water saturation 41.8 percent.
+    Reservoir pressure has declined from a virgin 1.02 sg to 0.88 sg equivalent, a depletion of 0.14 sg. Differential sticking risk across this interval is correspondingly elevated.
+    Formation temperature at top of interval: 51 deg C.
+Barail Arenaceous: net pay 117.0 m, average porosity 18.8 percent, permeability 125 mD, water saturation 31.9 percent.
+    Reservoir pressure has declined from a virgin 1.19 sg to 1.02 sg equivalent, a depletion of 0.17 sg. Differential sticking risk across this interval is correspondingly elevated.
+    Formation temperature at top of interval: 102 deg C.
+
+4. DRILLING PARAMETERS BY SECTION
+------------------------------------------------------------------------
+Formation                    Avg ROP   Avg WOB   Avg RPM    Mud Wt
+                              (m/hr)       (t)                (sg)
+Dihing                         35.11      10.2       109      1.08
+Namsang                        30.15      10.7       112      1.09
+Girujan Clay                   21.65      12.8       103      1.12
+Tipam Sandstone                10.90      13.8       109      1.08
+Barail Coal Shale               6.60      15.1       101      1.20
+Barail Arenaceous               3.94      15.8        84      1.25
+Kopili Shale                    3.21      16.7        85      1.48
+
+5. DRILLING PROBLEMS AND REMEDIAL MEASURES
+------------------------------------------------------------------------
+5.1  Dihing - 06-02-2022
+     Hole washout logged at 20 m MD in Dihing; caliper 12.6 percent over gauge.
+
+[PAGE 3]
+     Noted for cement volume calculation; no remedial action taken.
+     Non-productive time attributable to this event: 5.7 hrs.
+
+5.2  Girujan Clay - 08-02-2022
+     Tight hole experienced at 700 m MD in Girujan Clay; 7 reaming passes required.
+     Worked the string over the tight interval and raised mud weight to 1.18 sg.
+     Non-productive time attributable to this event: 14.8 hrs.
+
+5.3  Tipam Sandstone - 16-02-2022
+     CBL/VDL run on the 13-3/8in surface indicated poor to fair bond, bond index 0.424.
+     Remedial squeeze carried out and the bond log re-run; bond improved to fair.
+     Non-productive time attributable to this event: 15.9 hrs.
+
+5.4  Tipam Sandstone - 12-02-2022
+     Seepage losses (16.5 m3/hr) noted at 1,480 m MD in the Tipam Sandstone.
+     Reduced flow rate and continued drilling blind with water.
+     Non-productive time attributable to this event: 40.0 hrs.
+
+5.5  Barail Coal Shale - 17-02-2022
+     Wellbore instability in Barail Coal Shale from 2,220 m MD. Excessive cavings (10.6 m3) over the shakers.
+     Increased KCl concentration and raised mud weight to 1.31 sg.
+     Non-productive time attributable to this event: 27.4 hrs.
+
+5.6  Barail Coal Shale - 08-03-2022
+     CBL indicated top of cement at 1,166 m behind the 9-5/8in intermediate, 393 m below the planned top of 773 m.
+     Top-up job performed through the annulus to raise the cement top.
+     Non-productive time attributable to this event: 18.4 hrs.
+
+5.7  Barail Coal Shale - 08-03-2022
+     Cement bond log across the 9-5/8in intermediate showed poor bonding, bond index 0.196.
+     Accepted after pressure testing the shoe; monitored for annular pressure.
+     Non-productive time attributable to this event: 55.9 hrs.
+
+5.8  Barail Arenaceous - 25-02-2022
+     Well kicked at 2,960 m MD (2,960 m TVD) while drilling Barail Arenaceous. Pit gain 7.3 m3, SIDPP 75.4 ksc. Well shut in.
+     Circulated out the influx through the choke; kill mud weight 1.36 sg.
+     Non-productive time attributable to this event: 95.7 hrs.
+
+5.9  Barail Arenaceous - 02-03-2022
+     Differential sticking at 3,050 m MD across the Barail Arenaceous; maximum overpull 80.0 t.
+     Jarring continued for 76.4 hrs before the string came free.
+     Non-productive time attributable to this event: 140.1 hrs.
+
+5.10  Barail Arenaceous - 15-03-2022
+     Cement bond log across the 7in liner showed poor bonding, bond index 0.354.
+     Remedial squeeze carried out and the bond log re-run; bond improved to fair.
+
+[PAGE 4]
+     Non-productive time attributable to this event: 10.0 hrs.
+
+5.11  Barail Arenaceous - 10-03-2022
+     Seepage losses (4.8 m3/hr) noted at 3,150 m MD in the Barail Arenaceous.
+     Pumped 69 bbl of coarse LCM slurry and cut mud weight by 0.03 sg.
+     Non-productive time attributable to this event: 5.5 hrs.
+
+5.12  Kopili Shale - 11-03-2022
+     Torque increased sharply at 3,230 m MD while drilling Kopili Shale, peaking at 16.9 kNm.
+     Added lubricant to the mud system and reduced RPM.
+     Non-productive time attributable to this event: 19.7 hrs.
+
+5.13  Kopili Shale - 13-03-2022
+     Well kicked at 3,260 m MD (3,260 m TVD) while drilling Kopili Shale. Pit gain 5.1 m3, SIDPP 27.8 ksc. Well shut in.
+     Well shut in and killed by drillers method. Mud weight raised to 1.56 sg.
+     Non-productive time attributable to this event: 52.0 hrs.
+
+
+6. LESSONS LEARNT AND RECOMMENDATIONS FOR FUTURE WELLS
+------------------------------------------------------------------------
+- Barail Arenaceous - kick: gas influx from the Barail pay sand.
+  Future wells on this structure should plan for this around
+  2,960 m MD.
+- Barail Arenaceous - stuck pipe: differential sticking across the depleted pay.
+  Future wells on this structure should plan for this around
+  3,050 m MD.
+- Tipam Sandstone - mud loss: high-permeability sandstone taking whole mud.
+  Future wells on this structure should plan for this around
+  1,480 m MD.
+- Barail Coal Shale - wellbore instability: coal seams caving and producing large cavings at the shakers.
+  Future wells on this structure should plan for this around
+  2,220 m MD.
+- Barail Coal Shale - cementing problem: bond log showed poor to fair bonding across the interval, risking annular communication.
+  Future wells on this structure should plan for this around
+  2,525 m MD.
+
+Prepared by  : Drilling Engineering Group, OIL, Duliajan
+Reviewed by  : Head - Drilling Services

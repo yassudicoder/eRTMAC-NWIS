@@ -1,0 +1,207 @@
+[PAGE 1]
+OIL INDIA LIMITED - DAILY DRILLING REPORT
+Well: Makum-63 (MKM-063)    Field: Makum    Rig: OIL-RIG-12 (E-2000)
+==============================================================================
+
+DAY   1   DATE 17-11-2020   DEPTH 90.0 m MD
+  Progress        : 90.0 m
+  Present Formation: Dihing
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   2   DATE 18-11-2020   DEPTH 590.0 m MD
+  Progress        : 500.0 m
+  Present Formation: Namsang
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   3   DATE 19-11-2020   DEPTH 910.0 m MD
+  Progress        : 320.0 m
+  Present Formation: Girujan Clay
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Bit and BHA balling up in the Girujan Clay at 840 m MD, SPP increase of 17.3 ksc.
+      Raised flow rate and added detergent to the system.
+      NPT 5.4 hrs.
+
+DAY   4   DATE 20-11-2020   DEPTH 1,230.0 m MD
+  Progress        : 320.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Cement bond log across the 13-3/8in surface showed poor bonding, bond index 0.358.
+      Accepted after pressure testing the shoe; monitored for annular pressure.
+      NPT 8.4 hrs.
+
+DAY   5   DATE 21-11-2020   DEPTH 1,270.0 m MD
+  Progress        : 40.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   6   DATE 22-11-2020   DEPTH 1,430.0 m MD
+  Progress        : 160.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   7   DATE 23-11-2020   DEPTH 1,580.0 m MD
+  Progress        : 150.0 m
+
+[PAGE 2]
+  Present Formation: Tipam Sandstone
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   8   DATE 24-11-2020   DEPTH 1,730.0 m MD
+  Progress        : 150.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   9   DATE 25-11-2020   DEPTH 1,820.0 m MD
+  Progress        : 90.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Lost circulation encountered at 1,790 m MD in Tipam Sandstone. Loss rate recorded as 5.8 m3/hr.
+      Reduced flow rate and continued drilling blind with water.
+      NPT 8.0 hrs.
+
+DAY  10   DATE 26-11-2020   DEPTH 1,960.0 m MD
+  Progress        : 140.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  11   DATE 27-11-2020   DEPTH 2,110.0 m MD
+  Progress        : 150.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  12   DATE 28-11-2020   DEPTH 2,240.0 m MD
+  Progress        : 130.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  13   DATE 29-11-2020   DEPTH 2,380.0 m MD
+  Progress        : 140.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  14   DATE 30-11-2020   DEPTH 2,490.0 m MD
+  Progress        : 110.0 m
+  Present Formation: Barail Coal Shale
+
+[PAGE 3]
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  15   DATE 01-12-2020   DEPTH 2,600.0 m MD
+  Progress        : 110.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  16   DATE 02-12-2020   DEPTH 2,700.0 m MD
+  Progress        : 100.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  17   DATE 03-12-2020   DEPTH 2,780.0 m MD
+  Progress        : 80.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - High torque and drag from 2,780 m MD in Barail Coal Shale; peak torque 15.0 kNm.
+      Added lubricant to the mud system and reduced RPM.
+      NPT 20.1 hrs.
+
+DAY  18   DATE 04-12-2020   DEPTH 2,820.0 m MD
+  Progress        : 40.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  19   DATE 05-12-2020   DEPTH 2,910.0 m MD
+  Progress        : 90.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  20   DATE 06-12-2020   DEPTH 3,010.0 m MD
+  Progress        : 100.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - CBL/VDL run on the 9-5/8in intermediate indicated poor to fair bond, bond index 0.397.
+      Accepted after pressure testing the shoe; monitored for annular pressure.
+      NPT 16.4 hrs.
+
+DAY  21   DATE 07-12-2020   DEPTH 3,100.0 m MD
+  Progress        : 90.0 m
+
+[PAGE 4]
+  Present Formation: Barail Arenaceous
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  22   DATE 08-12-2020   DEPTH 3,130.0 m MD
+  Progress        : 30.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Well kicked at 3,130 m MD (3,130 m TVD) while drilling Barail Arenaceous. Pit gain 4.6 m3, SIDPP 38.1 ksc. Well shut in.
+      Circulated out the influx through the choke; kill mud weight 1.31 sg.
+      NPT 26.9 hrs.
+
+DAY  23   DATE 09-12-2020   DEPTH 3,150.0 m MD
+  Progress        : 20.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - String became stuck at 3,150 m MD (3,150 m TVD) in Barail Arenaceous. Overpull of 42.6 t recorded.
+      Jarring continued for 10.9 hrs before the string came free.
+      NPT 35.2 hrs.
+
+DAY  24   DATE 10-12-2020   DEPTH 3,170.0 m MD
+  Progress        : 20.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  25   DATE 11-12-2020   DEPTH 3,360.0 m MD
+  Progress        : 190.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  26   DATE 12-12-2020   DEPTH 3,397.3 m MD
+  Progress        : 37.3 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+

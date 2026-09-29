@@ -1,0 +1,150 @@
+[PAGE 1]
+OIL INDIA LIMITED - MUD LOG / LITHOLOGY LOG
+Well: Duliajan-40 (DLJ-040)    Field: Duliajan
+Mud System: Low-solids non-dispersed WBM
+==============================================================================
+
+    MD (m)   TVD (m)Formation                      ROP     Gas     MW
+                                                (m/hr) (units)   (sg)
+------------------------------------------------------------------------------
+        10        10Dihing                        35.2       0   1.08
+           >> Hole washout logged at 10 m MD in Dihing; caliper 33.0 percent over gauge.
+        60        60Dihing                        31.0       6   1.08
+       110       110Dihing                        20.9       4   1.08
+       160       160Dihing                        21.4       1   1.08
+       210       210Namsang                       14.9       2   1.09
+       260       260Namsang                       21.0       4   1.09
+       310       310Namsang                       16.1       4   1.09
+       360       360Namsang                       16.6       2   1.09
+       410       410Namsang                       17.8       0   1.09
+           >> Hole washout logged at 410 m MD in Namsang; caliper 34.8 percent over gauge.
+       460       460Namsang                       16.6       3   1.09
+       510       510Namsang                       15.7       6   1.09
+       560       560Namsang                       14.0       0   1.09
+       610       609Girujan Clay                  13.1       5   1.12
+       660       658Girujan Clay                  13.9       3   1.12
+       710       705Girujan Clay                  10.8       1   1.12
+       760       751Girujan Clay                  13.7       1   1.12
+       810       795Girujan Clay                  10.8       2   1.12
+       860       838Girujan Clay                  12.0       3   1.12
+       910       882Girujan Clay                  11.5       2   1.12
+       960       925Girujan Clay                  12.7       3   1.12
+     1,010       969Girujan Clay                  12.2       1   1.12
+           >> Cavings observed at shakers while drilling Girujan Clay at 980 m MD; approximately 8.0 m3 recovered.
+     1,060     1,012Girujan Clay                  11.8       0   1.12
+     1,110     1,055Girujan Clay                  12.8       0   1.12
+           >> Bit and BHA balling up in the Girujan Clay at 1,100 m MD, SPP increase of 22.3 ksc.
+     1,160     1,099Tipam Sandstone               12.5      29   1.08
+     1,210     1,142Tipam Sandstone               12.9      29   1.08
+           >> Cement bond log across the 13-3/8in surface showed poor bonding, bond index 0.415.
+     1,260     1,186Tipam Sandstone               11.5      33   1.08
+     1,310     1,229Tipam Sandstone                9.9      31   1.08
+     1,360     1,273Tipam Sandstone               10.6      31   1.08
+     1,410     1,316Tipam Sandstone                8.8      34   1.08
+     1,460     1,359Tipam Sandstone               10.1      29   1.08
+     1,510     1,403Tipam Sandstone                8.3      30   1.08
+     1,560     1,446Tipam Sandstone                9.7      28   1.08
+           >> Pipe stuck at 1,540 m MD while drilling Tipam Sandstone. Free point established at 1264.4 m.
+     1,610     1,490Tipam Sandstone               10.3      34   1.08
+     1,660     1,533Tipam Sandstone                9.1      28   1.08
+     1,710     1,577Tipam Sandstone               11.1      32   1.08
+     1,760     1,620Tipam Sandstone                9.3      31   1.08
+
+[PAGE 2]
+     1,810     1,664Tipam Sandstone               11.8      29   1.08
+     1,860     1,707Tipam Sandstone               10.1      29   1.08
+     1,910     1,750Tipam Sandstone               10.2      31   1.08
+     1,960     1,794Tipam Sandstone               10.4      31   1.08
+     2,010     1,837Tipam Sandstone                9.4      29   1.08
+     2,060     1,881Tipam Sandstone               10.9      28   1.08
+     2,110     1,924Tipam Sandstone                8.6      32   1.08
+     2,160     1,968Tipam Sandstone               10.6      32   1.08
+     2,210     2,011Tipam Sandstone                7.3      33   1.08
+     2,260     2,054Tipam Sandstone                7.8      30   1.08
+     2,310     2,098Tipam Sandstone               10.1      30   1.08
+     2,360     2,141Tipam Sandstone                7.8      31   1.08
+     2,410     2,185Tipam Sandstone                7.3      30   1.08
+     2,460     2,228Tipam Sandstone               10.2      29   1.08
+     2,510     2,272Tipam Sandstone                7.4      30   1.08
+     2,560     2,315Tipam Sandstone                8.9      34   1.08
+     2,610     2,358Barail Coal Shale              6.0      20   1.20
+     2,660     2,402Barail Coal Shale              8.5      23   1.20
+     2,710     2,445Barail Coal Shale              6.5      23   1.20
+     2,760     2,489Barail Coal Shale              8.8      20   1.20
+     2,810     2,532Barail Coal Shale              5.4      17   1.20
+     2,860     2,576Barail Coal Shale              8.1      20   1.20
+           >> High torque and drag from 2,860 m MD in Barail Coal Shale; peak torque 17.9 kNm.
+     2,910     2,619Barail Coal Shale              7.1      19   1.20
+     2,960     2,662Barail Coal Shale              7.9      22   1.20
+     3,010     2,706Barail Coal Shale              8.4      21   1.20
+           >> Wellbore instability in Barail Coal Shale from 3,010 m MD. Excessive cavings (9.6 m3) over the shakers.
+     3,060     2,749Barail Coal Shale              6.6      23   1.20
+     3,110     2,793Barail Coal Shale              6.8      19   1.20
+           >> Differential sticking at 3,110 m MD across the Barail Coal Shale; maximum overpull 45.1 t.
+     3,160     2,836Barail Coal Shale              6.0      22   1.20
+     3,210     2,880Barail Coal Shale              5.7      22   1.20
+     3,260     2,923Barail Arenaceous              7.3      30   1.25
+     3,310     2,966Barail Arenaceous              4.6      29   1.25
+           >> CBL/VDL run on the 9-5/8in intermediate indicated poor to fair bond, bond index 0.283.
+     3,360     3,010Barail Arenaceous              3.9      32   1.25
+           >> Well kicked at 3,350 m MD (3,001 m TVD) while drilling Barail Arenaceous. Pit gain 7.8 m3, SIDPP 67.2 ksc. Well shut in.
+     3,410     3,053Barail Arenaceous              3.0      32   1.25
+     3,460     3,097Barail Arenaceous              4.5      29   1.25
+     3,510     3,140Barail Arenaceous              3.7      32   1.25
+     3,560     3,184Barail Arenaceous              3.3      31   1.25
+     3,610     3,227Barail Arenaceous              3.3      30   1.25
+     3,660     3,270Barail Arenaceous              3.7      31   1.25
+     3,710     3,314Barail Arenaceous              2.8      29   1.25
+     3,760     3,357Barail Arenaceous              2.9      32   1.25
+     3,810     3,401Barail Arenaceous              4.3      30   1.25
+           >> Differential sticking at 3,780 m MD across the Barail Arenaceous; maximum overpull 91.3 t.
+     3,860     3,444Barail Arenaceous              3.2      34   1.25
+     3,910     3,488Barail Arenaceous              3.3      30   1.25
+     3,960     3,531Barail Arenaceous              4.3      31   1.25
+
+[PAGE 3]
+           >> CBL/VDL run on the 7in liner indicated poor to fair bond, bond index 0.121.
+     4,010     3,574Kopili Shale                   2.9       2   1.48
+     4,060     3,618Kopili Shale                   3.7       5   1.48
+           >> Cavings observed at shakers while drilling Kopili Shale at 4,040 m MD; approximately 10.6 m3 recovered.
+     4,110     3,661Kopili Shale                   3.7       4   1.48
+     4,160     3,705Kopili Shale                   2.9       3   1.48
+     4,210     3,748Kopili Shale                   2.6       0   1.48
+     4,260     3,792Kopili Shale                   2.5       4   1.48
+           >> Well kicked at 4,240 m MD (3,774 m TVD) while drilling Kopili Shale. Pit gain 7.5 m3, SIDPP 74.2 ksc. Well shut in.
+     4,310     3,835Kopili Shale                   3.6       3   1.48
+     4,360     3,878Sylhet Limestone               3.0       1   1.34
+     4,410     3,922Sylhet Limestone               1.9       2   1.34
+           >> Total loss of returns at 4,410 m MD (3,922 m TVD) in Sylhet Limestone. No returns to surface.
+     4,460     3,965Sylhet Limestone               2.3       2   1.34
+     4,510     4,009Sylhet Limestone               2.9       0   1.34
+     4,560     4,052Sylhet Limestone               1.9       2   1.34
+     4,610     4,096Sylhet Limestone               2.8       0   1.34
+     4,660     4,139Sylhet Limestone               2.6       2   1.34
+     4,710     4,182Sylhet Limestone               2.0       2   1.34
+     4,760     4,226Sylhet Limestone               2.5       3   1.34
+     4,810     4,269Sylhet Limestone               2.5       2   1.34
+     4,860     4,313Langpar                        2.7       1   1.36
+     4,910     4,356Langpar                        2.7       4   1.36
+           >> Hole pack-off tendency at 4,890 m MD in the Langpar. Back-reamed 5 times.
+
+LITHOLOGICAL DESCRIPTION
+------------------------------------------------------------------------------
+14 m MD - Dihing
+    Unconsolidated pebbly sandstone, clay and gravel.
+165 m MD - Namsang
+    Medium to coarse sandstone with clay interbeds.
+572 m MD - Girujan Clay
+    Mottled clay with thin siltstone and sandstone bands.
+1,133 m MD - Tipam Sandstone
+    Massive ferruginous sandstone with clay partings.
+2,609 m MD - Barail Coal Shale
+    Carbonaceous shale with coal seams and thin sandstone.
+3,230 m MD - Barail Arenaceous
+    Fine to medium sandstone with shale interbeds - principal pay.
+4,003 m MD - Kopili Shale
+    Dark grey marine shale with thin limestone stringers.
+4,347 m MD - Sylhet Limestone
+    Fossiliferous limestone, locally fractured and karstified.
+4,840 m MD - Langpar
+    Argillaceous limestone and calcareous shale.

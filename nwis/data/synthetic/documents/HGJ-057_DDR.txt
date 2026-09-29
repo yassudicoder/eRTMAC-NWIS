@@ -1,0 +1,102 @@
+[PAGE 1]
+OIL INDIA LIMITED - DAILY DRILLING REPORT
+Well: Hugrijan-57 (HGJ-057)    Field: Hugrijan    Rig: OIL-RIG-21 (E-1400)
+==============================================================================
+
+DAY   1   DATE 07-03-2012   DEPTH 110.0 m MD
+  Progress        : 110.0 m
+  Present Formation: Dihing
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Hole washout logged at 110 m MD in Dihing; caliper 38.0 percent over gauge.
+      Noted for cement volume calculation; no remedial action taken.
+      NPT 5.7 hrs.
+
+DAY   2   DATE 08-03-2012   DEPTH 510.0 m MD
+  Progress        : 400.0 m
+  Present Formation: Namsang
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Lost circulation encountered at 460 m MD in Namsang. Loss rate recorded as 4.4 m3/hr.
+      Pumped 85 bbl of coarse LCM slurry and cut mud weight by 0.03 sg.
+      NPT 3.4 hrs.
+
+DAY   3   DATE 09-03-2012   DEPTH 950.0 m MD
+  Progress        : 440.0 m
+  Present Formation: Girujan Clay
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   4   DATE 10-03-2012   DEPTH 1,240.0 m MD
+  Progress        : 290.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Bit and BHA balling up in the Girujan Clay at 1,140 m MD, SPP increase of 19.2 ksc.
+      Pulled off bottom, circulated and jetted the bit clean.
+      NPT 6.4 hrs.
+
+DAY   5   DATE 11-03-2012   DEPTH 1,280.0 m MD
+  Progress        : 40.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Cement slurry lost to the formation while cementing 13-3/8in surface casing at 1,269 m MD.
+      Job completed with reduced returns; top of cement confirmed by temperature survey.
+      NPT 30.2 hrs.
+    - Cement bond log across the 13-3/8in surface showed poor bonding, bond index 0.343.
+      Accepted after pressure testing the shoe; monitored for annular pressure.
+      NPT 17.9 hrs.
+    - Top of cement logged at 229 m against a planned top of 0 m behind the 13-3/8in surface.
+      Accepted after review; previous shoe covered by the subsequent string.
+      NPT 9.2 hrs.
+
+[PAGE 2]
+
+DAY   6   DATE 12-03-2012   DEPTH 1,490.0 m MD
+  Progress        : 210.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   7   DATE 13-03-2012   DEPTH 1,650.0 m MD
+  Progress        : 160.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Seepage losses (3.0 m3/hr) noted at 1,610 m MD in the Tipam Sandstone.
+      LCM pill of 134 bbl (medium nut plug and mica) pumped; losses reduced.
+      NPT 7.2 hrs.
+
+DAY   8   DATE 14-03-2012   DEPTH 1,830.0 m MD
+  Progress        : 180.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Hole washout logged at 1,830 m MD in Tipam Sandstone; caliper 16.9 percent over gauge.
+      Reduced flow rate through the interval.
+      NPT 6.9 hrs.
+
+DAY   9   DATE 15-03-2012   DEPTH 2,030.0 m MD
+  Progress        : 200.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  10   DATE 16-03-2012   DEPTH 2,230.0 m MD
+  Progress        : 200.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  11   DATE 17-03-2012   DEPTH 2,372.7 m MD
+  Progress        : 142.7 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+

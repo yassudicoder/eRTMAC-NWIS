@@ -1,0 +1,2410 @@
+{
+  "NHK-057": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 28.7,
+      "top_md_m": 28.7,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 128.5,
+      "top_md_m": 128.5,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 547.6,
+      "top_md_m": 547.6,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 1033.7,
+      "top_md_m": 1033.7,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    }
+  ],
+  "NHK-058": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 11.0,
+      "top_md_m": 11.0,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 183.1,
+      "top_md_m": 183.1,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 632.2,
+      "top_md_m": 632.2,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 1142.8,
+      "top_md_m": 1142.8,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    }
+  ],
+  "NHK-060": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 24.5,
+      "top_md_m": 24.5,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 183.4,
+      "top_md_m": 183.4,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 621.6,
+      "top_md_m": 622.7,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 1138.7,
+      "top_md_m": 1223.1,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    },
+    {
+      "formation": "Barail Coal Shale",
+      "top_tvd_m": 2479.4,
+      "top_md_m": 2893.1,
+      "lithology": "Carbonaceous shale with coal seams and thin sandstone"
+    },
+    {
+      "formation": "Barail Arenaceous",
+      "top_tvd_m": 3022.9,
+      "top_md_m": 3570.0,
+      "lithology": "Fine to medium sandstone with shale interbeds - principal pay"
+    }
+  ],
+  "NHK-062": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 16.6,
+      "top_md_m": 16.6,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 228.4,
+      "top_md_m": 228.4,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 685.4,
+      "top_md_m": 685.4,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 1208.2,
+      "top_md_m": 1208.2,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    },
+    {
+      "formation": "Barail Coal Shale",
+      "top_tvd_m": 2499.7,
+      "top_md_m": 2499.7,
+      "lithology": "Carbonaceous shale with coal seams and thin sandstone"
+    },
+    {
+      "formation": "Barail Arenaceous",
+      "top_tvd_m": 3161.9,
+      "top_md_m": 3161.9,
+      "lithology": "Fine to medium sandstone with shale interbeds - principal pay"
+    },
+    {
+      "formation": "Kopili Shale",
+      "top_tvd_m": 3711.9,
+      "top_md_m": 3711.9,
+      "lithology": "Dark grey marine shale with thin limestone stringers"
+    }
+  ],
+  "NHK-063": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 53.1,
+      "top_md_m": 53.1,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 279.7,
+      "top_md_m": 279.7,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 731.5,
+      "top_md_m": 733.1,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 1311.8,
+      "top_md_m": 1368.3,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    },
+    {
+      "formation": "Barail Coal Shale",
+      "top_tvd_m": 2589.6,
+      "top_md_m": 2774.8,
+      "lithology": "Carbonaceous shale with coal seams and thin sandstone"
+    },
+    {
+      "formation": "Barail Arenaceous",
+      "top_tvd_m": 3246.5,
+      "top_md_m": 3497.8,
+      "lithology": "Fine to medium sandstone with shale interbeds - principal pay"
+    },
+    {
+      "formation": "Kopili Shale",
+      "top_tvd_m": 3834.3,
+      "top_md_m": 4144.9,
+      "lithology": "Dark grey marine shale with thin limestone stringers"
+    },
+    {
+      "formation": "Sylhet Limestone",
+      "top_tvd_m": 4273.7,
+      "top_md_m": 4628.5,
+      "lithology": "Fossiliferous limestone, locally fractured and karstified"
+    },
+    {
+      "formation": "Langpar",
+      "top_tvd_m": 4632.1,
+      "top_md_m": 5022.9,
+      "lithology": "Argillaceous limestone and calcareous shale"
+    }
+  ],
+  "NHK-064": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 11.0,
+      "top_md_m": 11.0,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 200.5,
+      "top_md_m": 200.5,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 650.7,
+      "top_md_m": 650.7,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 1205.9,
+      "top_md_m": 1205.9,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    },
+    {
+      "formation": "Barail Coal Shale",
+      "top_tvd_m": 2452.8,
+      "top_md_m": 2452.8,
+      "lithology": "Carbonaceous shale with coal seams and thin sandstone"
+    },
+    {
+      "formation": "Barail Arenaceous",
+      "top_tvd_m": 3109.9,
+      "top_md_m": 3109.9,
+      "lithology": "Fine to medium sandstone with shale interbeds - principal pay"
+    }
+  ],
+  "NHK-066": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 11.0,
+      "top_md_m": 11.0,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 190.1,
+      "top_md_m": 190.1,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 635.3,
+      "top_md_m": 635.3,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 1152.4,
+      "top_md_m": 1152.4,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    },
+    {
+      "formation": "Barail Coal Shale",
+      "top_tvd_m": 2489.1,
+      "top_md_m": 2489.1,
+      "lithology": "Carbonaceous shale with coal seams and thin sandstone"
+    },
+    {
+      "formation": "Barail Arenaceous",
+      "top_tvd_m": 3059.1,
+      "top_md_m": 3059.1,
+      "lithology": "Fine to medium sandstone with shale interbeds - principal pay"
+    }
+  ],
+  "NHK-070": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 11.5,
+      "top_md_m": 11.5,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 186.6,
+      "top_md_m": 186.6,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 659.9,
+      "top_md_m": 659.9,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 1185.1,
+      "top_md_m": 1185.1,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    },
+    {
+      "formation": "Barail Coal Shale",
+      "top_tvd_m": 2450.7,
+      "top_md_m": 2450.7,
+      "lithology": "Carbonaceous shale with coal seams and thin sandstone"
+    },
+    {
+      "formation": "Barail Arenaceous",
+      "top_tvd_m": 3129.8,
+      "top_md_m": 3129.8,
+      "lithology": "Fine to medium sandstone with shale interbeds - principal pay"
+    }
+  ],
+  "NHK-071": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 65.0,
+      "top_md_m": 65.0,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 281.7,
+      "top_md_m": 281.7,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 755.1,
+      "top_md_m": 755.1,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 1288.7,
+      "top_md_m": 1288.7,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    },
+    {
+      "formation": "Barail Coal Shale",
+      "top_tvd_m": 2627.9,
+      "top_md_m": 2627.9,
+      "lithology": "Carbonaceous shale with coal seams and thin sandstone"
+    },
+    {
+      "formation": "Barail Arenaceous",
+      "top_tvd_m": 3267.4,
+      "top_md_m": 3267.4,
+      "lithology": "Fine to medium sandstone with shale interbeds - principal pay"
+    },
+    {
+      "formation": "Kopili Shale",
+      "top_tvd_m": 3841.5,
+      "top_md_m": 3841.5,
+      "lithology": "Dark grey marine shale with thin limestone stringers"
+    }
+  ],
+  "MRN-047": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 11.0,
+      "top_md_m": 11.0,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 23.0,
+      "top_md_m": 23.0,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 355.4,
+      "top_md_m": 355.4,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 807.4,
+      "top_md_m": 807.4,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    },
+    {
+      "formation": "Barail Coal Shale",
+      "top_tvd_m": 2047.4,
+      "top_md_m": 2047.4,
+      "lithology": "Carbonaceous shale with coal seams and thin sandstone"
+    },
+    {
+      "formation": "Barail Arenaceous",
+      "top_tvd_m": 2561.0,
+      "top_md_m": 2561.0,
+      "lithology": "Fine to medium sandstone with shale interbeds - principal pay"
+    },
+    {
+      "formation": "Kopili Shale",
+      "top_tvd_m": 3105.1,
+      "top_md_m": 3194.0,
+      "lithology": "Dark grey marine shale with thin limestone stringers"
+    }
+  ],
+  "MRN-049": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 15.0,
+      "top_md_m": 15.0,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 36.2,
+      "top_md_m": 36.2,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 371.2,
+      "top_md_m": 371.2,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 834.8,
+      "top_md_m": 834.8,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    },
+    {
+      "formation": "Barail Coal Shale",
+      "top_tvd_m": 2044.7,
+      "top_md_m": 2124.0,
+      "lithology": "Carbonaceous shale with coal seams and thin sandstone"
+    },
+    {
+      "formation": "Barail Arenaceous",
+      "top_tvd_m": 2638.2,
+      "top_md_m": 2901.1,
+      "lithology": "Fine to medium sandstone with shale interbeds - principal pay"
+    }
+  ],
+  "MRN-051": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 22.4,
+      "top_md_m": 22.4,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 34.4,
+      "top_md_m": 34.4,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 404.6,
+      "top_md_m": 404.6,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 873.8,
+      "top_md_m": 890.0,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    }
+  ],
+  "MRN-054": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 11.0,
+      "top_md_m": 11.0,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 35.2,
+      "top_md_m": 35.2,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 305.5,
+      "top_md_m": 305.5,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 754.7,
+      "top_md_m": 754.7,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    },
+    {
+      "formation": "Barail Coal Shale",
+      "top_tvd_m": 1989.6,
+      "top_md_m": 2221.6,
+      "lithology": "Carbonaceous shale with coal seams and thin sandstone"
+    },
+    {
+      "formation": "Barail Arenaceous",
+      "top_tvd_m": 2547.2,
+      "top_md_m": 2946.3,
+      "lithology": "Fine to medium sandstone with shale interbeds - principal pay"
+    },
+    {
+      "formation": "Kopili Shale",
+      "top_tvd_m": 3082.2,
+      "top_md_m": 3641.7,
+      "lithology": "Dark grey marine shale with thin limestone stringers"
+    }
+  ],
+  "MRN-055": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 12.1,
+      "top_md_m": 12.1,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 35.4,
+      "top_md_m": 35.4,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 318.5,
+      "top_md_m": 318.5,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 769.4,
+      "top_md_m": 769.4,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    },
+    {
+      "formation": "Barail Coal Shale",
+      "top_tvd_m": 2052.3,
+      "top_md_m": 2127.1,
+      "lithology": "Carbonaceous shale with coal seams and thin sandstone"
+    },
+    {
+      "formation": "Barail Arenaceous",
+      "top_tvd_m": 2564.4,
+      "top_md_m": 2674.5,
+      "lithology": "Fine to medium sandstone with shale interbeds - principal pay"
+    },
+    {
+      "formation": "Kopili Shale",
+      "top_tvd_m": 3112.2,
+      "top_md_m": 3260.1,
+      "lithology": "Dark grey marine shale with thin limestone stringers"
+    }
+  ],
+  "MRN-058": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 13.6,
+      "top_md_m": 13.6,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 31.5,
+      "top_md_m": 31.5,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 388.3,
+      "top_md_m": 388.3,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 859.6,
+      "top_md_m": 859.6,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    },
+    {
+      "formation": "Barail Coal Shale",
+      "top_tvd_m": 2093.6,
+      "top_md_m": 2182.1,
+      "lithology": "Carbonaceous shale with coal seams and thin sandstone"
+    },
+    {
+      "formation": "Barail Arenaceous",
+      "top_tvd_m": 2703.4,
+      "top_md_m": 2900.4,
+      "lithology": "Fine to medium sandstone with shale interbeds - principal pay"
+    },
+    {
+      "formation": "Kopili Shale",
+      "top_tvd_m": 3227.9,
+      "top_md_m": 3518.2,
+      "lithology": "Dark grey marine shale with thin limestone stringers"
+    },
+    {
+      "formation": "Sylhet Limestone",
+      "top_tvd_m": 3630.8,
+      "top_md_m": 3992.8,
+      "lithology": "Fossiliferous limestone, locally fractured and karstified"
+    },
+    {
+      "formation": "Langpar",
+      "top_tvd_m": 3806.6,
+      "top_md_m": 4199.8,
+      "lithology": "Argillaceous limestone and calcareous shale"
+    }
+  ],
+  "MRN-061": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 11.1,
+      "top_md_m": 11.1,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 30.0,
+      "top_md_m": 30.0,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 323.1,
+      "top_md_m": 323.1,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 759.1,
+      "top_md_m": 759.1,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    },
+    {
+      "formation": "Barail Coal Shale",
+      "top_tvd_m": 1991.5,
+      "top_md_m": 1991.5,
+      "lithology": "Carbonaceous shale with coal seams and thin sandstone"
+    },
+    {
+      "formation": "Barail Arenaceous",
+      "top_tvd_m": 2592.6,
+      "top_md_m": 2592.6,
+      "lithology": "Fine to medium sandstone with shale interbeds - principal pay"
+    }
+  ],
+  "MRN-065": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 22.1,
+      "top_md_m": 22.1,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 34.6,
+      "top_md_m": 34.6,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 383.7,
+      "top_md_m": 383.7,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 842.3,
+      "top_md_m": 842.3,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    },
+    {
+      "formation": "Barail Coal Shale",
+      "top_tvd_m": 2119.6,
+      "top_md_m": 2280.9,
+      "lithology": "Carbonaceous shale with coal seams and thin sandstone"
+    },
+    {
+      "formation": "Barail Arenaceous",
+      "top_tvd_m": 2662.4,
+      "top_md_m": 3004.6,
+      "lithology": "Fine to medium sandstone with shale interbeds - principal pay"
+    }
+  ],
+  "DLJ-030": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 15.6,
+      "top_md_m": 15.6,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 167.4,
+      "top_md_m": 167.4,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 602.3,
+      "top_md_m": 602.6,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 1131.0,
+      "top_md_m": 1188.1,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    },
+    {
+      "formation": "Barail Coal Shale",
+      "top_tvd_m": 2490.6,
+      "top_md_m": 2742.6,
+      "lithology": "Carbonaceous shale with coal seams and thin sandstone"
+    },
+    {
+      "formation": "Barail Arenaceous",
+      "top_tvd_m": 3038.3,
+      "top_md_m": 3368.9,
+      "lithology": "Fine to medium sandstone with shale interbeds - principal pay"
+    },
+    {
+      "formation": "Kopili Shale",
+      "top_tvd_m": 3579.0,
+      "top_md_m": 3987.0,
+      "lithology": "Dark grey marine shale with thin limestone stringers"
+    },
+    {
+      "formation": "Sylhet Limestone",
+      "top_tvd_m": 3957.7,
+      "top_md_m": 4420.1,
+      "lithology": "Fossiliferous limestone, locally fractured and karstified"
+    },
+    {
+      "formation": "Langpar",
+      "top_tvd_m": 4406.3,
+      "top_md_m": 4933.0,
+      "lithology": "Argillaceous limestone and calcareous shale"
+    }
+  ],
+  "DLJ-034": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 12.2,
+      "top_md_m": 12.2,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 188.1,
+      "top_md_m": 188.1,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 618.6,
+      "top_md_m": 618.6,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 1147.1,
+      "top_md_m": 1147.1,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    },
+    {
+      "formation": "Barail Coal Shale",
+      "top_tvd_m": 2439.2,
+      "top_md_m": 2548.4,
+      "lithology": "Carbonaceous shale with coal seams and thin sandstone"
+    },
+    {
+      "formation": "Barail Arenaceous",
+      "top_tvd_m": 3006.9,
+      "top_md_m": 3177.9,
+      "lithology": "Fine to medium sandstone with shale interbeds - principal pay"
+    },
+    {
+      "formation": "Kopili Shale",
+      "top_tvd_m": 3585.2,
+      "top_md_m": 3819.2,
+      "lithology": "Dark grey marine shale with thin limestone stringers"
+    }
+  ],
+  "DLJ-037": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 11.0,
+      "top_md_m": 11.0,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 124.4,
+      "top_md_m": 124.4,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 550.8,
+      "top_md_m": 550.8,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 1076.1,
+      "top_md_m": 1101.2,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    }
+  ],
+  "DLJ-040": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 14.3,
+      "top_md_m": 14.3,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 165.2,
+      "top_md_m": 165.2,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 571.3,
+      "top_md_m": 571.5,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 1075.1,
+      "top_md_m": 1132.6,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    },
+    {
+      "formation": "Barail Coal Shale",
+      "top_tvd_m": 2357.6,
+      "top_md_m": 2609.1,
+      "lithology": "Carbonaceous shale with coal seams and thin sandstone"
+    },
+    {
+      "formation": "Barail Arenaceous",
+      "top_tvd_m": 2897.3,
+      "top_md_m": 3230.5,
+      "lithology": "Fine to medium sandstone with shale interbeds - principal pay"
+    },
+    {
+      "formation": "Kopili Shale",
+      "top_tvd_m": 3568.1,
+      "top_md_m": 4002.6,
+      "lithology": "Dark grey marine shale with thin limestone stringers"
+    },
+    {
+      "formation": "Sylhet Limestone",
+      "top_tvd_m": 3867.3,
+      "top_md_m": 4347.2,
+      "lithology": "Fossiliferous limestone, locally fractured and karstified"
+    },
+    {
+      "formation": "Langpar",
+      "top_tvd_m": 4295.5,
+      "top_md_m": 4840.1,
+      "lithology": "Argillaceous limestone and calcareous shale"
+    }
+  ],
+  "DLJ-042": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 11.0,
+      "top_md_m": 11.0,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 125.2,
+      "top_md_m": 125.2,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 534.5,
+      "top_md_m": 534.5,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 1039.5,
+      "top_md_m": 1088.2,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    },
+    {
+      "formation": "Barail Coal Shale",
+      "top_tvd_m": 2297.5,
+      "top_md_m": 2578.0,
+      "lithology": "Carbonaceous shale with coal seams and thin sandstone"
+    },
+    {
+      "formation": "Barail Arenaceous",
+      "top_tvd_m": 2861.5,
+      "top_md_m": 3246.0,
+      "lithology": "Fine to medium sandstone with shale interbeds - principal pay"
+    },
+    {
+      "formation": "Kopili Shale",
+      "top_tvd_m": 3526.1,
+      "top_md_m": 4033.2,
+      "lithology": "Dark grey marine shale with thin limestone stringers"
+    },
+    {
+      "formation": "Sylhet Limestone",
+      "top_tvd_m": 3829.1,
+      "top_md_m": 4392.0,
+      "lithology": "Fossiliferous limestone, locally fractured and karstified"
+    },
+    {
+      "formation": "Langpar",
+      "top_tvd_m": 4106.1,
+      "top_md_m": 4720.1,
+      "lithology": "Argillaceous limestone and calcareous shale"
+    },
+    {
+      "formation": "Basement",
+      "top_tvd_m": 4554.4,
+      "top_md_m": 5251.1,
+      "lithology": "Weathered and fractured granitic gneiss"
+    }
+  ],
+  "DLJ-046": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 14.4,
+      "top_md_m": 14.4,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 120.3,
+      "top_md_m": 120.3,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 527.3,
+      "top_md_m": 527.4,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 1040.2,
+      "top_md_m": 1101.4,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    },
+    {
+      "formation": "Barail Coal Shale",
+      "top_tvd_m": 2292.8,
+      "top_md_m": 2555.3,
+      "lithology": "Carbonaceous shale with coal seams and thin sandstone"
+    },
+    {
+      "formation": "Barail Arenaceous",
+      "top_tvd_m": 2906.4,
+      "top_md_m": 3267.4,
+      "lithology": "Fine to medium sandstone with shale interbeds - principal pay"
+    }
+  ],
+  "DLJ-049": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 11.0,
+      "top_md_m": 11.0,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 212.9,
+      "top_md_m": 212.9,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 666.9,
+      "top_md_m": 666.9,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 1177.7,
+      "top_md_m": 1177.7,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    }
+  ],
+  "HGJ-057": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 24.4,
+      "top_md_m": 24.4,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 196.0,
+      "top_md_m": 196.0,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 635.5,
+      "top_md_m": 636.3,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 1157.6,
+      "top_md_m": 1190.7,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    }
+  ],
+  "HGJ-058": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 48.9,
+      "top_md_m": 48.9,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 251.4,
+      "top_md_m": 251.4,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 710.9,
+      "top_md_m": 710.9,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 1275.1,
+      "top_md_m": 1275.1,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    },
+    {
+      "formation": "Barail Coal Shale",
+      "top_tvd_m": 2568.9,
+      "top_md_m": 2568.9,
+      "lithology": "Carbonaceous shale with coal seams and thin sandstone"
+    },
+    {
+      "formation": "Barail Arenaceous",
+      "top_tvd_m": 3138.0,
+      "top_md_m": 3138.0,
+      "lithology": "Fine to medium sandstone with shale interbeds - principal pay"
+    }
+  ],
+  "HGJ-062": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 11.0,
+      "top_md_m": 11.0,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 225.9,
+      "top_md_m": 225.9,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 656.7,
+      "top_md_m": 656.7,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 1206.6,
+      "top_md_m": 1206.6,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    }
+  ],
+  "HGJ-066": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 69.5,
+      "top_md_m": 69.5,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 266.6,
+      "top_md_m": 266.6,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 741.2,
+      "top_md_m": 741.2,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 1302.7,
+      "top_md_m": 1302.7,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    },
+    {
+      "formation": "Barail Coal Shale",
+      "top_tvd_m": 2618.2,
+      "top_md_m": 2618.2,
+      "lithology": "Carbonaceous shale with coal seams and thin sandstone"
+    },
+    {
+      "formation": "Barail Arenaceous",
+      "top_tvd_m": 3274.3,
+      "top_md_m": 3274.3,
+      "lithology": "Fine to medium sandstone with shale interbeds - principal pay"
+    }
+  ],
+  "HGJ-069": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 60.2,
+      "top_md_m": 60.2,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 284.5,
+      "top_md_m": 284.5,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 741.2,
+      "top_md_m": 741.2,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 1305.7,
+      "top_md_m": 1305.7,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    },
+    {
+      "formation": "Barail Coal Shale",
+      "top_tvd_m": 2667.4,
+      "top_md_m": 2667.4,
+      "lithology": "Carbonaceous shale with coal seams and thin sandstone"
+    },
+    {
+      "formation": "Barail Arenaceous",
+      "top_tvd_m": 3144.1,
+      "top_md_m": 3144.1,
+      "lithology": "Fine to medium sandstone with shale interbeds - principal pay"
+    }
+  ],
+  "TGK-064": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 11.1,
+      "top_md_m": 11.1,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 122.5,
+      "top_md_m": 122.5,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 516.5,
+      "top_md_m": 516.5,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 1021.0,
+      "top_md_m": 1021.0,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    },
+    {
+      "formation": "Barail Coal Shale",
+      "top_tvd_m": 2298.5,
+      "top_md_m": 2298.5,
+      "lithology": "Carbonaceous shale with coal seams and thin sandstone"
+    },
+    {
+      "formation": "Barail Arenaceous",
+      "top_tvd_m": 2854.8,
+      "top_md_m": 2854.8,
+      "lithology": "Fine to medium sandstone with shale interbeds - principal pay"
+    }
+  ],
+  "TGK-066": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 11.0,
+      "top_md_m": 11.0,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 38.3,
+      "top_md_m": 38.3,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 426.6,
+      "top_md_m": 426.6,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 883.5,
+      "top_md_m": 883.5,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    },
+    {
+      "formation": "Barail Coal Shale",
+      "top_tvd_m": 2167.3,
+      "top_md_m": 2167.3,
+      "lithology": "Carbonaceous shale with coal seams and thin sandstone"
+    },
+    {
+      "formation": "Barail Arenaceous",
+      "top_tvd_m": 2752.0,
+      "top_md_m": 2752.0,
+      "lithology": "Fine to medium sandstone with shale interbeds - principal pay"
+    }
+  ],
+  "TGK-069": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 11.0,
+      "top_md_m": 11.0,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 89.8,
+      "top_md_m": 89.8,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 494.9,
+      "top_md_m": 494.9,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 989.3,
+      "top_md_m": 989.3,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    },
+    {
+      "formation": "Barail Coal Shale",
+      "top_tvd_m": 2255.3,
+      "top_md_m": 2255.3,
+      "lithology": "Carbonaceous shale with coal seams and thin sandstone"
+    },
+    {
+      "formation": "Barail Arenaceous",
+      "top_tvd_m": 2911.5,
+      "top_md_m": 2911.6,
+      "lithology": "Fine to medium sandstone with shale interbeds - principal pay"
+    },
+    {
+      "formation": "Kopili Shale",
+      "top_tvd_m": 3416.1,
+      "top_md_m": 3571.6,
+      "lithology": "Dark grey marine shale with thin limestone stringers"
+    }
+  ],
+  "TGK-071": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 30.3,
+      "top_md_m": 30.3,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 97.2,
+      "top_md_m": 97.2,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 515.8,
+      "top_md_m": 515.8,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 1012.3,
+      "top_md_m": 1012.3,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    }
+  ],
+  "TGK-072": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 11.0,
+      "top_md_m": 11.0,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 40.0,
+      "top_md_m": 40.0,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 427.2,
+      "top_md_m": 427.2,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 929.0,
+      "top_md_m": 929.4,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    },
+    {
+      "formation": "Barail Coal Shale",
+      "top_tvd_m": 2147.9,
+      "top_md_m": 2434.9,
+      "lithology": "Carbonaceous shale with coal seams and thin sandstone"
+    },
+    {
+      "formation": "Barail Arenaceous",
+      "top_tvd_m": 2716.1,
+      "top_md_m": 3166.1,
+      "lithology": "Fine to medium sandstone with shale interbeds - principal pay"
+    }
+  ],
+  "TGK-075": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 28.5,
+      "top_md_m": 28.5,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 40.5,
+      "top_md_m": 40.5,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 408.5,
+      "top_md_m": 408.5,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 873.4,
+      "top_md_m": 873.4,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    },
+    {
+      "formation": "Barail Coal Shale",
+      "top_tvd_m": 2111.5,
+      "top_md_m": 2111.5,
+      "lithology": "Carbonaceous shale with coal seams and thin sandstone"
+    },
+    {
+      "formation": "Barail Arenaceous",
+      "top_tvd_m": 2671.5,
+      "top_md_m": 2671.5,
+      "lithology": "Fine to medium sandstone with shale interbeds - principal pay"
+    },
+    {
+      "formation": "Kopili Shale",
+      "top_tvd_m": 3182.8,
+      "top_md_m": 3182.8,
+      "lithology": "Dark grey marine shale with thin limestone stringers"
+    }
+  ],
+  "SLM-060": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 21.7,
+      "top_md_m": 21.7,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 35.3,
+      "top_md_m": 35.3,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 405.4,
+      "top_md_m": 405.4,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 897.1,
+      "top_md_m": 897.1,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    },
+    {
+      "formation": "Barail Coal Shale",
+      "top_tvd_m": 2118.8,
+      "top_md_m": 2118.8,
+      "lithology": "Carbonaceous shale with coal seams and thin sandstone"
+    },
+    {
+      "formation": "Barail Arenaceous",
+      "top_tvd_m": 2712.4,
+      "top_md_m": 2712.4,
+      "lithology": "Fine to medium sandstone with shale interbeds - principal pay"
+    },
+    {
+      "formation": "Kopili Shale",
+      "top_tvd_m": 3260.0,
+      "top_md_m": 3418.2,
+      "lithology": "Dark grey marine shale with thin limestone stringers"
+    }
+  ],
+  "SLM-064": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 11.0,
+      "top_md_m": 11.0,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 23.6,
+      "top_md_m": 23.6,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 366.3,
+      "top_md_m": 366.3,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 816.7,
+      "top_md_m": 816.7,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    },
+    {
+      "formation": "Barail Coal Shale",
+      "top_tvd_m": 2064.5,
+      "top_md_m": 2064.5,
+      "lithology": "Carbonaceous shale with coal seams and thin sandstone"
+    },
+    {
+      "formation": "Barail Arenaceous",
+      "top_tvd_m": 2648.7,
+      "top_md_m": 2648.7,
+      "lithology": "Fine to medium sandstone with shale interbeds - principal pay"
+    },
+    {
+      "formation": "Kopili Shale",
+      "top_tvd_m": 3182.7,
+      "top_md_m": 3182.7,
+      "lithology": "Dark grey marine shale with thin limestone stringers"
+    }
+  ],
+  "SLM-065": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 19.8,
+      "top_md_m": 19.8,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 37.6,
+      "top_md_m": 37.6,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 429.9,
+      "top_md_m": 429.9,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 899.4,
+      "top_md_m": 899.4,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    },
+    {
+      "formation": "Barail Coal Shale",
+      "top_tvd_m": 2178.0,
+      "top_md_m": 2178.0,
+      "lithology": "Carbonaceous shale with coal seams and thin sandstone"
+    },
+    {
+      "formation": "Barail Arenaceous",
+      "top_tvd_m": 2719.5,
+      "top_md_m": 2719.5,
+      "lithology": "Fine to medium sandstone with shale interbeds - principal pay"
+    },
+    {
+      "formation": "Kopili Shale",
+      "top_tvd_m": 3294.3,
+      "top_md_m": 3381.3,
+      "lithology": "Dark grey marine shale with thin limestone stringers"
+    }
+  ],
+  "SLM-067": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 11.0,
+      "top_md_m": 11.0,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 40.7,
+      "top_md_m": 40.7,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 442.2,
+      "top_md_m": 442.2,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 927.9,
+      "top_md_m": 928.0,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    },
+    {
+      "formation": "Barail Coal Shale",
+      "top_tvd_m": 2179.9,
+      "top_md_m": 2263.0,
+      "lithology": "Carbonaceous shale with coal seams and thin sandstone"
+    },
+    {
+      "formation": "Barail Arenaceous",
+      "top_tvd_m": 2779.7,
+      "top_md_m": 2905.6,
+      "lithology": "Fine to medium sandstone with shale interbeds - principal pay"
+    }
+  ],
+  "DKM-016": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 11.5,
+      "top_md_m": 11.5,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 23.5,
+      "top_md_m": 23.5,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 158.3,
+      "top_md_m": 158.3,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 572.9,
+      "top_md_m": 572.9,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    },
+    {
+      "formation": "Barail Coal Shale",
+      "top_tvd_m": 1788.6,
+      "top_md_m": 1885.1,
+      "lithology": "Carbonaceous shale with coal seams and thin sandstone"
+    },
+    {
+      "formation": "Barail Arenaceous",
+      "top_tvd_m": 2300.9,
+      "top_md_m": 2561.9,
+      "lithology": "Fine to medium sandstone with shale interbeds - principal pay"
+    }
+  ],
+  "DKM-019": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 12.1,
+      "top_md_m": 12.1,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 29.7,
+      "top_md_m": 29.7,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 214.9,
+      "top_md_m": 214.9,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 652.6,
+      "top_md_m": 652.6,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    },
+    {
+      "formation": "Barail Coal Shale",
+      "top_tvd_m": 1858.1,
+      "top_md_m": 1858.1,
+      "lithology": "Carbonaceous shale with coal seams and thin sandstone"
+    },
+    {
+      "formation": "Barail Arenaceous",
+      "top_tvd_m": 2389.9,
+      "top_md_m": 2389.9,
+      "lithology": "Fine to medium sandstone with shale interbeds - principal pay"
+    }
+  ],
+  "DKM-020": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 12.3,
+      "top_md_m": 12.3,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 27.8,
+      "top_md_m": 27.8,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 186.6,
+      "top_md_m": 186.6,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 610.9,
+      "top_md_m": 610.9,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    },
+    {
+      "formation": "Barail Coal Shale",
+      "top_tvd_m": 1791.2,
+      "top_md_m": 1791.2,
+      "lithology": "Carbonaceous shale with coal seams and thin sandstone"
+    },
+    {
+      "formation": "Barail Arenaceous",
+      "top_tvd_m": 2327.9,
+      "top_md_m": 2327.9,
+      "lithology": "Fine to medium sandstone with shale interbeds - principal pay"
+    },
+    {
+      "formation": "Kopili Shale",
+      "top_tvd_m": 2874.4,
+      "top_md_m": 2955.0,
+      "lithology": "Dark grey marine shale with thin limestone stringers"
+    }
+  ],
+  "DKM-023": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 11.0,
+      "top_md_m": 11.0,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 28.9,
+      "top_md_m": 28.9,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 259.0,
+      "top_md_m": 259.0,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 674.7,
+      "top_md_m": 674.7,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    },
+    {
+      "formation": "Barail Coal Shale",
+      "top_tvd_m": 1915.1,
+      "top_md_m": 2037.7,
+      "lithology": "Carbonaceous shale with coal seams and thin sandstone"
+    },
+    {
+      "formation": "Barail Arenaceous",
+      "top_tvd_m": 2419.8,
+      "top_md_m": 2603.2,
+      "lithology": "Fine to medium sandstone with shale interbeds - principal pay"
+    }
+  ],
+  "DKM-024": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 11.0,
+      "top_md_m": 11.0,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 43.2,
+      "top_md_m": 43.2,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 174.4,
+      "top_md_m": 174.4,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 560.4,
+      "top_md_m": 560.4,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    },
+    {
+      "formation": "Barail Coal Shale",
+      "top_tvd_m": 1749.4,
+      "top_md_m": 1749.4,
+      "lithology": "Carbonaceous shale with coal seams and thin sandstone"
+    },
+    {
+      "formation": "Barail Arenaceous",
+      "top_tvd_m": 2288.0,
+      "top_md_m": 2288.0,
+      "lithology": "Fine to medium sandstone with shale interbeds - principal pay"
+    }
+  ],
+  "BRK-024": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 11.0,
+      "top_md_m": 11.0,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 91.8,
+      "top_md_m": 91.8,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 486.7,
+      "top_md_m": 486.7,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 989.8,
+      "top_md_m": 1013.9,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    },
+    {
+      "formation": "Barail Coal Shale",
+      "top_tvd_m": 2255.2,
+      "top_md_m": 2478.0,
+      "lithology": "Carbonaceous shale with coal seams and thin sandstone"
+    },
+    {
+      "formation": "Barail Arenaceous",
+      "top_tvd_m": 2785.1,
+      "top_md_m": 3091.2,
+      "lithology": "Fine to medium sandstone with shale interbeds - principal pay"
+    }
+  ],
+  "BRK-026": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 26.5,
+      "top_md_m": 26.5,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 82.5,
+      "top_md_m": 82.5,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 486.3,
+      "top_md_m": 486.3,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 978.1,
+      "top_md_m": 978.1,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    },
+    {
+      "formation": "Barail Coal Shale",
+      "top_tvd_m": 2293.9,
+      "top_md_m": 2293.9,
+      "lithology": "Carbonaceous shale with coal seams and thin sandstone"
+    },
+    {
+      "formation": "Barail Arenaceous",
+      "top_tvd_m": 2845.5,
+      "top_md_m": 2845.5,
+      "lithology": "Fine to medium sandstone with shale interbeds - principal pay"
+    }
+  ],
+  "BRK-028": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 18.4,
+      "top_md_m": 18.4,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 70.3,
+      "top_md_m": 70.3,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 454.2,
+      "top_md_m": 454.2,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 953.6,
+      "top_md_m": 953.6,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    },
+    {
+      "formation": "Barail Coal Shale",
+      "top_tvd_m": 2226.6,
+      "top_md_m": 2226.6,
+      "lithology": "Carbonaceous shale with coal seams and thin sandstone"
+    },
+    {
+      "formation": "Barail Arenaceous",
+      "top_tvd_m": 2851.8,
+      "top_md_m": 2851.8,
+      "lithology": "Fine to medium sandstone with shale interbeds - principal pay"
+    }
+  ],
+  "BRK-030": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 15.5,
+      "top_md_m": 15.5,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 57.8,
+      "top_md_m": 57.8,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 472.0,
+      "top_md_m": 472.0,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 962.5,
+      "top_md_m": 1030.5,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    },
+    {
+      "formation": "Barail Coal Shale",
+      "top_tvd_m": 2216.4,
+      "top_md_m": 2621.8,
+      "lithology": "Carbonaceous shale with coal seams and thin sandstone"
+    },
+    {
+      "formation": "Barail Arenaceous",
+      "top_tvd_m": 2811.2,
+      "top_md_m": 3376.7,
+      "lithology": "Fine to medium sandstone with shale interbeds - principal pay"
+    }
+  ],
+  "JRJ-020": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 11.0,
+      "top_md_m": 11.0,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 199.8,
+      "top_md_m": 199.8,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 634.9,
+      "top_md_m": 634.9,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 1195.0,
+      "top_md_m": 1195.0,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    },
+    {
+      "formation": "Barail Coal Shale",
+      "top_tvd_m": 2435.5,
+      "top_md_m": 2435.5,
+      "lithology": "Carbonaceous shale with coal seams and thin sandstone"
+    },
+    {
+      "formation": "Barail Arenaceous",
+      "top_tvd_m": 3085.4,
+      "top_md_m": 3085.4,
+      "lithology": "Fine to medium sandstone with shale interbeds - principal pay"
+    },
+    {
+      "formation": "Kopili Shale",
+      "top_tvd_m": 3661.9,
+      "top_md_m": 3661.9,
+      "lithology": "Dark grey marine shale with thin limestone stringers"
+    }
+  ],
+  "JRJ-023": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 11.0,
+      "top_md_m": 11.0,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 184.6,
+      "top_md_m": 184.6,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 622.9,
+      "top_md_m": 622.9,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 1152.3,
+      "top_md_m": 1167.9,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    },
+    {
+      "formation": "Barail Coal Shale",
+      "top_tvd_m": 2497.6,
+      "top_md_m": 2618.8,
+      "lithology": "Carbonaceous shale with coal seams and thin sandstone"
+    },
+    {
+      "formation": "Barail Arenaceous",
+      "top_tvd_m": 3034.4,
+      "top_md_m": 3197.8,
+      "lithology": "Fine to medium sandstone with shale interbeds - principal pay"
+    },
+    {
+      "formation": "Kopili Shale",
+      "top_tvd_m": 3644.2,
+      "top_md_m": 3855.4,
+      "lithology": "Dark grey marine shale with thin limestone stringers"
+    }
+  ],
+  "JRJ-024": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 26.9,
+      "top_md_m": 26.9,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 232.6,
+      "top_md_m": 232.6,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 678.6,
+      "top_md_m": 678.6,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 1220.5,
+      "top_md_m": 1220.5,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    }
+  ],
+  "JRJ-028": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 20.4,
+      "top_md_m": 20.4,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 165.4,
+      "top_md_m": 165.4,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 593.1,
+      "top_md_m": 593.1,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 1122.4,
+      "top_md_m": 1122.4,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    },
+    {
+      "formation": "Barail Coal Shale",
+      "top_tvd_m": 2439.2,
+      "top_md_m": 2439.2,
+      "lithology": "Carbonaceous shale with coal seams and thin sandstone"
+    },
+    {
+      "formation": "Barail Arenaceous",
+      "top_tvd_m": 2996.3,
+      "top_md_m": 2996.3,
+      "lithology": "Fine to medium sandstone with shale interbeds - principal pay"
+    },
+    {
+      "formation": "Kopili Shale",
+      "top_tvd_m": 3585.0,
+      "top_md_m": 3585.0,
+      "lithology": "Dark grey marine shale with thin limestone stringers"
+    },
+    {
+      "formation": "Sylhet Limestone",
+      "top_tvd_m": 3955.7,
+      "top_md_m": 3955.7,
+      "lithology": "Fossiliferous limestone, locally fractured and karstified"
+    },
+    {
+      "formation": "Langpar",
+      "top_tvd_m": 4266.2,
+      "top_md_m": 4266.2,
+      "lithology": "Argillaceous limestone and calcareous shale"
+    },
+    {
+      "formation": "Basement",
+      "top_tvd_m": 4558.5,
+      "top_md_m": 4558.5,
+      "lithology": "Weathered and fractured granitic gneiss"
+    }
+  ],
+  "JRJ-029": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 14.6,
+      "top_md_m": 14.6,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 187.8,
+      "top_md_m": 187.8,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 645.1,
+      "top_md_m": 645.1,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 1157.5,
+      "top_md_m": 1157.5,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    },
+    {
+      "formation": "Barail Coal Shale",
+      "top_tvd_m": 2473.8,
+      "top_md_m": 2473.8,
+      "lithology": "Carbonaceous shale with coal seams and thin sandstone"
+    },
+    {
+      "formation": "Barail Arenaceous",
+      "top_tvd_m": 3105.3,
+      "top_md_m": 3105.3,
+      "lithology": "Fine to medium sandstone with shale interbeds - principal pay"
+    }
+  ],
+  "JRJ-033": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 11.0,
+      "top_md_m": 11.0,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 204.1,
+      "top_md_m": 204.1,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 635.3,
+      "top_md_m": 635.3,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 1189.0,
+      "top_md_m": 1189.0,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    },
+    {
+      "formation": "Barail Coal Shale",
+      "top_tvd_m": 2455.1,
+      "top_md_m": 2455.1,
+      "lithology": "Carbonaceous shale with coal seams and thin sandstone"
+    },
+    {
+      "formation": "Barail Arenaceous",
+      "top_tvd_m": 3102.0,
+      "top_md_m": 3102.0,
+      "lithology": "Fine to medium sandstone with shale interbeds - principal pay"
+    },
+    {
+      "formation": "Kopili Shale",
+      "top_tvd_m": 3638.0,
+      "top_md_m": 3638.0,
+      "lithology": "Dark grey marine shale with thin limestone stringers"
+    }
+  ],
+  "MKM-063": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 21.1,
+      "top_md_m": 21.1,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 176.4,
+      "top_md_m": 176.4,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 605.5,
+      "top_md_m": 605.5,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 1143.4,
+      "top_md_m": 1143.4,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    },
+    {
+      "formation": "Barail Coal Shale",
+      "top_tvd_m": 2415.5,
+      "top_md_m": 2415.5,
+      "lithology": "Carbonaceous shale with coal seams and thin sandstone"
+    },
+    {
+      "formation": "Barail Arenaceous",
+      "top_tvd_m": 3004.7,
+      "top_md_m": 3004.7,
+      "lithology": "Fine to medium sandstone with shale interbeds - principal pay"
+    }
+  ],
+  "MKM-066": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 11.0,
+      "top_md_m": 11.0,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 138.9,
+      "top_md_m": 138.9,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 543.2,
+      "top_md_m": 543.2,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 1054.4,
+      "top_md_m": 1054.4,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    },
+    {
+      "formation": "Barail Coal Shale",
+      "top_tvd_m": 2362.0,
+      "top_md_m": 2362.0,
+      "lithology": "Carbonaceous shale with coal seams and thin sandstone"
+    },
+    {
+      "formation": "Barail Arenaceous",
+      "top_tvd_m": 2915.3,
+      "top_md_m": 2915.3,
+      "lithology": "Fine to medium sandstone with shale interbeds - principal pay"
+    }
+  ],
+  "MKM-070": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 11.0,
+      "top_md_m": 11.0,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 137.8,
+      "top_md_m": 137.8,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 530.6,
+      "top_md_m": 530.6,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 1042.8,
+      "top_md_m": 1042.8,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    },
+    {
+      "formation": "Barail Coal Shale",
+      "top_tvd_m": 2324.4,
+      "top_md_m": 2324.4,
+      "lithology": "Carbonaceous shale with coal seams and thin sandstone"
+    },
+    {
+      "formation": "Barail Arenaceous",
+      "top_tvd_m": 2873.1,
+      "top_md_m": 2873.1,
+      "lithology": "Fine to medium sandstone with shale interbeds - principal pay"
+    }
+  ],
+  "MKM-073": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 17.1,
+      "top_md_m": 17.1,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 116.1,
+      "top_md_m": 116.1,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 534.2,
+      "top_md_m": 534.2,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 1048.8,
+      "top_md_m": 1048.8,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    }
+  ],
+  "NHK-072": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 21.4,
+      "top_md_m": 21.4,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 192.5,
+      "top_md_m": 192.5,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 632.8,
+      "top_md_m": 632.8,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 1184.6,
+      "top_md_m": 1184.6,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    },
+    {
+      "formation": "Barail Coal Shale",
+      "top_tvd_m": 2508.4,
+      "top_md_m": 2586.8,
+      "lithology": "Carbonaceous shale with coal seams and thin sandstone"
+    },
+    {
+      "formation": "Barail Arenaceous",
+      "top_tvd_m": 3058.7,
+      "top_md_m": 3182.4,
+      "lithology": "Fine to medium sandstone with shale interbeds - principal pay"
+    }
+  ],
+  "MRN-068": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 14.5,
+      "top_md_m": 14.5,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 27.8,
+      "top_md_m": 27.8,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 313.6,
+      "top_md_m": 313.6,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 766.8,
+      "top_md_m": 766.8,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    },
+    {
+      "formation": "Barail Coal Shale",
+      "top_tvd_m": 1999.9,
+      "top_md_m": 1999.9,
+      "lithology": "Carbonaceous shale with coal seams and thin sandstone"
+    },
+    {
+      "formation": "Barail Arenaceous",
+      "top_tvd_m": 2563.5,
+      "top_md_m": 2563.5,
+      "lithology": "Fine to medium sandstone with shale interbeds - principal pay"
+    }
+  ],
+  "TGK-076": [
+    {
+      "formation": "Dihing",
+      "top_tvd_m": 19.5,
+      "top_md_m": 19.5,
+      "lithology": "Unconsolidated pebbly sandstone, clay and gravel"
+    },
+    {
+      "formation": "Namsang",
+      "top_tvd_m": 43.1,
+      "top_md_m": 43.1,
+      "lithology": "Medium to coarse sandstone with clay interbeds"
+    },
+    {
+      "formation": "Girujan Clay",
+      "top_tvd_m": 417.1,
+      "top_md_m": 417.1,
+      "lithology": "Mottled clay with thin siltstone and sandstone bands"
+    },
+    {
+      "formation": "Tipam Sandstone",
+      "top_tvd_m": 853.7,
+      "top_md_m": 853.7,
+      "lithology": "Massive ferruginous sandstone with clay partings"
+    },
+    {
+      "formation": "Barail Coal Shale",
+      "top_tvd_m": 2174.0,
+      "top_md_m": 2248.3,
+      "lithology": "Carbonaceous shale with coal seams and thin sandstone"
+    },
+    {
+      "formation": "Barail Arenaceous",
+      "top_tvd_m": 2683.5,
+      "top_md_m": 2809.6,
+      "lithology": "Fine to medium sandstone with shale interbeds - principal pay"
+    }
+  ]
+}

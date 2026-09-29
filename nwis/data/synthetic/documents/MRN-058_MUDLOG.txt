@@ -1,0 +1,127 @@
+[PAGE 1]
+OIL INDIA LIMITED - MUD LOG / LITHOLOGY LOG
+Well: Moran-58 (MRN-058)    Field: Moran
+Mud System: Water-based bentonite / PHPA
+==============================================================================
+
+    MD (m)   TVD (m)Formation                      ROP     Gas     MW
+                                                (m/hr) (units)   (sg)
+------------------------------------------------------------------------------
+        10        10Dihing                        37.0       2   1.08
+        60        60Namsang                       29.1       0   1.09
+       110       110Namsang                       14.0       1   1.09
+       160       160Namsang                       10.8       3   1.09
+       210       210Namsang                       16.1       4   1.09
+       260       260Namsang                       13.6       5   1.09
+       310       310Namsang                       11.3       6   1.09
+       360       360Namsang                       12.1       2   1.09
+       410       410Girujan Clay                   8.4       5   1.12
+           >> Wellbore instability in Girujan Clay from 400 m MD. Excessive cavings (1.7 m3) over the shakers.
+       460       460Girujan Clay                   9.1       2   1.12
+       510       510Girujan Clay                  10.1       3   1.12
+       560       560Girujan Clay                  10.0       2   1.12
+       610       610Girujan Clay                  10.8       2   1.12
+       660       660Girujan Clay                   9.4       3   1.12
+       710       710Girujan Clay                   7.8       2   1.12
+       760       760Girujan Clay                  11.3       0   1.12
+       810       810Girujan Clay                  10.2       4   1.12
+       860       860Tipam Sandstone                6.5      32   1.08
+       910       910Tipam Sandstone                6.0      34   1.08
+       960       960Tipam Sandstone               11.8      29   1.08
+     1,010     1,010Tipam Sandstone                8.8      30   1.08
+     1,060     1,060Tipam Sandstone                9.6      32   1.08
+     1,110     1,110Tipam Sandstone                7.7      26   1.08
+     1,160     1,160Tipam Sandstone               10.8      31   1.08
+     1,210     1,210Tipam Sandstone                9.6      30   1.08
+     1,260     1,260Tipam Sandstone                9.3      32   1.08
+     1,310     1,310Tipam Sandstone               11.4      30   1.08
+     1,360     1,360Tipam Sandstone               10.6      28   1.08
+     1,410     1,410Tipam Sandstone                8.2      32   1.08
+     1,460     1,460Tipam Sandstone                7.0      27   1.08
+     1,510     1,509Tipam Sandstone                7.2      29   1.08
+     1,560     1,557Tipam Sandstone                6.8      28   1.08
+     1,610     1,604Tipam Sandstone               10.1      31   1.08
+     1,660     1,649Tipam Sandstone               10.5      32   1.08
+     1,710     1,693Tipam Sandstone                9.1      31   1.08
+     1,760     1,735Tipam Sandstone                9.2      31   1.08
+     1,810     1,778Tipam Sandstone                7.3      30   1.08
+     1,860     1,820Tipam Sandstone                6.7      30   1.08
+     1,910     1,863Tipam Sandstone                8.1      31   1.08
+     1,960     1,905Tipam Sandstone                7.9      31   1.08
+     2,010     1,948Tipam Sandstone                7.4      30   1.08
+
+[PAGE 2]
+     2,060     1,990Tipam Sandstone                9.9      26   1.08
+     2,110     2,032Tipam Sandstone                8.8      30   1.08
+     2,160     2,075Tipam Sandstone                6.1      28   1.08
+     2,210     2,117Barail Coal Shale              8.3      18   1.20
+     2,260     2,160Barail Coal Shale              7.3      20   1.20
+     2,310     2,202Barail Coal Shale              5.3      19   1.20
+     2,360     2,245Barail Coal Shale              7.6      22   1.20
+     2,410     2,287Barail Coal Shale              7.1      20   1.20
+     2,460     2,330Barail Coal Shale              4.8      21   1.20
+     2,510     2,372Barail Coal Shale              7.0      18   1.20
+     2,560     2,414Barail Coal Shale              4.9      24   1.20
+     2,610     2,457Barail Coal Shale              7.8      22   1.20
+     2,660     2,499Barail Coal Shale              6.7      21   1.20
+     2,710     2,542Barail Coal Shale              6.8      21   1.20
+     2,760     2,584Barail Coal Shale              6.7      22   1.20
+           >> Cavings observed at shakers while drilling Barail Coal Shale at 2,730 m MD; approximately 15.4 m3 recovered.
+     2,810     2,627Barail Coal Shale              5.8      16   1.20
+           >> CBL/VDL run on the 9-5/8in intermediate indicated poor to fair bond, bond index 0.275.
+     2,860     2,669Barail Coal Shale             11.2      21   1.20
+     2,910     2,712Barail Arenaceous             10.7      32   1.25
+     2,960     2,754Barail Arenaceous             10.5      31   1.25
+     3,010     2,796Barail Arenaceous              6.9      30   1.25
+     3,060     2,839Barail Arenaceous              8.1      30   1.25
+           >> While drilling Barail Arenaceous at 3,030 m MD, returns reduced and losses of 5.2 m3/hr were measured.
+     3,110     2,881Barail Arenaceous              9.7      33   1.25
+           >> Gas influx observed at 3,110 m MD in Barail Arenaceous; gas units rose to 2588. Pit gain 11.3 m3.
+     3,160     2,924Barail Arenaceous             10.1      29   1.25
+     3,210     2,966Barail Arenaceous              9.2      30   1.25
+     3,260     3,009Barail Arenaceous             10.6      29   1.25
+     3,310     3,051Barail Arenaceous              6.6      31   1.25
+           >> Differential sticking at 3,300 m MD across the Barail Arenaceous; maximum overpull 93.1 t.
+     3,360     3,094Barail Arenaceous              8.3      30   1.25
+     3,410     3,136Barail Arenaceous              6.4      30   1.25
+     3,460     3,178Barail Arenaceous              3.2      32   1.25
+           >> Top of cement logged at 2,864 m against a planned top of 2,590 m behind the 7in liner.
+     3,510     3,221Barail Arenaceous              4.6      31   1.25
+     3,560     3,263Kopili Shale                   4.0       5   1.48
+     3,610     3,306Kopili Shale                   2.9       3   1.48
+     3,660     3,348Kopili Shale                   2.4       1   1.48
+     3,710     3,391Kopili Shale                   3.2       2   1.48
+     3,760     3,433Kopili Shale                   3.1       2   1.48
+     3,810     3,476Kopili Shale                   3.7       2   1.48
+     3,860     3,518Kopili Shale                   2.8       0   1.48
+     3,910     3,561Kopili Shale                   3.7       2   1.48
+     3,960     3,603Kopili Shale                   3.0       0   1.48
+     4,010     3,645Sylhet Limestone               2.5       3   1.34
+     4,060     3,688Sylhet Limestone               3.0       3   1.34
+     4,110     3,730Sylhet Limestone               2.4       3   1.34
+     4,160     3,773Sylhet Limestone               2.2       0   1.34
+     4,210     3,815Langpar                        1.8       4   1.36
+
+[PAGE 3]
+     4,260     3,858Langpar                        2.3       2   1.36
+
+LITHOLOGICAL DESCRIPTION
+------------------------------------------------------------------------------
+14 m MD - Dihing
+    Unconsolidated pebbly sandstone, clay and gravel.
+32 m MD - Namsang
+    Medium to coarse sandstone with clay interbeds.
+388 m MD - Girujan Clay
+    Mottled clay with thin siltstone and sandstone bands.
+860 m MD - Tipam Sandstone
+    Massive ferruginous sandstone with clay partings.
+2,182 m MD - Barail Coal Shale
+    Carbonaceous shale with coal seams and thin sandstone.
+2,900 m MD - Barail Arenaceous
+    Fine to medium sandstone with shale interbeds - principal pay.
+3,518 m MD - Kopili Shale
+    Dark grey marine shale with thin limestone stringers.
+3,993 m MD - Sylhet Limestone
+    Fossiliferous limestone, locally fractured and karstified.
+4,200 m MD - Langpar
+    Argillaceous limestone and calcareous shale.

@@ -1,0 +1,107 @@
+[PAGE 1]
+OIL INDIA LIMITED - DAILY DRILLING REPORT
+Well: Moran-68 (MRN-068)    Field: Moran    Rig: OIL-RIG-30 (ZJ-50)
+==============================================================================
+
+DAY   1   DATE 20-09-2026   DEPTH 80.0 m MD
+  Progress        : 80.0 m
+  Present Formation: Namsang
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Hole washout logged at 10 m MD in Dihing; caliper 42.6 percent over gauge.
+      Noted for cement volume calculation; no remedial action taken.
+      NPT 6.3 hrs.
+
+DAY   2   DATE 21-09-2026   DEPTH 200.0 m MD
+  Progress        : 120.0 m
+  Present Formation: Namsang
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   3   DATE 22-09-2026   DEPTH 460.0 m MD
+  Progress        : 260.0 m
+  Present Formation: Girujan Clay
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   4   DATE 23-09-2026   DEPTH 610.0 m MD
+  Progress        : 150.0 m
+  Present Formation: Girujan Clay
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Cavings observed at shakers while drilling Girujan Clay at 610 m MD; approximately 3.5 m3 recovered.
+      Increased KCl concentration and raised mud weight to 1.16 sg.
+      NPT 13.6 hrs.
+
+DAY   5   DATE 24-09-2026   DEPTH 760.0 m MD
+  Progress        : 150.0 m
+  Present Formation: Girujan Clay
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   6   DATE 25-09-2026   DEPTH 820.0 m MD
+  Progress        : 60.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Bond log showed channelling behind the 13-3/8in surface, casing poorly centralised.
+      Squeeze performed across the channelled interval.
+      NPT 17.9 hrs.
+    - Cement bond log across the 13-3/8in surface showed poor bonding, bond index 0.182.
+
+[PAGE 2]
+      Remedial squeeze carried out and the bond log re-run; bond improved to fair.
+      NPT 48.7 hrs.
+
+DAY   7   DATE 26-09-2026   DEPTH 1,010.0 m MD
+  Progress        : 190.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   8   DATE 27-09-2026   DEPTH 1,210.0 m MD
+  Progress        : 200.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   9   DATE 28-09-2026   DEPTH 1,210.0 m MD
+  Progress        : 0.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  10   DATE 29-09-2026   DEPTH 1,250.0 m MD
+  Progress        : 40.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  11   DATE 30-09-2026   DEPTH 1,450.0 m MD
+  Progress        : 200.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  12   DATE 01-10-2026   DEPTH 1,650.0 m MD
+  Progress        : 200.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  13   DATE 02-10-2026   DEPTH 1,815.3 m MD
+  Progress        : 165.3 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+

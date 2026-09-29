@@ -1,0 +1,145 @@
+[PAGE 1]
+OIL INDIA LIMITED - DAILY DRILLING REPORT
+Well: Tengakhat-64 (TGK-064)    Field: Tengakhat    Rig: OIL-RIG-08 (E-1400)
+==============================================================================
+
+DAY   1   DATE 18-11-2022   DEPTH 80.0 m MD
+  Progress        : 80.0 m
+  Present Formation: Dihing
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   2   DATE 19-11-2022   DEPTH 430.0 m MD
+  Progress        : 350.0 m
+  Present Formation: Namsang
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Seepage losses (3.6 m3/hr) noted at 430 m MD in the Namsang.
+      LCM pill of 64 bbl (medium nut plug and mica) pumped; losses reduced.
+      NPT 6.0 hrs.
+
+DAY   3   DATE 20-11-2022   DEPTH 570.0 m MD
+  Progress        : 140.0 m
+  Present Formation: Girujan Clay
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Tight hole experienced at 570 m MD in Girujan Clay; 7 reaming passes required.
+      Reamed and circulated the interval clean before continuing.
+      NPT 21.1 hrs.
+
+DAY   4   DATE 21-11-2022   DEPTH 920.0 m MD
+  Progress        : 350.0 m
+  Present Formation: Girujan Clay
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   5   DATE 22-11-2022   DEPTH 1,070.0 m MD
+  Progress        : 150.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Top of cement logged at 113 m against a planned top of 0 m behind the 13-3/8in surface.
+      Accepted after review; previous shoe covered by the subsequent string.
+      NPT 21.9 hrs.
+
+DAY   6   DATE 23-11-2022   DEPTH 1,270.0 m MD
+  Progress        : 200.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+
+[PAGE 2]
+DAY   7   DATE 24-11-2022   DEPTH 1,510.0 m MD
+  Progress        : 240.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - While drilling Tipam Sandstone at 1,380 m MD, returns reduced and losses of 2.3 m3/hr were measured.
+      Reduced flow rate and continued drilling blind with water.
+      NPT 7.0 hrs.
+
+DAY   8   DATE 25-11-2022   DEPTH 1,800.0 m MD
+  Progress        : 290.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   9   DATE 26-11-2022   DEPTH 2,100.0 m MD
+  Progress        : 300.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  10   DATE 27-11-2022   DEPTH 2,360.0 m MD
+  Progress        : 260.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  11   DATE 28-11-2022   DEPTH 2,560.0 m MD
+  Progress        : 200.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  12   DATE 29-11-2022   DEPTH 2,560.0 m MD
+  Progress        : 0.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  13   DATE 30-11-2022   DEPTH 2,680.0 m MD
+  Progress        : 120.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  14   DATE 01-12-2022   DEPTH 2,850.0 m MD
+
+[PAGE 3]
+  Progress        : 170.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - CBL/VDL run on the 9-5/8in intermediate indicated poor to fair bond, bond index 0.336.
+      Remedial squeeze carried out and the bond log re-run; bond improved to fair.
+      NPT 15.0 hrs.
+
+DAY  15   DATE 02-12-2022   DEPTH 2,910.0 m MD
+  Progress        : 60.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  16   DATE 03-12-2022   DEPTH 3,030.0 m MD
+  Progress        : 120.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  17   DATE 04-12-2022   DEPTH 3,150.0 m MD
+  Progress        : 120.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  18   DATE 05-12-2022   DEPTH 3,228.5 m MD
+  Progress        : 78.5 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+

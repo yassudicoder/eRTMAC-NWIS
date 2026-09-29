@@ -1,0 +1,60 @@
+[PAGE 1]
+OIL INDIA LIMITED - MUD LOG / LITHOLOGY LOG
+Well: Duliajan-37 (DLJ-037)    Field: Duliajan
+Mud System: Low-solids non-dispersed WBM
+==============================================================================
+
+    MD (m)   TVD (m)Formation                      ROP     Gas     MW
+                                                (m/hr) (units)   (sg)
+------------------------------------------------------------------------------
+        10        10Dihing                        17.0       3   1.08
+        60        60Dihing                        17.0       3   1.08
+           >> Hole washout logged at 50 m MD in Dihing; caliper 25.0 percent over gauge.
+       110       110Dihing                        18.8       6   1.08
+       160       160Namsang                       21.4       1   1.09
+       210       210Namsang                       18.1       2   1.09
+       260       260Namsang                       17.9       4   1.09
+       310       310Namsang                       18.1       6   1.09
+       360       360Namsang                       20.4       1   1.09
+       410       410Namsang                       15.6       3   1.09
+       460       460Namsang                       17.8       2   1.09
+       510       510Namsang                       12.8       2   1.09
+       560       560Girujan Clay                  13.9       2   1.12
+       610       610Girujan Clay                  11.0       4   1.12
+       660       660Girujan Clay                  10.7       2   1.12
+       710       710Girujan Clay                  14.5       5   1.12
+       760       759Girujan Clay                  12.6       1   1.12
+       810       808Girujan Clay                   9.4       4   1.12
+       860       856Girujan Clay                  11.1       0   1.12
+       910       903Girujan Clay                  13.2       2   1.12
+           >> Bit and BHA balling up in the Girujan Clay at 900 m MD, SPP increase of 38.2 ksc.
+       960       950Girujan Clay                  12.8       4   1.12
+     1,010       996Girujan Clay                  14.4       3   1.12
+     1,060     1,040Girujan Clay                  13.2       1   1.12
+     1,110     1,084Tipam Sandstone               11.6      31   1.08
+           >> Remedial cement squeeze performed behind the 13-3/8in surface at 1,124 m MD before drilling ahead.
+     1,160     1,126Tipam Sandstone               10.2      29   1.08
+     1,210     1,169Tipam Sandstone                7.9      35   1.08
+     1,260     1,212Tipam Sandstone                7.8      30   1.08
+     1,310     1,254Tipam Sandstone                7.7      33   1.08
+     1,360     1,297Tipam Sandstone                7.9      34   1.08
+     1,410     1,340Tipam Sandstone               10.2      29   1.08
+     1,460     1,383Tipam Sandstone                9.1      33   1.08
+     1,510     1,425Tipam Sandstone                6.9      28   1.08
+     1,560     1,468Tipam Sandstone                8.3      29   1.08
+     1,610     1,511Tipam Sandstone                7.9      30   1.08
+     1,660     1,554Tipam Sandstone                7.8      30   1.08
+     1,710     1,596Tipam Sandstone                8.8      32   1.08
+
+LITHOLOGICAL DESCRIPTION
+------------------------------------------------------------------------------
+11 m MD - Dihing
+
+[PAGE 2]
+    Unconsolidated pebbly sandstone, clay and gravel.
+124 m MD - Namsang
+    Medium to coarse sandstone with clay interbeds.
+551 m MD - Girujan Clay
+    Mottled clay with thin siltstone and sandstone bands.
+1,101 m MD - Tipam Sandstone
+    Massive ferruginous sandstone with clay partings.

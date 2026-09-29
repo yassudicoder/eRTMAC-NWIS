@@ -1,0 +1,177 @@
+[PAGE 1]
+OIL INDIA LIMITED
+DRILLING DEPARTMENT, DULIAJAN, ASSAM
+
+WELL COMPLETION REPORT
+========================================================================
+
+1. WELL IDENTIFICATION
+------------------------------------------------------------------------
+Well Number            : Dikom-16
+Well Code              : DKM-016
+Field / Structure      : Dikom
+Category               : Development
+Well Profile           : Deviated
+Surface Coordinates    : 27.51874 N, 95.07884 E
+Bottom Hole Coordinates: 27.50872 N, 95.07739 E
+Ground Level           : 125.6 m above MSL
+Rig                    : OIL-RIG-12 (E-2000)
+Date Spudded           : 27-05-2021
+Date Completed         : 30-06-2021
+Total Depth (MD)       : 3,075.0 m
+Total Depth (TVD)      : 2,688.9 m
+Kick Off Point         : 1,050.7 m MD
+Maximum Inclination    : 40.8 deg
+Azimuth                : 187.3 deg
+Horizontal Displacement: 1,116.9 m
+Target Formation       : Barail Arenaceous
+Total Days Drilled     : 28
+Total NPT              : 359.1 hrs
+
+2. CASING AND HOLE PROGRAMME
+------------------------------------------------------------------------
+Hole Size   Casing                     Shoe MD (m)  Shoe TVD (m)   TOC (m)
+26in        20in conductor                    66.1          66.1         0
+17-1/2in    13-3/8in surface                 629.0         629.0         0
+12-1/4in    9-5/8in intermediate           2,468.4       2,229.8       505
+
+Mud System             : Water-based bentonite / PHPA
+
+2A. CEMENTING RECORD
+------------------------------------------------------------------------
+Casing                     Shoe MD  Planned TOC  Actual TOC   Slurry  Returns   Bond
+                               (m)          (m)         (m)     (m3)           index
+13-3/8in surface               629            0         175     29.1  partial   0.35
+9-5/8in intermediate         2,468          505         811    109.6  partial   0.24
+
+Cement bond log across the 13-3/8in surface indicated poor to fair bond (bond index 0.35).
+
+[PAGE 2]
+Cement bond log across the 9-5/8in intermediate indicated poor to fair bond (bond index 0.24).
+
+3. GEOLOGICAL SUMMARY - FORMATION TOPS
+------------------------------------------------------------------------
+Formation                    Top MD (m)   Top TVD (m)   Lithology
+Dihing                             11.5          11.5   Unconsolidated pebbly sandstone, clay and gravel
+Namsang                            23.5          23.5   Medium to coarse sandstone with clay interbeds
+Girujan Clay                      158.3         158.3   Mottled clay with thin siltstone and sandstone bands
+Tipam Sandstone                   572.9         572.9   Massive ferruginous sandstone with clay partings
+Barail Coal Shale               1,885.1       1,788.6   Carbonaceous shale with coal seams and thin sandstone
+Barail Arenaceous               2,561.9       2,300.9   Fine to medium sandstone with shale interbeds - principal pay
+
+The well encountered the normal Upper Assam section. Formation tops were
+picked on the basis of cuttings examination and wireline log correlation
+with the neighbouring wells of the structure.
+
+3A. RESERVOIR SUMMARY
+------------------------------------------------------------------------
+Formation             Fluid            Gross  Net Pay   Poro     Perm     Sw   Press
+                                         (m)      (m)    (%)     (mD)    (%)    (sg)
+Tipam Sandstone       oil              143.9    109.8   25.1  1,287.8   29.2    0.88
+Barail Arenaceous     oil and gas      149.4    111.4   17.8    362.7   18.8    1.01
+
+Tipam Sandstone: net pay 109.8 m, average porosity 25.1 percent, permeability 1,288 mD, water saturation 29.2 percent.
+    Reservoir pressure has declined from a virgin 1.02 sg to 0.88 sg equivalent, a depletion of 0.14 sg. Differential sticking risk across this interval is correspondingly elevated.
+    Formation temperature at top of interval: 44 deg C.
+Barail Arenaceous: net pay 111.4 m, average porosity 17.8 percent, permeability 363 mD, water saturation 18.8 percent.
+    Reservoir pressure has declined from a virgin 1.19 sg to 1.01 sg equivalent, a depletion of 0.17 sg. Differential sticking risk across this interval is correspondingly elevated.
+    Formation temperature at top of interval: 92 deg C.
+
+4. DRILLING PARAMETERS BY SECTION
+------------------------------------------------------------------------
+Formation                    Avg ROP   Avg WOB   Avg RPM    Mud Wt
+                              (m/hr)       (t)                (sg)
+Dihing                         36.17       7.0        92      1.08
+Namsang                        22.28       9.9        97      1.09
+Girujan Clay                   14.03      12.6       108      1.12
+Tipam Sandstone                 7.41      14.3        82      1.08
+Barail Coal Shale               5.40      15.3        88      1.20
+Barail Arenaceous               6.37      16.0       104      1.25
+
+5. DRILLING PROBLEMS AND REMEDIAL MEASURES
+------------------------------------------------------------------------
+5.1  Tipam Sandstone - 29-05-2021
+     Hole washout logged at 610 m MD in Tipam Sandstone; caliper 31.2 percent over gauge.
+     Noted for cement volume calculation; no remedial action taken.
+
+[PAGE 3]
+     Non-productive time attributable to this event: 3.2 hrs.
+
+5.2  Tipam Sandstone - 01-06-2021
+     Cement slurry lost to the formation while cementing 13-3/8in surface casing at 629 m MD.
+     Job completed with reduced returns; top of cement confirmed by temperature survey.
+     Non-productive time attributable to this event: 21.4 hrs.
+
+5.3  Tipam Sandstone - 01-06-2021
+     Cement bond log across the 13-3/8in surface showed poor bonding, bond index 0.349.
+     Remedial squeeze carried out and the bond log re-run; bond improved to fair.
+     Non-productive time attributable to this event: 15.2 hrs.
+
+5.4  Tipam Sandstone - 01-06-2021
+     Primary cement job on the 13-3/8in surface failed acceptance; remedial squeeze carried out at 629 m MD.
+     Second squeeze required before an acceptable test was obtained.
+     Non-productive time attributable to this event: 35.3 hrs.
+
+5.5  Tipam Sandstone - 01-06-2021
+     Top of cement logged at 175 m against a planned top of 0 m behind the 13-3/8in surface.
+     Accepted after review; previous shoe covered by the subsequent string.
+     Non-productive time attributable to this event: 58.8 hrs.
+
+5.6  Tipam Sandstone - 30-05-2021
+     Partial mud losses of 12.4 m3/hr observed at 660 m MD (660 m TVD) while drilling Tipam Sandstone.
+     Cement plug placed across the loss zone and drilled out after 8.3 hrs WOC.
+     Non-productive time attributable to this event: 20.6 hrs.
+
+5.7  Tipam Sandstone - 06-06-2021
+     Differential sticking at 1,740 m MD across the Tipam Sandstone; maximum overpull 86.0 t.
+     Jarring continued for 29.6 hrs before the string came free.
+     Non-productive time attributable to this event: 46.1 hrs.
+
+5.8  Barail Coal Shale - 12-06-2021
+     Cavings observed at shakers while drilling Barail Coal Shale at 2,180 m MD; approximately 11.8 m3 recovered.
+     Circulated hi-vis sweeps and back-reamed the interval before continuing.
+     Non-productive time attributable to this event: 57.5 hrs.
+
+5.9  Barail Coal Shale - 15-06-2021
+     High torque and drag from 2,320 m MD in Barail Coal Shale; peak torque 25.6 kNm.
+     Added lubricant to the mud system and reduced RPM.
+     Non-productive time attributable to this event: 18.3 hrs.
+
+5.10  Barail Coal Shale - 18-06-2021
+     Top of cement logged at 811 m against a planned top of 505 m behind the 9-5/8in intermediate.
+     Accepted after review; previous shoe covered by the subsequent string.
+     Non-productive time attributable to this event: 19.4 hrs.
+
+[PAGE 4]
+
+5.11  Barail Coal Shale - 18-06-2021
+     CBL/VDL run on the 9-5/8in intermediate indicated poor to fair bond, bond index 0.241.
+     Remedial squeeze carried out and the bond log re-run; bond improved to fair.
+     Non-productive time attributable to this event: 56.8 hrs.
+
+5.12  Barail Arenaceous - 20-06-2021
+     Lost circulation encountered at 2,710 m MD in Barail Arenaceous. Loss rate recorded as 9.9 m3/hr.
+     LCM pill of 140 bbl (medium nut plug and mica) pumped; losses reduced.
+     Non-productive time attributable to this event: 6.5 hrs.
+
+
+6. LESSONS LEARNT AND RECOMMENDATIONS FOR FUTURE WELLS
+------------------------------------------------------------------------
+- Tipam Sandstone - stuck pipe: differential sticking against depleted permeable sand.
+  Future wells on this structure should plan for this around
+  1,740 m MD.
+- Tipam Sandstone - cementing problem: cement slurry lost into a permeable or fractured interval, leaving the top of cement below the planned depth.
+  Future wells on this structure should plan for this around
+  629 m MD.
+- Tipam Sandstone - cementing problem: the primary cement job failed acceptance and a remedial squeeze was required before drilling ahead.
+  Future wells on this structure should plan for this around
+  629 m MD.
+- Tipam Sandstone - cementing problem: cement column fell short of the planned top, leaving the previous shoe uncovered.
+  Future wells on this structure should plan for this around
+  629 m MD.
+- Barail Coal Shale - wellbore instability: coal seams caving and producing large cavings at the shakers.
+  Future wells on this structure should plan for this around
+  2,180 m MD.
+
+Prepared by  : Drilling Engineering Group, OIL, Duliajan
+Reviewed by  : Head - Drilling Services

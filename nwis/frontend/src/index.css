@@ -1,0 +1,67 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html,
+  body,
+  #root {
+    height: 100%;
+  }
+  body {
+    @apply bg-slate-100 text-slate-800 antialiased;
+  }
+}
+
+@layer components {
+  .card {
+    @apply rounded-xl border border-slate-200 bg-white shadow-sm;
+  }
+  .card-head {
+    @apply flex items-center justify-between gap-3 border-b border-slate-200 px-4 py-3;
+  }
+  .card-title {
+    @apply text-sm font-semibold tracking-wide text-slate-700 uppercase;
+  }
+  .chip {
+    @apply inline-flex items-center gap-1 rounded-full px-2 py-0.5 text-xs font-semibold ring-1 ring-inset;
+  }
+  .btn {
+    @apply inline-flex items-center gap-1.5 rounded-lg border border-slate-300 bg-white px-3 py-1.5
+           text-sm font-medium text-slate-700 transition hover:bg-slate-50
+           disabled:cursor-not-allowed disabled:opacity-50;
+  }
+  .btn-primary {
+    @apply border-oil-700 bg-oil-700 text-white hover:bg-oil-800;
+  }
+  .nav-item {
+    @apply flex w-full items-center gap-3 rounded-lg px-3 py-2 text-sm font-medium
+           text-oil-100 transition hover:bg-white/10;
+  }
+  .nav-item-active {
+    @apply bg-white/15 text-white shadow-inner;
+  }
+  .stat-value {
+    @apply text-2xl font-bold tabular-nums text-slate-900;
+  }
+  .stat-label {
+    @apply text-xs font-medium uppercase tracking-wide text-slate-500;
+  }
+  .table-head {
+    @apply sticky top-0 z-10 bg-slate-50 text-xs font-semibold uppercase tracking-wide text-slate-500;
+  }
+}
+
+/* Leaflet needs an explicit height and sits under our overlays. */
+.leaflet-container {
+  height: 100%;
+  width: 100%;
+  background: #eef2f7;
+  font: inherit;
+  z-index: 0;
+}
+
+/* Keep long evidence text readable without breaking the layout. */
+.evidence-line {
+  @apply whitespace-pre-wrap break-words font-mono text-xs leading-relaxed;
+}

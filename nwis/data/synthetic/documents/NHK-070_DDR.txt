@@ -1,0 +1,208 @@
+[PAGE 1]
+OIL INDIA LIMITED - DAILY DRILLING REPORT
+Well: Naharkatiya-70 (NHK-070)    Field: Naharkatiya    Rig: OIL-RIG-30 (ZJ-50)
+==============================================================================
+
+DAY   1   DATE 09-04-2022   DEPTH 200.0 m MD
+  Progress        : 200.0 m
+  Present Formation: Namsang
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   2   DATE 10-04-2022   DEPTH 620.0 m MD
+  Progress        : 420.0 m
+  Present Formation: Namsang
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   3   DATE 11-04-2022   DEPTH 740.0 m MD
+  Progress        : 120.0 m
+  Present Formation: Girujan Clay
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Hole pack-off tendency at 740 m MD in the Girujan Clay. Back-reamed 5 times.
+      Reamed and circulated the interval clean before continuing.
+      NPT 17.5 hrs.
+
+DAY   4   DATE 12-04-2022   DEPTH 920.0 m MD
+  Progress        : 180.0 m
+  Present Formation: Girujan Clay
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Bit and BHA balling up in the Girujan Clay at 920 m MD, SPP increase of 49.6 ksc.
+      Pulled off bottom, circulated and jetted the bit clean.
+      NPT 6.0 hrs.
+
+DAY   5   DATE 13-04-2022   DEPTH 1,200.0 m MD
+  Progress        : 280.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : TCI 17-1/2in 517
+  Operations / Remarks:
+    - Losses observed while cementing the 13-3/8in surface at 1,195 m MD; returns partial.
+      Cut slurry density and continued; losses were cured before the plug bumped.
+      NPT 52.6 hrs.
+    - Cement bond log across the 13-3/8in surface showed poor bonding, bond index 0.375.
+      Remedial squeeze carried out and the bond log re-run; bond improved to fair.
+      NPT 8.6 hrs.
+    - Primary cement job on the 13-3/8in surface failed acceptance; remedial squeeze carried out at 1,195 m MD.
+      Second squeeze required before an acceptable test was obtained.
+      NPT 22.8 hrs.
+    - CBL indicated top of cement at 481 m behind the 13-3/8in surface, 481 m below the planned top of 0 m.
+      Top-up job performed through the annulus to raise the cement top.
+
+[PAGE 2]
+      NPT 28.2 hrs.
+
+DAY   6   DATE 14-04-2022   DEPTH 1,210.0 m MD
+  Progress        : 10.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : TCI 17-1/2in 517
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   7   DATE 15-04-2022   DEPTH 1,510.0 m MD
+  Progress        : 300.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : TCI 17-1/2in 517
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   8   DATE 16-04-2022   DEPTH 1,780.0 m MD
+  Progress        : 270.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : TCI 17-1/2in 517
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   9   DATE 17-04-2022   DEPTH 1,920.0 m MD
+  Progress        : 140.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : TCI 17-1/2in 517
+  Operations / Remarks:
+    - Differential sticking at 1,920 m MD across the Tipam Sandstone; maximum overpull 40.8 t.
+      Worked and jarred the string; spotted 136 bbl of pipe-release pill. String freed.
+      NPT 27.3 hrs.
+
+DAY  10   DATE 18-04-2022   DEPTH 2,010.0 m MD
+  Progress        : 90.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : TCI 17-1/2in 517
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  11   DATE 19-04-2022   DEPTH 2,150.0 m MD
+  Progress        : 140.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : TCI 17-1/2in 517
+  Operations / Remarks:
+    - Lost circulation encountered at 2,150 m MD in Tipam Sandstone. Loss rate recorded as 11.2 m3/hr.
+      Cement plug placed across the loss zone and drilled out after 15.5 hrs WOC.
+      NPT 17.5 hrs.
+
+DAY  12   DATE 20-04-2022   DEPTH 2,350.0 m MD
+  Progress        : 200.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : TCI 17-1/2in 517
+
+[PAGE 3]
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  13   DATE 21-04-2022   DEPTH 2,510.0 m MD
+  Progress        : 160.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : TCI 17-1/2in 517
+  Operations / Remarks:
+    - High torque and drag from 2,470 m MD in Barail Coal Shale; peak torque 23.0 kNm.
+      Circulated sweeps to clean the hole; torque returned to normal.
+      NPT 6.1 hrs.
+
+DAY  14   DATE 22-04-2022   DEPTH 2,720.0 m MD
+  Progress        : 210.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : TCI 17-1/2in 517
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  15   DATE 23-04-2022   DEPTH 2,920.0 m MD
+  Progress        : 200.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : TCI 17-1/2in 517
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  16   DATE 24-04-2022   DEPTH 3,020.0 m MD
+  Progress        : 100.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : TCI 17-1/2in 517
+  Operations / Remarks:
+    - Losses observed while cementing the 9-5/8in intermediate at 3,012 m MD; returns partial.
+      Job completed with reduced returns; top of cement confirmed by temperature survey.
+      NPT 27.6 hrs.
+    - CBL indicated top of cement at 1,438 m behind the 9-5/8in intermediate, 440 m below the planned top of 998 m.
+      Top-up job performed through the annulus to raise the cement top.
+      NPT 21.2 hrs.
+    - CBL/VDL run on the 9-5/8in intermediate indicated poor to fair bond, bond index 0.358.
+      Accepted after pressure testing the shoe; monitored for annular pressure.
+      NPT 8.8 hrs.
+
+DAY  17   DATE 25-04-2022   DEPTH 3,100.0 m MD
+  Progress        : 80.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : TCI 17-1/2in 517
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  18   DATE 26-04-2022   DEPTH 3,160.0 m MD
+  Progress        : 60.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : TCI 17-1/2in 517
+
+[PAGE 4]
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  19   DATE 27-04-2022   DEPTH 3,160.0 m MD
+  Progress        : 0.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : TCI 17-1/2in 517
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  20   DATE 28-04-2022   DEPTH 3,240.0 m MD
+  Progress        : 80.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : TCI 17-1/2in 517
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  21   DATE 29-04-2022   DEPTH 3,310.0 m MD
+  Progress        : 70.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : TCI 17-1/2in 517
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  22   DATE 30-04-2022   DEPTH 3,310.0 m MD
+  Progress        : 0.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : TCI 17-1/2in 517
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  23   DATE 01-05-2022   DEPTH 3,430.0 m MD
+  Progress        : 120.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : TCI 17-1/2in 517
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  24   DATE 02-05-2022   DEPTH 3,490.1 m MD
+  Progress        : 60.1 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : TCI 17-1/2in 517
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+

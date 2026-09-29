@@ -1,0 +1,205 @@
+[PAGE 1]
+OIL INDIA LIMITED - DAILY DRILLING REPORT
+Well: Moran-61 (MRN-061)    Field: Moran    Rig: OIL-RIG-17 (NOV ideal)
+==============================================================================
+
+DAY   1   DATE 07-11-2015   DEPTH 140.0 m MD
+  Progress        : 140.0 m
+  Present Formation: Namsang
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Hole washout logged at 100 m MD in Namsang; caliper 18.0 percent over gauge.
+      Reduced flow rate through the interval.
+      NPT 5.6 hrs.
+
+DAY   2   DATE 08-11-2015   DEPTH 460.0 m MD
+  Progress        : 320.0 m
+  Present Formation: Girujan Clay
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Mud loss of 2.3 m3/hr recorded between 150 m and 200 m MD in Namsang.
+      LCM pill of 135 bbl (medium nut plug and mica) pumped; losses reduced.
+      NPT 2.4 hrs.
+
+DAY   3   DATE 09-11-2015   DEPTH 610.0 m MD
+  Progress        : 150.0 m
+  Present Formation: Girujan Clay
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Hole pack-off tendency at 500 m MD in the Girujan Clay. Back-reamed 2 times.
+      Worked the string over the tight interval and raised mud weight to 1.21 sg.
+      NPT 13.4 hrs.
+
+DAY   4   DATE 10-11-2015   DEPTH 800.0 m MD
+  Progress        : 190.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - CBL/VDL run on the 13-3/8in surface indicated poor to fair bond, bond index 0.111.
+      Remedial squeeze carried out and the bond log re-run; bond improved to fair.
+      NPT 39.7 hrs.
+
+DAY   5   DATE 11-11-2015   DEPTH 1,000.0 m MD
+  Progress        : 200.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   6   DATE 12-11-2015   DEPTH 1,340.0 m MD
+  Progress        : 340.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+
+[PAGE 2]
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   7   DATE 13-11-2015   DEPTH 1,660.0 m MD
+  Progress        : 320.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   8   DATE 14-11-2015   DEPTH 1,960.0 m MD
+  Progress        : 300.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   9   DATE 15-11-2015   DEPTH 1,990.0 m MD
+  Progress        : 30.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Differential sticking at 1,990 m MD across the Tipam Sandstone; maximum overpull 56.9 t.
+      Jarring continued for 19.3 hrs before the string came free.
+      NPT 29.5 hrs.
+
+DAY  10   DATE 16-11-2015   DEPTH 2,150.0 m MD
+  Progress        : 160.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  11   DATE 17-11-2015   DEPTH 2,390.0 m MD
+  Progress        : 240.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  12   DATE 18-11-2015   DEPTH 2,500.0 m MD
+  Progress        : 110.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Bond log showed channelling behind the 9-5/8in intermediate, casing poorly centralised.
+      Squeeze performed across the channelled interval.
+      NPT 12.5 hrs.
+    - Cement bond log across the 9-5/8in intermediate showed poor bonding, bond index 0.195.
+      Remedial squeeze carried out and the bond log re-run; bond improved to fair.
+      NPT 21.5 hrs.
+
+DAY  13   DATE 19-11-2015   DEPTH 2,580.0 m MD
+
+[PAGE 3]
+  Progress        : 80.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  14   DATE 20-11-2015   DEPTH 2,640.0 m MD
+  Progress        : 60.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Pipe stuck at 2,640 m MD while drilling Barail Arenaceous. Free point established at 1625.6 m.
+      Jarring continued for 9.2 hrs before the string came free.
+      NPT 14.7 hrs.
+
+DAY  15   DATE 21-11-2015   DEPTH 2,720.0 m MD
+  Progress        : 80.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  16   DATE 22-11-2015   DEPTH 2,790.0 m MD
+  Progress        : 70.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  17   DATE 23-11-2015   DEPTH 2,790.0 m MD
+  Progress        : 0.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  18   DATE 24-11-2015   DEPTH 2,790.0 m MD
+  Progress        : 0.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  19   DATE 25-11-2015   DEPTH 2,790.0 m MD
+  Progress        : 0.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  20   DATE 26-11-2015   DEPTH 2,790.0 m MD
+  Progress        : 0.0 m
+
+[PAGE 4]
+  Present Formation: Barail Arenaceous
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  21   DATE 27-11-2015   DEPTH 2,790.0 m MD
+  Progress        : 0.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  22   DATE 28-11-2015   DEPTH 2,790.0 m MD
+  Progress        : 0.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  23   DATE 29-11-2015   DEPTH 2,850.0 m MD
+  Progress        : 60.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Seepage losses (34.9 m3/hr) noted at 2,850 m MD in the Barail Arenaceous.
+      Pumped 43 bbl of coarse LCM slurry and cut mud weight by 0.03 sg.
+      NPT 16.8 hrs.
+
+DAY  24   DATE 30-11-2015   DEPTH 2,900.0 m MD
+  Progress        : 50.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  25   DATE 01-12-2015   DEPTH 2,970.3 m MD
+  Progress        : 70.3 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+

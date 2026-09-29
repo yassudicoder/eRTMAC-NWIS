@@ -1,0 +1,71 @@
+[PAGE 1]
+OIL INDIA LIMITED - DAILY DRILLING REPORT
+Well: Moran-51 (MRN-051)    Field: Moran    Rig: OIL-RIG-25 (ZJ-70)
+==============================================================================
+
+DAY   1   DATE 07-07-2011   DEPTH 90.0 m MD
+  Progress        : 90.0 m
+  Present Formation: Namsang
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   2   DATE 08-07-2011   DEPTH 340.0 m MD
+  Progress        : 250.0 m
+  Present Formation: Namsang
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   3   DATE 09-07-2011   DEPTH 580.0 m MD
+  Progress        : 240.0 m
+  Present Formation: Girujan Clay
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   4   DATE 10-07-2011   DEPTH 790.0 m MD
+  Progress        : 210.0 m
+  Present Formation: Girujan Clay
+  Bit in use      : Insert 8-1/2in 617
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   5   DATE 11-07-2011   DEPTH 960.0 m MD
+  Progress        : 170.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Partial returns lost during the 13-3/8in surface cement job at 954 m MD.
+      Job completed with reduced returns; top of cement confirmed by temperature survey.
+      NPT 28.9 hrs.
+    - Top of cement logged at 451 m against a planned top of 0 m behind the 13-3/8in surface.
+      Top-up job performed through the annulus to raise the cement top.
+      NPT 24.9 hrs.
+    - Cement bond log across the 13-3/8in surface showed poor bonding, bond index 0.362.
+      Remedial squeeze carried out and the bond log re-run; bond improved to fair.
+      NPT 17.9 hrs.
+
+DAY   6   DATE 12-07-2011   DEPTH 1,130.0 m MD
+  Progress        : 170.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+
+[PAGE 2]
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   7   DATE 13-07-2011   DEPTH 1,370.0 m MD
+  Progress        : 240.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   8   DATE 14-07-2011   DEPTH 1,428.3 m MD
+  Progress        : 58.3 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+

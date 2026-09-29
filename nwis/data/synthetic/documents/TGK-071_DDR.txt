@@ -1,0 +1,102 @@
+[PAGE 1]
+OIL INDIA LIMITED - DAILY DRILLING REPORT
+Well: Tengakhat-71 (TGK-071)    Field: Tengakhat    Rig: OIL-RIG-30 (ZJ-50)
+==============================================================================
+
+DAY   1   DATE 07-06-2012   DEPTH 90.0 m MD
+  Progress        : 90.0 m
+  Present Formation: Dihing
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   2   DATE 08-06-2012   DEPTH 450.0 m MD
+  Progress        : 360.0 m
+  Present Formation: Namsang
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   3   DATE 09-06-2012   DEPTH 700.0 m MD
+  Progress        : 250.0 m
+  Present Formation: Girujan Clay
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Lost circulation encountered at 460 m MD in Namsang. Loss rate recorded as 4.0 m3/hr.
+      LCM pill of 49 bbl (medium nut plug and mica) pumped; losses reduced.
+      NPT 4.1 hrs.
+
+DAY   4   DATE 10-06-2012   DEPTH 800.0 m MD
+  Progress        : 100.0 m
+  Present Formation: Girujan Clay
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Tight hole experienced at 760 m MD in Girujan Clay; 3 reaming passes required.
+      Worked the string over the tight interval and raised mud weight to 1.23 sg.
+      NPT 14.9 hrs.
+
+DAY   5   DATE 11-06-2012   DEPTH 1,050.0 m MD
+  Progress        : 250.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   6   DATE 12-06-2012   DEPTH 1,110.0 m MD
+  Progress        : 60.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   7   DATE 13-06-2012   DEPTH 1,290.0 m MD
+  Progress        : 180.0 m
+
+[PAGE 2]
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   8   DATE 14-06-2012   DEPTH 1,490.0 m MD
+  Progress        : 200.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   9   DATE 15-06-2012   DEPTH 1,490.0 m MD
+  Progress        : 0.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  10   DATE 16-06-2012   DEPTH 1,530.0 m MD
+  Progress        : 40.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  11   DATE 17-06-2012   DEPTH 1,750.0 m MD
+  Progress        : 220.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  12   DATE 18-06-2012   DEPTH 1,970.0 m MD
+  Progress        : 220.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  13   DATE 19-06-2012   DEPTH 2,130.1 m MD
+  Progress        : 160.1 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+

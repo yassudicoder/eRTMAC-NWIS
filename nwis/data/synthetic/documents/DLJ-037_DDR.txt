@@ -1,0 +1,99 @@
+[PAGE 1]
+OIL INDIA LIMITED - DAILY DRILLING REPORT
+Well: Duliajan-37 (DLJ-037)    Field: Duliajan    Rig: OIL-RIG-17 (NOV ideal)
+==============================================================================
+
+DAY   1   DATE 03-09-2020   DEPTH 100.0 m MD
+  Progress        : 100.0 m
+  Present Formation: Dihing
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Hole washout logged at 50 m MD in Dihing; caliper 25.0 percent over gauge.
+      Noted for cement volume calculation; no remedial action taken.
+      NPT 4.2 hrs.
+
+DAY   2   DATE 04-09-2020   DEPTH 270.0 m MD
+  Progress        : 170.0 m
+  Present Formation: Namsang
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   3   DATE 05-09-2020   DEPTH 610.0 m MD
+  Progress        : 340.0 m
+  Present Formation: Girujan Clay
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   4   DATE 06-09-2020   DEPTH 880.0 m MD
+  Progress        : 270.0 m
+  Present Formation: Girujan Clay
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   5   DATE 07-09-2020   DEPTH 900.0 m MD
+  Progress        : 20.0 m
+  Present Formation: Girujan Clay
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Tight hole experienced at 890 m MD in Girujan Clay; 7 reaming passes required.
+      Worked the string over the tight interval and raised mud weight to 1.18 sg.
+      NPT 21.0 hrs.
+    - Bit and BHA balling up in the Girujan Clay at 900 m MD, SPP increase of 38.2 ksc.
+      Pulled off bottom, circulated and jetted the bit clean.
+      NPT 12.7 hrs.
+
+DAY   6   DATE 08-09-2020   DEPTH 1,020.0 m MD
+  Progress        : 120.0 m
+  Present Formation: Girujan Clay
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+[PAGE 2]
+
+DAY   7   DATE 09-09-2020   DEPTH 1,130.0 m MD
+  Progress        : 110.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - CBL/VDL run on the 13-3/8in surface indicated poor to fair bond, bond index 0.119.
+      Accepted after pressure testing the shoe; monitored for annular pressure.
+      NPT 37.7 hrs.
+    - Cement channelling suspected behind the 13-3/8in surface at 1,124 m MD; hole was washed out over the interval.
+      Squeeze performed across the channelled interval.
+      NPT 6.3 hrs.
+    - Primary cement job on the 13-3/8in surface failed acceptance; remedial squeeze carried out at 1,124 m MD.
+      Second squeeze required before an acceptable test was obtained.
+      NPT 46.1 hrs.
+
+DAY   8   DATE 10-09-2020   DEPTH 1,320.0 m MD
+  Progress        : 190.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   9   DATE 11-09-2020   DEPTH 1,520.0 m MD
+  Progress        : 200.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  10   DATE 12-09-2020   DEPTH 1,710.0 m MD
+  Progress        : 190.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  11   DATE 13-09-2020   DEPTH 1,731.7 m MD
+  Progress        : 21.7 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : PDC 8-1/2in M433
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+

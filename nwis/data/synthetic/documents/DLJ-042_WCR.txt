@@ -1,0 +1,178 @@
+[PAGE 1]
+OIL INDIA LIMITED
+DRILLING DEPARTMENT, DULIAJAN, ASSAM
+
+WELL COMPLETION REPORT
+========================================================================
+
+1. WELL IDENTIFICATION
+------------------------------------------------------------------------
+Well Number            : Duliajan-42
+Well Code              : DLJ-042
+Field / Structure      : Duliajan
+Category               : Exploratory
+Well Profile           : Deviated
+Surface Coordinates    : 27.38272 N, 95.29854 E
+Bottom Hole Coordinates: 27.3797 N, 95.324 E
+Ground Level           : 128.1 m above MSL
+Rig                    : OIL-RIG-21 (E-1400)
+Date Spudded           : 09-03-2018
+Date Completed         : 17-05-2018
+Total Depth (MD)       : 5,440.5 m
+Total Depth (TVD)      : 4,712.3 m
+Kick Off Point         : 521.1 m MD
+Maximum Inclination    : 32.4 deg
+Azimuth                : 97.5 deg
+Horizontal Displacement: 2,539.1 m
+Target Formation       : Basement
+Total Days Drilled     : 56
+Total NPT              : 280.8 hrs
+
+2. CASING AND HOLE PROGRAMME
+------------------------------------------------------------------------
+Hole Size   Casing                     Shoe MD (m)  Shoe TVD (m)   TOC (m)
+26in        20in conductor                    78.6          78.6         0
+17-1/2in    13-3/8in surface               1,113.0       1,060.4         0
+12-1/4in    9-5/8in intermediate           3,192.1       2,815.0       916
+8-1/2in     7in liner                      3,909.7       3,420.5     2,730
+
+Mud System             : Water-based bentonite / PHPA
+
+2A. CEMENTING RECORD
+------------------------------------------------------------------------
+Casing                     Shoe MD  Planned TOC  Actual TOC   Slurry  Returns   Bond
+                               (m)          (m)         (m)     (m3)           index
+13-3/8in surface             1,113            0          11     43.2     full   0.53
+9-5/8in intermediate         3,192          916         909    110.2     full   0.44
+7in liner                    3,910        2,730       2,730     29.3     full   0.29
+
+[PAGE 2]
+
+Cement bond log across the 13-3/8in surface indicated fair bond (bond index 0.53).
+Cement bond log across the 9-5/8in intermediate indicated poor to fair bond (bond index 0.44).
+Cement bond log across the 7in liner indicated poor to fair bond (bond index 0.29).
+
+3. GEOLOGICAL SUMMARY - FORMATION TOPS
+------------------------------------------------------------------------
+Formation                    Top MD (m)   Top TVD (m)   Lithology
+Dihing                             11.0          11.0   Unconsolidated pebbly sandstone, clay and gravel
+Namsang                           125.2         125.2   Medium to coarse sandstone with clay interbeds
+Girujan Clay                      534.5         534.5   Mottled clay with thin siltstone and sandstone bands
+Tipam Sandstone                 1,088.2       1,039.5   Massive ferruginous sandstone with clay partings
+Barail Coal Shale               2,578.0       2,297.5   Carbonaceous shale with coal seams and thin sandstone
+Barail Arenaceous               3,246.0       2,861.5   Fine to medium sandstone with shale interbeds - principal pay
+Kopili Shale                    4,033.2       3,526.1   Dark grey marine shale with thin limestone stringers
+Sylhet Limestone                4,392.0       3,829.1   Fossiliferous limestone, locally fractured and karstified
+Langpar                         4,720.1       4,106.1   Argillaceous limestone and calcareous shale
+Basement                        5,251.1       4,554.4   Weathered and fractured granitic gneiss
+
+The well encountered the normal Upper Assam section. Formation tops were
+picked on the basis of cuttings examination and wireline log correlation
+with the neighbouring wells of the structure.
+
+3A. RESERVOIR SUMMARY
+------------------------------------------------------------------------
+Formation             Fluid            Gross  Net Pay   Poro     Perm     Sw   Press
+                                         (m)      (m)    (%)     (mD)    (%)    (sg)
+Tipam Sandstone       oil              210.7    154.8   26.9  1,359.3   42.3    0.88
+Barail Arenaceous     oil and gas      141.5     80.2   15.3    150.9   21.3    0.93
+
+Tipam Sandstone: net pay 154.8 m, average porosity 26.9 percent, permeability 1,359 mD, water saturation 42.3 percent.
+    Reservoir pressure has declined from a virgin 1.02 sg to 0.88 sg equivalent, a depletion of 0.14 sg. Differential sticking risk across this interval is correspondingly elevated.
+    Formation temperature at top of interval: 57 deg C.
+Barail Arenaceous: net pay 80.2 m, average porosity 15.3 percent, permeability 151 mD, water saturation 21.3 percent.
+    Reservoir pressure has declined from a virgin 1.19 sg to 0.93 sg equivalent, a depletion of 0.26 sg. Differential sticking risk across this interval is correspondingly elevated.
+    Formation temperature at top of interval: 108 deg C.
+
+4. DRILLING PARAMETERS BY SECTION
+------------------------------------------------------------------------
+Formation                    Avg ROP   Avg WOB   Avg RPM    Mud Wt
+                              (m/hr)       (t)                (sg)
+Dihing                         19.54      10.7       113      1.08
+Namsang                        18.02      11.2       113      1.09
+Girujan Clay                   12.32      12.4       108      1.12
+Tipam Sandstone                 8.69      14.1       110      1.08
+Barail Coal Shale               6.19      15.5       107      1.20
+
+[PAGE 3]
+Barail Arenaceous               5.05      16.1       103      1.25
+Kopili Shale                    4.17      16.9        85      1.48
+Sylhet Limestone                3.51      17.5        78      1.34
+Langpar                         3.02      17.9        80      1.36
+Basement                        1.45      20.9        81      1.16
+
+5. DRILLING PROBLEMS AND REMEDIAL MEASURES
+------------------------------------------------------------------------
+5.1  Namsang - 09-03-2018
+     Hole washout logged at 210 m MD in Namsang; caliper 47.1 percent over gauge.
+     Noted for cement volume calculation; no remedial action taken.
+     Non-productive time attributable to this event: 5.2 hrs.
+
+5.2  Girujan Clay - 12-03-2018
+     Tight hole experienced at 920 m MD in Girujan Clay; 6 reaming passes required.
+     Worked the string over the tight interval and raised mud weight to 1.15 sg.
+     Non-productive time attributable to this event: 19.9 hrs.
+
+5.3  Tipam Sandstone - 21-03-2018
+     Pipe stuck at 2,480 m MD while drilling Tipam Sandstone. Free point established at 2294.0 m.
+     Jarring continued for 12.4 hrs before the string came free.
+     Non-productive time attributable to this event: 15.0 hrs.
+
+5.4  Barail Coal Shale - 10-04-2018
+     CBL/VDL run on the 9-5/8in intermediate indicated poor to fair bond, bond index 0.443.
+     Remedial squeeze carried out and the bond log re-run; bond improved to fair.
+     Non-productive time attributable to this event: 21.8 hrs.
+
+5.5  Barail Arenaceous - 29-03-2018
+     String became stuck at 3,290 m MD (2,899 m TVD) in Barail Arenaceous. Overpull of 23.8 t recorded.
+     Jarring continued for 3.9 hrs before the string came free.
+     Non-productive time attributable to this event: 10.9 hrs.
+
+5.6  Barail Arenaceous - 18-04-2018
+     Cement bond log across the 7in liner showed poor bonding, bond index 0.293.
+     Remedial squeeze carried out and the bond log re-run; bond improved to fair.
+     Non-productive time attributable to this event: 52.4 hrs.
+
+5.7  Kopili Shale - 06-04-2018
+     High torque and drag from 4,060 m MD in Kopili Shale; peak torque 22.5 kNm.
+     Added lubricant to the mud system and reduced RPM.
+     Non-productive time attributable to this event: 13.6 hrs.
+
+5.8  Kopili Shale - 07-04-2018
+     Wellbore instability in Kopili Shale from 4,130 m MD. Excessive cavings (10.7 m3) over the shakers.
+     Increased KCl concentration and raised mud weight to 1.6 sg.
+
+[PAGE 4]
+     Non-productive time attributable to this event: 52.1 hrs.
+
+5.9  Sylhet Limestone - 15-04-2018
+     Total loss of returns at 4,680 m MD (4,072 m TVD) in Sylhet Limestone. No returns to surface.
+     LCM pill of 153 bbl (medium nut plug and mica) pumped; losses reduced.
+     Non-productive time attributable to this event: 84.6 hrs.
+
+5.10  Basement - 03-05-2018
+     ROP dropped to 1.38 m/hr at 5,440 m MD in Basement.
+     Bit pulled and replaced; drilling parameters optimised.
+     Non-productive time attributable to this event: 5.3 hrs.
+
+
+6. LESSONS LEARNT AND RECOMMENDATIONS FOR FUTURE WELLS
+------------------------------------------------------------------------
+- Sylhet Limestone - mud loss: total losses into fractured and karstified limestone.
+  Future wells on this structure should plan for this around
+  4,680 m MD.
+- Barail Arenaceous - cementing problem: bond log showed poor to fair bonding across the interval, risking annular communication.
+  Future wells on this structure should plan for this around
+  3,910 m MD.
+- Kopili Shale - wellbore instability: over-pressured shale sloughing.
+  Future wells on this structure should plan for this around
+  4,130 m MD.
+- Girujan Clay - tight hole: plastic clay creeping and closing the hole.
+  Future wells on this structure should plan for this around
+  920 m MD.
+- Tipam Sandstone - stuck pipe: differential sticking against depleted permeable sand.
+  Future wells on this structure should plan for this around
+  2,480 m MD.
+
+Prepared by  : Drilling Engineering Group, OIL, Duliajan
+Reviewed by  : Head - Drilling Services

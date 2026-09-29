@@ -1,0 +1,120 @@
+[PAGE 1]
+OIL INDIA LIMITED - MUD LOG / LITHOLOGY LOG
+Well: Moran-54 (MRN-054)    Field: Moran
+Mud System: KCl-glycol inhibitive WBM
+==============================================================================
+
+    MD (m)   TVD (m)Formation                      ROP     Gas     MW
+                                                (m/hr) (units)   (sg)
+------------------------------------------------------------------------------
+        10        10Dihing                        36.1       1   1.08
+        60        60Namsang                       26.1       5   1.09
+       110       110Namsang                       13.8       3   1.09
+       160       160Namsang                       11.7       4   1.09
+       210       210Namsang                       11.8       5   1.09
+       260       260Namsang                       14.1       6   1.09
+           >> Hole washout logged at 270 m MD in Namsang; caliper 25.3 percent over gauge.
+       310       310Girujan Clay                   8.2       0   1.12
+       360       360Girujan Clay                   9.4       5   1.12
+       410       410Girujan Clay                  10.8       2   1.12
+       460       460Girujan Clay                   8.5       1   1.12
+       510       510Girujan Clay                   7.7       2   1.12
+       560       560Girujan Clay                  11.7       1   1.12
+           >> Bit and BHA balling up in the Girujan Clay at 560 m MD, SPP increase of 24.1 ksc.
+       610       610Girujan Clay                  10.8       1   1.12
+       660       660Girujan Clay                  10.1       1   1.12
+       710       710Girujan Clay                   9.9       3   1.12
+       760       760Tipam Sandstone                7.5      31   1.08
+       810       810Tipam Sandstone                7.8      29   1.08
+       860       860Tipam Sandstone                7.2      29   1.08
+       910       910Tipam Sandstone               12.8      29   1.08
+       960       960Tipam Sandstone                9.6      32   1.08
+     1,010     1,010Tipam Sandstone               12.9      28   1.08
+     1,060     1,058Tipam Sandstone                9.9      28   1.08
+           >> Pipe stuck at 1,040 m MD while drilling Tipam Sandstone. Free point established at 683.5 m.
+     1,110     1,107Tipam Sandstone               12.6      28   1.08
+     1,160     1,154Tipam Sandstone               11.0      29   1.08
+     1,210     1,200Tipam Sandstone               13.4      31   1.08
+     1,260     1,244Tipam Sandstone                9.4      33   1.08
+     1,310     1,286Tipam Sandstone                9.5      30   1.08
+     1,360     1,326Tipam Sandstone               10.2      30   1.08
+     1,410     1,365Tipam Sandstone                9.1      31   1.08
+     1,460     1,404Tipam Sandstone                8.5      31   1.08
+     1,510     1,442Tipam Sandstone               11.8      33   1.08
+     1,560     1,481Tipam Sandstone               11.5      29   1.08
+     1,610     1,519Tipam Sandstone                9.4      31   1.08
+     1,660     1,558Tipam Sandstone                8.7      31   1.08
+     1,710     1,596Tipam Sandstone               10.4      31   1.08
+     1,760     1,634Tipam Sandstone               12.4      32   1.08
+     1,810     1,673Tipam Sandstone                7.6      32   1.08
+     1,860     1,711Tipam Sandstone                9.1      28   1.08
+     1,910     1,750Tipam Sandstone                7.5      34   1.08
+
+[PAGE 2]
+     1,960     1,788Tipam Sandstone                7.5      32   1.08
+     2,010     1,827Tipam Sandstone               11.8      30   1.08
+     2,060     1,865Tipam Sandstone               10.5      29   1.08
+     2,110     1,904Tipam Sandstone               10.6      29   1.08
+     2,160     1,942Tipam Sandstone                9.7      32   1.08
+           >> Seepage losses (10.6 m3/hr) noted at 2,130 m MD in the Tipam Sandstone.
+     2,210     1,981Tipam Sandstone                9.9      34   1.08
+     2,260     2,019Barail Coal Shale              8.9      21   1.20
+     2,310     2,058Barail Coal Shale              9.5      21   1.20
+     2,360     2,096Barail Coal Shale              7.2      18   1.20
+     2,410     2,134Barail Coal Shale              8.9      22   1.20
+     2,460     2,173Barail Coal Shale              7.5      18   1.20
+           >> Cavings observed at shakers while drilling Barail Coal Shale at 2,470 m MD; approximately 5.4 m3 recovered.
+     2,510     2,212Barail Coal Shale              5.8      18   1.20
+     2,560     2,250Barail Coal Shale              7.7      20   1.20
+     2,610     2,288Barail Coal Shale              9.0      24   1.20
+     2,660     2,327Barail Coal Shale              6.3      20   1.20
+     2,710     2,365Barail Coal Shale              7.4      18   1.20
+     2,760     2,404Barail Coal Shale              6.4      22   1.20
+     2,810     2,442Barail Coal Shale              8.9      17   1.20
+     2,860     2,481Barail Coal Shale              8.1      23   1.20
+           >> CBL/VDL run on the 9-5/8in intermediate indicated poor to fair bond, bond index 0.113.
+     2,910     2,519Barail Coal Shale              6.9      20   1.20
+     2,960     2,558Barail Arenaceous              7.1      29   1.25
+           >> Partial mud losses of 28.2 m3/hr observed at 2,970 m MD (2,565 m TVD) while drilling Barail Arenaceous.
+     3,010     2,596Barail Arenaceous              5.3      28   1.25
+     3,060     2,635Barail Arenaceous              6.3      30   1.25
+     3,110     2,673Barail Arenaceous              6.5      30   1.25
+     3,160     2,712Barail Arenaceous              5.8      31   1.25
+     3,210     2,750Barail Arenaceous              6.5      31   1.25
+     3,260     2,788Barail Arenaceous              6.4      33   1.25
+           >> Influx taken at 3,270 m MD in the Barail Arenaceous. Well shut in, SIDPP 47.7 ksc; killed by drillers method.
+     3,310     2,827Barail Arenaceous              6.3      32   1.25
+     3,360     2,866Barail Arenaceous              5.5      31   1.25
+     3,410     2,904Barail Arenaceous              5.5      29   1.25
+     3,460     2,942Barail Arenaceous              4.8      30   1.25
+     3,510     2,981Barail Arenaceous              5.8      29   1.25
+     3,560     3,019Barail Arenaceous              6.4      28   1.25
+     3,610     3,058Barail Arenaceous              6.4      30   1.25
+     3,660     3,096Kopili Shale                   5.4       3   1.48
+           >> CBL indicated top of cement at 2,616 m behind the 7in liner, 152 m below the planned top of 2,464 m.
+     3,710     3,135Kopili Shale                   3.8       3   1.48
+     3,760     3,173Kopili Shale                   4.5       3   1.48
+           >> Hole instability and sloughing from 3,770 m to 3,802 m MD in Kopili Shale.
+     3,810     3,212Kopili Shale                   5.0       0   1.48
+           >> Influx taken at 3,800 m MD in the Kopili Shale. Well shut in, SIDPP 74.5 ksc; killed by drillers method.
+     3,860     3,250Kopili Shale                   3.8       2   1.48
+     3,910     3,289Kopili Shale                   3.7       0   1.48
+
+LITHOLOGICAL DESCRIPTION
+
+[PAGE 3]
+------------------------------------------------------------------------------
+11 m MD - Dihing
+    Unconsolidated pebbly sandstone, clay and gravel.
+35 m MD - Namsang
+    Medium to coarse sandstone with clay interbeds.
+306 m MD - Girujan Clay
+    Mottled clay with thin siltstone and sandstone bands.
+755 m MD - Tipam Sandstone
+    Massive ferruginous sandstone with clay partings.
+2,222 m MD - Barail Coal Shale
+    Carbonaceous shale with coal seams and thin sandstone.
+2,946 m MD - Barail Arenaceous
+    Fine to medium sandstone with shale interbeds - principal pay.
+3,642 m MD - Kopili Shale
+    Dark grey marine shale with thin limestone stringers.

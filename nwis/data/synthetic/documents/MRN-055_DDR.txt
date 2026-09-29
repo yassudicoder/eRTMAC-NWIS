@@ -1,0 +1,195 @@
+[PAGE 1]
+OIL INDIA LIMITED - DAILY DRILLING REPORT
+Well: Moran-55 (MRN-055)    Field: Moran    Rig: OIL-RIG-25 (ZJ-70)
+==============================================================================
+
+DAY   1   DATE 21-09-2017   DEPTH 50.0 m MD
+  Progress        : 50.0 m
+  Present Formation: Namsang
+  Bit in use      : TCI 17-1/2in 517
+  Operations / Remarks:
+    - Hole washout logged at 20 m MD in Dihing; caliper 23.7 percent over gauge.
+      Noted for cement volume calculation; no remedial action taken.
+      NPT 3.4 hrs.
+    - Mud loss of 2.6 m3/hr recorded between 20 m and 78 m MD in Dihing.
+      Pumped 20 bbl of coarse LCM slurry and cut mud weight by 0.03 sg.
+      NPT 4.0 hrs.
+    - Hole washout logged at 50 m MD in Namsang; caliper 73.9 percent over gauge.
+      Reduced flow rate through the interval.
+      NPT 19.3 hrs.
+
+DAY   2   DATE 22-09-2017   DEPTH 70.0 m MD
+  Progress        : 20.0 m
+  Present Formation: Namsang
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   3   DATE 23-09-2017   DEPTH 540.0 m MD
+  Progress        : 470.0 m
+  Present Formation: Girujan Clay
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   4   DATE 24-09-2017   DEPTH 840.0 m MD
+  Progress        : 300.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Cement bond log across the 13-3/8in surface showed poor bonding, bond index 0.154.
+      Accepted after pressure testing the shoe; monitored for annular pressure.
+      NPT 17.3 hrs.
+
+DAY   5   DATE 25-09-2017   DEPTH 920.0 m MD
+  Progress        : 80.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   6   DATE 26-09-2017   DEPTH 1,120.0 m MD
+  Progress        : 200.0 m
+  Present Formation: Tipam Sandstone
+
+[PAGE 2]
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - While drilling Tipam Sandstone at 1,120 m MD, returns reduced and losses of 9.1 m3/hr were measured.
+      Cement plug placed across the loss zone and drilled out after 6.1 hrs WOC.
+      NPT 8.9 hrs.
+
+DAY   7   DATE 27-09-2017   DEPTH 1,300.0 m MD
+  Progress        : 180.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY   8   DATE 28-09-2017   DEPTH 1,400.0 m MD
+  Progress        : 100.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Pipe stuck at 1,330 m MD while drilling Tipam Sandstone. Free point established at 804.2 m.
+      Worked and jarred the string; spotted 77 bbl of pipe-release pill. String freed.
+      NPT 12.6 hrs.
+
+DAY   9   DATE 29-09-2017   DEPTH 1,600.0 m MD
+  Progress        : 200.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  10   DATE 30-09-2017   DEPTH 1,800.0 m MD
+  Progress        : 200.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  11   DATE 01-10-2017   DEPTH 1,990.0 m MD
+  Progress        : 190.0 m
+  Present Formation: Tipam Sandstone
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  12   DATE 02-10-2017   DEPTH 2,160.0 m MD
+  Progress        : 170.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  13   DATE 03-10-2017   DEPTH 2,320.0 m MD
+  Progress        : 160.0 m
+
+[PAGE 3]
+  Present Formation: Barail Coal Shale
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  14   DATE 04-10-2017   DEPTH 2,470.0 m MD
+  Progress        : 150.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : TCI 12-1/4in 537
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  15   DATE 05-10-2017   DEPTH 2,560.0 m MD
+  Progress        : 90.0 m
+  Present Formation: Barail Coal Shale
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Sustained casing pressure observed after the 9-5/8in intermediate cement job; annular gas migration suspected at 2,551 m MD.
+      Annulus bled down and monitored; gas-tight slurry used on subsequent strings.
+      NPT 30.2 hrs.
+    - CBL/VDL run on the 9-5/8in intermediate indicated poor to fair bond, bond index 0.242.
+      Remedial squeeze carried out and the bond log re-run; bond improved to fair.
+      NPT 33.0 hrs.
+
+DAY  16   DATE 06-10-2017   DEPTH 2,770.0 m MD
+  Progress        : 210.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  17   DATE 07-10-2017   DEPTH 2,960.0 m MD
+  Progress        : 190.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  18   DATE 08-10-2017   DEPTH 3,160.0 m MD
+  Progress        : 200.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : PDC 17-1/2in S123
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  19   DATE 09-10-2017   DEPTH 3,220.0 m MD
+  Progress        : 60.0 m
+  Present Formation: Barail Arenaceous
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - CBL/VDL run on the 7in liner indicated poor to fair bond, bond index 0.257.
+      Remedial squeeze carried out and the bond log re-run; bond improved to fair.
+
+[PAGE 4]
+      NPT 17.5 hrs.
+
+DAY  20   DATE 10-10-2017   DEPTH 3,330.0 m MD
+  Progress        : 110.0 m
+  Present Formation: Kopili Shale
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  21   DATE 11-10-2017   DEPTH 3,440.0 m MD
+  Progress        : 110.0 m
+  Present Formation: Kopili Shale
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+
+DAY  22   DATE 12-10-2017   DEPTH 3,470.0 m MD
+  Progress        : 30.0 m
+  Present Formation: Kopili Shale
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Hole instability and sloughing from 3,470 m to 3,517 m MD in Kopili Shale.
+      Mud weight raised to 1.51 sg and inhibition increased; hole condition improved.
+      NPT 18.5 hrs.
+
+DAY  23   DATE 13-10-2017   DEPTH 3,525.7 m MD
+  Progress        : 55.7 m
+  Present Formation: Kopili Shale
+  Bit in use      : PDC 12-1/4in M323
+  Operations / Remarks:
+    - Drilling ahead as per programme. Circulated and conditioned mud.
+

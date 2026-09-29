@@ -1,0 +1,2355 @@
+[
+  {
+    "well_id": "NHK-057",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 1120.6,
+    "shoe_tvd_m": 1120.6,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 90.2,
+    "slurry_volume_m3": 62.5,
+    "excess_pct": 55.9,
+    "returns": "partial",
+    "bond_index": 0.647,
+    "bond_quality": "fair",
+    "job_date": "2024-06-09",
+    "issues": [
+      "TOC_BELOW_PLAN"
+    ]
+  },
+  {
+    "well_id": "NHK-058",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 1239.5,
+    "shoe_tvd_m": 1239.5,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 426.7,
+    "slurry_volume_m3": 72.7,
+    "excess_pct": 33.7,
+    "returns": "partial",
+    "bond_index": 0.445,
+    "bond_quality": "poor",
+    "job_date": "2016-07-21",
+    "issues": [
+      "LOSSES_DURING_CEMENTING",
+      "TOC_BELOW_PLAN",
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "NHK-060",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 1275.3,
+    "shoe_tvd_m": 1180.7,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 0.0,
+    "slurry_volume_m3": 43.8,
+    "excess_pct": 25.9,
+    "returns": "full",
+    "bond_index": 0.415,
+    "bond_quality": "poor",
+    "job_date": "2023-12-04",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "NHK-060",
+    "casing_size_in": "9-5/8in intermediate",
+    "hole_size_in": "12-1/4in",
+    "shoe_md_m": 3425.5,
+    "shoe_tvd_m": 2907.3,
+    "planned_toc_m": 1059.9,
+    "actual_toc_m": 1512.3,
+    "slurry_volume_m3": 87.2,
+    "excess_pct": 24.3,
+    "returns": "none",
+    "bond_index": 0.209,
+    "bond_quality": "poor",
+    "job_date": "2023-12-24",
+    "issues": [
+      "LOSSES_DURING_CEMENTING",
+      "POOR_BOND",
+      "TOC_BELOW_PLAN"
+    ]
+  },
+  {
+    "well_id": "NHK-062",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 1302.3,
+    "shoe_tvd_m": 1302.3,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 7.9,
+    "slurry_volume_m3": 54.2,
+    "excess_pct": 20.5,
+    "returns": "full",
+    "bond_index": 0.412,
+    "bond_quality": "poor",
+    "job_date": "2012-10-28",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "NHK-062",
+    "casing_size_in": "9-5/8in intermediate",
+    "hole_size_in": "12-1/4in",
+    "shoe_md_m": 3054.1,
+    "shoe_tvd_m": 3054.1,
+    "planned_toc_m": 1069.1,
+    "actual_toc_m": 1079.1,
+    "slurry_volume_m3": 120.1,
+    "excess_pct": 37.6,
+    "returns": "full",
+    "bond_index": 0.303,
+    "bond_quality": "poor",
+    "job_date": "2012-11-13",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "NHK-062",
+    "casing_size_in": "7in liner",
+    "hole_size_in": "8-1/2in",
+    "shoe_md_m": 3676.5,
+    "shoe_tvd_m": 3676.5,
+    "planned_toc_m": 3015.0,
+    "actual_toc_m": 3020.0,
+    "slurry_volume_m3": 29.6,
+    "excess_pct": 30.3,
+    "returns": "full",
+    "bond_index": 0.194,
+    "bond_quality": "poor",
+    "job_date": "2012-11-18",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "NHK-063",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 1425.8,
+    "shoe_tvd_m": 1364.1,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 184.8,
+    "slurry_volume_m3": 63.8,
+    "excess_pct": 32.9,
+    "returns": "partial",
+    "bond_index": 0.341,
+    "bond_quality": "poor",
+    "job_date": "2020-12-18",
+    "issues": [
+      "TOC_BELOW_PLAN",
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "NHK-063",
+    "casing_size_in": "9-5/8in intermediate",
+    "hole_size_in": "12-1/4in",
+    "shoe_md_m": 3437.4,
+    "shoe_tvd_m": 3192.0,
+    "planned_toc_m": 1049.8,
+    "actual_toc_m": 1434.9,
+    "slurry_volume_m3": 87.8,
+    "excess_pct": 24.1,
+    "returns": "partial",
+    "bond_index": 0.32,
+    "bond_quality": "poor",
+    "job_date": "2021-01-06",
+    "issues": [
+      "TOC_BELOW_PLAN",
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "NHK-063",
+    "casing_size_in": "7in liner",
+    "hole_size_in": "8-1/2in",
+    "shoe_md_m": 4073.6,
+    "shoe_tvd_m": 3770.1,
+    "planned_toc_m": 3135.9,
+    "actual_toc_m": 3137.3,
+    "slurry_volume_m3": 29.2,
+    "excess_pct": 35.8,
+    "returns": "full",
+    "bond_index": 0.207,
+    "bond_quality": "poor",
+    "job_date": "2021-01-12",
+    "issues": [
+      "POOR_BOND",
+      "REMEDIAL_SQUEEZE"
+    ]
+  },
+  {
+    "well_id": "NHK-064",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 1258.3,
+    "shoe_tvd_m": 1258.3,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 8.5,
+    "slurry_volume_m3": 65.1,
+    "excess_pct": 42.3,
+    "returns": "full",
+    "bond_index": 0.517,
+    "bond_quality": "fair",
+    "job_date": "2014-02-10",
+    "issues": []
+  },
+  {
+    "well_id": "NHK-064",
+    "casing_size_in": "9-5/8in intermediate",
+    "hole_size_in": "12-1/4in",
+    "shoe_md_m": 3039.4,
+    "shoe_tvd_m": 3039.4,
+    "planned_toc_m": 1050.1,
+    "actual_toc_m": 1377.2,
+    "slurry_volume_m3": 87.5,
+    "excess_pct": 21.9,
+    "returns": "partial",
+    "bond_index": 0.1,
+    "bond_quality": "poor",
+    "job_date": "2014-03-01",
+    "issues": [
+      "TOC_BELOW_PLAN",
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "NHK-066",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 1230.8,
+    "shoe_tvd_m": 1230.8,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 11.3,
+    "slurry_volume_m3": 60.2,
+    "excess_pct": 31.1,
+    "returns": "full",
+    "bond_index": 0.596,
+    "bond_quality": "fair",
+    "job_date": "2009-04-13",
+    "issues": []
+  },
+  {
+    "well_id": "NHK-066",
+    "casing_size_in": "9-5/8in intermediate",
+    "hole_size_in": "12-1/4in",
+    "shoe_md_m": 2977.2,
+    "shoe_tvd_m": 2977.2,
+    "planned_toc_m": 1031.8,
+    "actual_toc_m": 1024.5,
+    "slurry_volume_m3": 107.2,
+    "excess_pct": 26.8,
+    "returns": "full",
+    "bond_index": 0.276,
+    "bond_quality": "poor",
+    "job_date": "2009-04-24",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "NHK-070",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 1194.8,
+    "shoe_tvd_m": 1194.8,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 480.6,
+    "slurry_volume_m3": 61.4,
+    "excess_pct": 28.7,
+    "returns": "partial",
+    "bond_index": 0.375,
+    "bond_quality": "poor",
+    "job_date": "2022-04-17",
+    "issues": [
+      "LOSSES_DURING_CEMENTING",
+      "POOR_BOND",
+      "REMEDIAL_SQUEEZE",
+      "TOC_BELOW_PLAN"
+    ]
+  },
+  {
+    "well_id": "NHK-070",
+    "casing_size_in": "9-5/8in intermediate",
+    "hole_size_in": "12-1/4in",
+    "shoe_md_m": 3011.9,
+    "shoe_tvd_m": 3011.9,
+    "planned_toc_m": 998.5,
+    "actual_toc_m": 1438.4,
+    "slurry_volume_m3": 86.4,
+    "excess_pct": 17.8,
+    "returns": "partial",
+    "bond_index": 0.358,
+    "bond_quality": "poor",
+    "job_date": "2022-04-29",
+    "issues": [
+      "LOSSES_DURING_CEMENTING",
+      "TOC_BELOW_PLAN",
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "NHK-071",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 1351.0,
+    "shoe_tvd_m": 1351.0,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 0.0,
+    "slurry_volume_m3": 62.9,
+    "excess_pct": 32.2,
+    "returns": "full",
+    "bond_index": 0.387,
+    "bond_quality": "poor",
+    "job_date": "2014-10-06",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "NHK-071",
+    "casing_size_in": "9-5/8in intermediate",
+    "hole_size_in": "12-1/4in",
+    "shoe_md_m": 3129.5,
+    "shoe_tvd_m": 3129.5,
+    "planned_toc_m": 1109.5,
+    "actual_toc_m": 1114.4,
+    "slurry_volume_m3": 105.6,
+    "excess_pct": 18.1,
+    "returns": "full",
+    "bond_index": 0.242,
+    "bond_quality": "poor",
+    "job_date": "2014-10-22",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "NHK-071",
+    "casing_size_in": "7in liner",
+    "hole_size_in": "8-1/2in",
+    "shoe_md_m": 3758.2,
+    "shoe_tvd_m": 3758.2,
+    "planned_toc_m": 3102.0,
+    "actual_toc_m": 3113.1,
+    "slurry_volume_m3": 31.7,
+    "excess_pct": 34.0,
+    "returns": "full",
+    "bond_index": 0.421,
+    "bond_quality": "poor",
+    "job_date": "2014-10-27",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "MRN-047",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 826.8,
+    "shoe_tvd_m": 826.8,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 8.0,
+    "slurry_volume_m3": 37.5,
+    "excess_pct": 50.6,
+    "returns": "full",
+    "bond_index": 0.344,
+    "bond_quality": "poor",
+    "job_date": "2017-08-07",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "MRN-047",
+    "casing_size_in": "9-5/8in intermediate",
+    "hole_size_in": "12-1/4in",
+    "shoe_md_m": 2528.5,
+    "shoe_tvd_m": 2528.5,
+    "planned_toc_m": 550.6,
+    "actual_toc_m": 561.9,
+    "slurry_volume_m3": 95.1,
+    "excess_pct": 36.7,
+    "returns": "full",
+    "bond_index": 0.604,
+    "bond_quality": "fair",
+    "job_date": "2017-08-23",
+    "issues": []
+  },
+  {
+    "well_id": "MRN-047",
+    "casing_size_in": "7in liner",
+    "hole_size_in": "8-1/2in",
+    "shoe_md_m": 3196.9,
+    "shoe_tvd_m": 3106.6,
+    "planned_toc_m": 2425.0,
+    "actual_toc_m": 2427.4,
+    "slurry_volume_m3": 31.8,
+    "excess_pct": 15.1,
+    "returns": "full",
+    "bond_index": 0.308,
+    "bond_quality": "poor",
+    "job_date": "2017-08-29",
+    "issues": [
+      "POOR_BOND",
+      "REMEDIAL_SQUEEZE"
+    ]
+  },
+  {
+    "well_id": "MRN-049",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 863.5,
+    "shoe_tvd_m": 863.5,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 0.0,
+    "slurry_volume_m3": 33.9,
+    "excess_pct": 22.5,
+    "returns": "full",
+    "bond_index": 0.396,
+    "bond_quality": "poor",
+    "job_date": "2019-09-16",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "MRN-049",
+    "casing_size_in": "9-5/8in intermediate",
+    "hole_size_in": "12-1/4in",
+    "shoe_md_m": 2730.4,
+    "shoe_tvd_m": 2507.5,
+    "planned_toc_m": 600.9,
+    "actual_toc_m": 610.7,
+    "slurry_volume_m3": 111.2,
+    "excess_pct": 30.6,
+    "returns": "full",
+    "bond_index": 0.369,
+    "bond_quality": "poor",
+    "job_date": "2019-09-30",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "MRN-051",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 954.1,
+    "shoe_tvd_m": 933.1,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 450.9,
+    "slurry_volume_m3": 46.4,
+    "excess_pct": 37.2,
+    "returns": "partial",
+    "bond_index": 0.362,
+    "bond_quality": "poor",
+    "job_date": "2011-07-12",
+    "issues": [
+      "LOSSES_DURING_CEMENTING",
+      "TOC_BELOW_PLAN",
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "MRN-054",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 856.9,
+    "shoe_tvd_m": 856.9,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 11.8,
+    "slurry_volume_m3": 55.4,
+    "excess_pct": 51.7,
+    "returns": "full",
+    "bond_index": 0.482,
+    "bond_quality": "fair",
+    "job_date": "2011-05-25",
+    "issues": []
+  },
+  {
+    "well_id": "MRN-054",
+    "casing_size_in": "9-5/8in intermediate",
+    "hole_size_in": "12-1/4in",
+    "shoe_md_m": 2871.6,
+    "shoe_tvd_m": 2490.1,
+    "planned_toc_m": 668.2,
+    "actual_toc_m": 672.0,
+    "slurry_volume_m3": 85.8,
+    "excess_pct": 29.3,
+    "returns": "full",
+    "bond_index": 0.113,
+    "bond_quality": "poor",
+    "job_date": "2011-06-13",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "MRN-054",
+    "casing_size_in": "7in liner",
+    "hole_size_in": "8-1/2in",
+    "shoe_md_m": 3634.4,
+    "shoe_tvd_m": 3077.2,
+    "planned_toc_m": 2463.8,
+    "actual_toc_m": 2615.6,
+    "slurry_volume_m3": 30.5,
+    "excess_pct": 27.8,
+    "returns": "none",
+    "bond_index": 0.47,
+    "bond_quality": "fair",
+    "job_date": "2011-06-20",
+    "issues": [
+      "LOSSES_DURING_CEMENTING",
+      "TOC_BELOW_PLAN"
+    ]
+  },
+  {
+    "well_id": "MRN-055",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 828.0,
+    "shoe_tvd_m": 828.0,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 2.5,
+    "slurry_volume_m3": 51.2,
+    "excess_pct": 50.1,
+    "returns": "full",
+    "bond_index": 0.154,
+    "bond_quality": "poor",
+    "job_date": "2017-09-26",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "MRN-055",
+    "casing_size_in": "9-5/8in intermediate",
+    "hole_size_in": "12-1/4in",
+    "shoe_md_m": 2551.4,
+    "shoe_tvd_m": 2448.8,
+    "planned_toc_m": 700.5,
+    "actual_toc_m": 706.9,
+    "slurry_volume_m3": 80.5,
+    "excess_pct": 17.6,
+    "returns": "full",
+    "bond_index": 0.242,
+    "bond_quality": "poor",
+    "job_date": "2017-10-07",
+    "issues": [
+      "GAS_MIGRATION",
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "MRN-055",
+    "casing_size_in": "7in liner",
+    "hole_size_in": "8-1/2in",
+    "shoe_md_m": 3178.8,
+    "shoe_tvd_m": 3035.6,
+    "planned_toc_m": 2440.3,
+    "actual_toc_m": 2440.4,
+    "slurry_volume_m3": 21.1,
+    "excess_pct": 24.9,
+    "returns": "full",
+    "bond_index": 0.257,
+    "bond_quality": "poor",
+    "job_date": "2017-10-11",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "MRN-058",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 938.9,
+    "shoe_tvd_m": 938.9,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 10.1,
+    "slurry_volume_m3": 51.2,
+    "excess_pct": 36.3,
+    "returns": "full",
+    "bond_index": 0.462,
+    "bond_quality": "fair",
+    "job_date": "2012-01-11",
+    "issues": []
+  },
+  {
+    "well_id": "MRN-058",
+    "casing_size_in": "9-5/8in intermediate",
+    "hole_size_in": "12-1/4in",
+    "shoe_md_m": 2813.5,
+    "shoe_tvd_m": 2629.3,
+    "planned_toc_m": 713.1,
+    "actual_toc_m": 722.1,
+    "slurry_volume_m3": 79.1,
+    "excess_pct": 15.2,
+    "returns": "full",
+    "bond_index": 0.275,
+    "bond_quality": "poor",
+    "job_date": "2012-02-02",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "MRN-058",
+    "casing_size_in": "7in liner",
+    "hole_size_in": "8-1/2in",
+    "shoe_md_m": 3441.1,
+    "shoe_tvd_m": 3162.0,
+    "planned_toc_m": 2589.9,
+    "actual_toc_m": 2863.6,
+    "slurry_volume_m3": 27.8,
+    "excess_pct": 19.5,
+    "returns": "partial",
+    "bond_index": 0.254,
+    "bond_quality": "poor",
+    "job_date": "2012-02-10",
+    "issues": [
+      "LOSSES_DURING_CEMENTING",
+      "POOR_BOND",
+      "TOC_BELOW_PLAN"
+    ]
+  },
+  {
+    "well_id": "MRN-061",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 793.6,
+    "shoe_tvd_m": 793.6,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 0.0,
+    "slurry_volume_m3": 37.2,
+    "excess_pct": 53.2,
+    "returns": "full",
+    "bond_index": 0.111,
+    "bond_quality": "poor",
+    "job_date": "2015-11-13",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "MRN-061",
+    "casing_size_in": "9-5/8in intermediate",
+    "hole_size_in": "12-1/4in",
+    "shoe_md_m": 2493.8,
+    "shoe_tvd_m": 2493.8,
+    "planned_toc_m": 562.8,
+    "actual_toc_m": 562.2,
+    "slurry_volume_m3": 110.6,
+    "excess_pct": 34.9,
+    "returns": "full",
+    "bond_index": 0.195,
+    "bond_quality": "poor",
+    "job_date": "2015-11-27",
+    "issues": [
+      "CHANNELLING",
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "MRN-065",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 900.5,
+    "shoe_tvd_m": 900.5,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 381.6,
+    "slurry_volume_m3": 37.4,
+    "excess_pct": 24.0,
+    "returns": "partial",
+    "bond_index": 0.538,
+    "bond_quality": "fair",
+    "job_date": "2019-12-30",
+    "issues": [
+      "LOSSES_DURING_CEMENTING",
+      "TOC_BELOW_PLAN"
+    ]
+  },
+  {
+    "well_id": "MRN-065",
+    "casing_size_in": "9-5/8in intermediate",
+    "hole_size_in": "12-1/4in",
+    "shoe_md_m": 2880.2,
+    "shoe_tvd_m": 2569.3,
+    "planned_toc_m": 691.3,
+    "actual_toc_m": 684.2,
+    "slurry_volume_m3": 109.3,
+    "excess_pct": 31.3,
+    "returns": "full",
+    "bond_index": 0.228,
+    "bond_quality": "poor",
+    "job_date": "2020-01-16",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "DLJ-030",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 1268.3,
+    "shoe_tvd_m": 1201.2,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 180.2,
+    "slurry_volume_m3": 63.0,
+    "excess_pct": 55.3,
+    "returns": "partial",
+    "bond_index": 0.05,
+    "bond_quality": "poor",
+    "job_date": "2020-12-03",
+    "issues": [
+      "TOC_BELOW_PLAN",
+      "POOR_BOND",
+      "CHANNELLING"
+    ]
+  },
+  {
+    "well_id": "DLJ-030",
+    "casing_size_in": "9-5/8in intermediate",
+    "hole_size_in": "12-1/4in",
+    "shoe_md_m": 3284.5,
+    "shoe_tvd_m": 2965.1,
+    "planned_toc_m": 952.7,
+    "actual_toc_m": 956.2,
+    "slurry_volume_m3": 121.1,
+    "excess_pct": 34.7,
+    "returns": "full",
+    "bond_index": 0.29,
+    "bond_quality": "poor",
+    "job_date": "2020-12-27",
+    "issues": [
+      "POOR_BOND",
+      "REMEDIAL_SQUEEZE"
+    ]
+  },
+  {
+    "well_id": "DLJ-030",
+    "casing_size_in": "7in liner",
+    "hole_size_in": "8-1/2in",
+    "shoe_md_m": 3964.4,
+    "shoe_tvd_m": 3559.9,
+    "planned_toc_m": 2862.5,
+    "actual_toc_m": 2873.1,
+    "slurry_volume_m3": 37.8,
+    "excess_pct": 29.2,
+    "returns": "full",
+    "bond_index": 0.268,
+    "bond_quality": "poor",
+    "job_date": "2021-01-04",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "DLJ-034",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 1159.1,
+    "shoe_tvd_m": 1159.1,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 0.0,
+    "slurry_volume_m3": 61.4,
+    "excess_pct": 44.4,
+    "returns": "full",
+    "bond_index": 0.35,
+    "bond_quality": "poor",
+    "job_date": "2016-04-14",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "DLJ-034",
+    "casing_size_in": "9-5/8in intermediate",
+    "hole_size_in": "12-1/4in",
+    "shoe_md_m": 3073.5,
+    "shoe_tvd_m": 2912.8,
+    "planned_toc_m": 957.0,
+    "actual_toc_m": 1950.6,
+    "slurry_volume_m3": 111.5,
+    "excess_pct": 32.5,
+    "returns": "none",
+    "bond_index": 0.217,
+    "bond_quality": "poor",
+    "job_date": "2016-04-27",
+    "issues": [
+      "LOSSES_DURING_CEMENTING",
+      "TOC_BELOW_PLAN",
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "DLJ-034",
+    "casing_size_in": "7in liner",
+    "hole_size_in": "8-1/2in",
+    "shoe_md_m": 3806.3,
+    "shoe_tvd_m": 3573.6,
+    "planned_toc_m": 2838.0,
+    "actual_toc_m": 2848.2,
+    "slurry_volume_m3": 29.4,
+    "excess_pct": 31.9,
+    "returns": "full",
+    "bond_index": 0.198,
+    "bond_quality": "poor",
+    "job_date": "2016-05-02",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "DLJ-037",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 1124.3,
+    "shoe_tvd_m": 1095.8,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 0.9,
+    "slurry_volume_m3": 67.2,
+    "excess_pct": 58.1,
+    "returns": "full",
+    "bond_index": 0.119,
+    "bond_quality": "poor",
+    "job_date": "2020-09-10",
+    "issues": [
+      "POOR_BOND",
+      "CHANNELLING",
+      "REMEDIAL_SQUEEZE"
+    ]
+  },
+  {
+    "well_id": "DLJ-040",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 1196.1,
+    "shoe_tvd_m": 1130.3,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 1.8,
+    "slurry_volume_m3": 47.3,
+    "excess_pct": 40.9,
+    "returns": "full",
+    "bond_index": 0.415,
+    "bond_quality": "poor",
+    "job_date": "2022-02-06",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "DLJ-040",
+    "casing_size_in": "9-5/8in intermediate",
+    "hole_size_in": "12-1/4in",
+    "shoe_md_m": 3292.3,
+    "shoe_tvd_m": 2951.1,
+    "planned_toc_m": 1003.4,
+    "actual_toc_m": 1011.0,
+    "slurry_volume_m3": 100.6,
+    "excess_pct": 36.4,
+    "returns": "full",
+    "bond_index": 0.283,
+    "bond_quality": "poor",
+    "job_date": "2022-03-08",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "DLJ-040",
+    "casing_size_in": "7in liner",
+    "hole_size_in": "8-1/2in",
+    "shoe_md_m": 3961.8,
+    "shoe_tvd_m": 3532.6,
+    "planned_toc_m": 2863.3,
+    "actual_toc_m": 2865.0,
+    "slurry_volume_m3": 33.9,
+    "excess_pct": 23.8,
+    "returns": "full",
+    "bond_index": 0.121,
+    "bond_quality": "poor",
+    "job_date": "2022-03-18",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "DLJ-042",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 1113.0,
+    "shoe_tvd_m": 1060.4,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 10.9,
+    "slurry_volume_m3": 43.2,
+    "excess_pct": 45.5,
+    "returns": "full",
+    "bond_index": 0.531,
+    "bond_quality": "fair",
+    "job_date": "2018-03-20",
+    "issues": []
+  },
+  {
+    "well_id": "DLJ-042",
+    "casing_size_in": "9-5/8in intermediate",
+    "hole_size_in": "12-1/4in",
+    "shoe_md_m": 3192.1,
+    "shoe_tvd_m": 2815.0,
+    "planned_toc_m": 916.0,
+    "actual_toc_m": 909.4,
+    "slurry_volume_m3": 110.2,
+    "excess_pct": 30.1,
+    "returns": "full",
+    "bond_index": 0.443,
+    "bond_quality": "poor",
+    "job_date": "2018-04-10",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "DLJ-042",
+    "casing_size_in": "7in liner",
+    "hole_size_in": "8-1/2in",
+    "shoe_md_m": 3909.7,
+    "shoe_tvd_m": 3420.5,
+    "planned_toc_m": 2730.3,
+    "actual_toc_m": 2730.3,
+    "slurry_volume_m3": 29.3,
+    "excess_pct": 25.3,
+    "returns": "full",
+    "bond_index": 0.293,
+    "bond_quality": "poor",
+    "job_date": "2018-04-18",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "DLJ-046",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 1136.4,
+    "shoe_tvd_m": 1070.1,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 5.4,
+    "slurry_volume_m3": 58.4,
+    "excess_pct": 51.9,
+    "returns": "full",
+    "bond_index": 0.545,
+    "bond_quality": "fair",
+    "job_date": "2024-04-03",
+    "issues": []
+  },
+  {
+    "well_id": "DLJ-046",
+    "casing_size_in": "9-5/8in intermediate",
+    "hole_size_in": "12-1/4in",
+    "shoe_md_m": 3157.9,
+    "shoe_tvd_m": 2811.3,
+    "planned_toc_m": 876.2,
+    "actual_toc_m": 887.8,
+    "slurry_volume_m3": 99.0,
+    "excess_pct": 23.8,
+    "returns": "full",
+    "bond_index": 0.357,
+    "bond_quality": "poor",
+    "job_date": "2024-04-19",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "DLJ-049",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 1276.8,
+    "shoe_tvd_m": 1276.8,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 0.0,
+    "slurry_volume_m3": 51.9,
+    "excess_pct": 16.7,
+    "returns": "full",
+    "bond_index": 0.327,
+    "bond_quality": "poor",
+    "job_date": "2020-01-24",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "HGJ-057",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 1268.9,
+    "shoe_tvd_m": 1230.4,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 229.1,
+    "slurry_volume_m3": 60.6,
+    "excess_pct": 59.7,
+    "returns": "partial",
+    "bond_index": 0.343,
+    "bond_quality": "poor",
+    "job_date": "2012-03-12",
+    "issues": [
+      "LOSSES_DURING_CEMENTING",
+      "POOR_BOND",
+      "TOC_BELOW_PLAN"
+    ]
+  },
+  {
+    "well_id": "HGJ-058",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 1299.6,
+    "shoe_tvd_m": 1299.6,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 0.2,
+    "slurry_volume_m3": 74.4,
+    "excess_pct": 29.8,
+    "returns": "full",
+    "bond_index": 0.383,
+    "bond_quality": "poor",
+    "job_date": "2024-04-05",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "HGJ-058",
+    "casing_size_in": "9-5/8in intermediate",
+    "hole_size_in": "12-1/4in",
+    "shoe_md_m": 3169.6,
+    "shoe_tvd_m": 3169.6,
+    "planned_toc_m": 1091.3,
+    "actual_toc_m": 1096.2,
+    "slurry_volume_m3": 77.6,
+    "excess_pct": 22.8,
+    "returns": "full",
+    "bond_index": 0.326,
+    "bond_quality": "poor",
+    "job_date": "2024-04-24",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "HGJ-062",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 1250.6,
+    "shoe_tvd_m": 1250.6,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 11.9,
+    "slurry_volume_m3": 52.9,
+    "excess_pct": 34.5,
+    "returns": "full",
+    "bond_index": 0.515,
+    "bond_quality": "fair",
+    "job_date": "2022-05-16",
+    "issues": []
+  },
+  {
+    "well_id": "HGJ-066",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 1364.3,
+    "shoe_tvd_m": 1364.3,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 6.5,
+    "slurry_volume_m3": 60.3,
+    "excess_pct": 22.2,
+    "returns": "full",
+    "bond_index": 0.452,
+    "bond_quality": "fair",
+    "job_date": "2010-03-11",
+    "issues": []
+  },
+  {
+    "well_id": "HGJ-066",
+    "casing_size_in": "9-5/8in intermediate",
+    "hole_size_in": "12-1/4in",
+    "shoe_md_m": 3179.8,
+    "shoe_tvd_m": 3179.8,
+    "planned_toc_m": 1185.4,
+    "actual_toc_m": 1187.5,
+    "slurry_volume_m3": 93.9,
+    "excess_pct": 23.2,
+    "returns": "full",
+    "bond_index": 0.533,
+    "bond_quality": "fair",
+    "job_date": "2010-03-22",
+    "issues": []
+  },
+  {
+    "well_id": "HGJ-069",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 1324.2,
+    "shoe_tvd_m": 1324.2,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 0.0,
+    "slurry_volume_m3": 59.9,
+    "excess_pct": 29.6,
+    "returns": "full",
+    "bond_index": 0.626,
+    "bond_quality": "fair",
+    "job_date": "2016-02-05",
+    "issues": []
+  },
+  {
+    "well_id": "HGJ-069",
+    "casing_size_in": "9-5/8in intermediate",
+    "hole_size_in": "12-1/4in",
+    "shoe_md_m": 3143.5,
+    "shoe_tvd_m": 3143.5,
+    "planned_toc_m": 1125.1,
+    "actual_toc_m": 1126.6,
+    "slurry_volume_m3": 104.7,
+    "excess_pct": 28.5,
+    "returns": "full",
+    "bond_index": 0.2,
+    "bond_quality": "poor",
+    "job_date": "2016-02-19",
+    "issues": [
+      "POOR_BOND",
+      "REMEDIAL_SQUEEZE"
+    ]
+  },
+  {
+    "well_id": "TGK-064",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 1058.0,
+    "shoe_tvd_m": 1058.0,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 113.3,
+    "slurry_volume_m3": 44.3,
+    "excess_pct": 16.0,
+    "returns": "partial",
+    "bond_index": 0.45,
+    "bond_quality": "fair",
+    "job_date": "2022-11-23",
+    "issues": [
+      "TOC_BELOW_PLAN"
+    ]
+  },
+  {
+    "well_id": "TGK-064",
+    "casing_size_in": "9-5/8in intermediate",
+    "hole_size_in": "12-1/4in",
+    "shoe_md_m": 2841.0,
+    "shoe_tvd_m": 2841.0,
+    "planned_toc_m": 840.3,
+    "actual_toc_m": 842.4,
+    "slurry_volume_m3": 110.6,
+    "excess_pct": 31.3,
+    "returns": "full",
+    "bond_index": 0.336,
+    "bond_quality": "poor",
+    "job_date": "2022-12-03",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "TGK-066",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 915.1,
+    "shoe_tvd_m": 915.1,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 0.0,
+    "slurry_volume_m3": 44.0,
+    "excess_pct": 50.3,
+    "returns": "full",
+    "bond_index": 0.17,
+    "bond_quality": "poor",
+    "job_date": "2020-07-07",
+    "issues": [
+      "CHANNELLING",
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "TGK-066",
+    "casing_size_in": "9-5/8in intermediate",
+    "hole_size_in": "12-1/4in",
+    "shoe_md_m": 2627.4,
+    "shoe_tvd_m": 2627.4,
+    "planned_toc_m": 786.3,
+    "actual_toc_m": 791.2,
+    "slurry_volume_m3": 73.1,
+    "excess_pct": 19.1,
+    "returns": "full",
+    "bond_index": 0.424,
+    "bond_quality": "poor",
+    "job_date": "2020-07-24",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "TGK-069",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 1014.6,
+    "shoe_tvd_m": 1014.6,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 545.9,
+    "slurry_volume_m3": 61.2,
+    "excess_pct": 53.4,
+    "returns": "partial",
+    "bond_index": 0.222,
+    "bond_quality": "poor",
+    "job_date": "2010-04-03",
+    "issues": [
+      "LOSSES_DURING_CEMENTING",
+      "CHANNELLING",
+      "REMEDIAL_SQUEEZE",
+      "TOC_BELOW_PLAN",
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "TGK-069",
+    "casing_size_in": "9-5/8in intermediate",
+    "hole_size_in": "12-1/4in",
+    "shoe_md_m": 2708.0,
+    "shoe_tvd_m": 2708.0,
+    "planned_toc_m": 717.5,
+    "actual_toc_m": 1567.3,
+    "slurry_volume_m3": 91.7,
+    "excess_pct": 46.2,
+    "returns": "partial",
+    "bond_index": 0.312,
+    "bond_quality": "poor",
+    "job_date": "2010-04-20",
+    "issues": [
+      "LOSSES_DURING_CEMENTING",
+      "POOR_BOND",
+      "TOC_BELOW_PLAN"
+    ]
+  },
+  {
+    "well_id": "TGK-069",
+    "casing_size_in": "7in liner",
+    "hole_size_in": "8-1/2in",
+    "shoe_md_m": 3380.0,
+    "shoe_tvd_m": 3317.1,
+    "planned_toc_m": 2672.9,
+    "actual_toc_m": 2671.2,
+    "slurry_volume_m3": 24.6,
+    "excess_pct": 21.6,
+    "returns": "full",
+    "bond_index": 0.479,
+    "bond_quality": "fair",
+    "job_date": "2010-04-27",
+    "issues": []
+  },
+  {
+    "well_id": "TGK-071",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 1102.7,
+    "shoe_tvd_m": 1102.7,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 0.0,
+    "slurry_volume_m3": 60.0,
+    "excess_pct": 36.5,
+    "returns": "full",
+    "bond_index": 0.561,
+    "bond_quality": "fair",
+    "job_date": "2012-06-13",
+    "issues": []
+  },
+  {
+    "well_id": "TGK-072",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 999.2,
+    "shoe_tvd_m": 997.3,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 4.9,
+    "slurry_volume_m3": 56.0,
+    "excess_pct": 50.5,
+    "returns": "full",
+    "bond_index": 0.389,
+    "bond_quality": "poor",
+    "job_date": "2013-11-26",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "TGK-072",
+    "casing_size_in": "9-5/8in intermediate",
+    "hole_size_in": "12-1/4in",
+    "shoe_md_m": 3097.8,
+    "shoe_tvd_m": 2663.5,
+    "planned_toc_m": 700.2,
+    "actual_toc_m": 701.4,
+    "slurry_volume_m3": 79.9,
+    "excess_pct": 21.6,
+    "returns": "full",
+    "bond_index": 0.18,
+    "bond_quality": "poor",
+    "job_date": "2013-12-10",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "TGK-075",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 947.0,
+    "shoe_tvd_m": 947.0,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 2.9,
+    "slurry_volume_m3": 51.4,
+    "excess_pct": 56.1,
+    "returns": "full",
+    "bond_index": 0.427,
+    "bond_quality": "poor",
+    "job_date": "2011-06-20",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "TGK-075",
+    "casing_size_in": "9-5/8in intermediate",
+    "hole_size_in": "12-1/4in",
+    "shoe_md_m": 2612.8,
+    "shoe_tvd_m": 2612.8,
+    "planned_toc_m": 664.2,
+    "actual_toc_m": 1583.5,
+    "slurry_volume_m3": 70.4,
+    "excess_pct": 28.6,
+    "returns": "partial",
+    "bond_index": 0.195,
+    "bond_quality": "poor",
+    "job_date": "2011-07-04",
+    "issues": [
+      "LOSSES_DURING_CEMENTING",
+      "POOR_BOND",
+      "REMEDIAL_SQUEEZE",
+      "TOC_BELOW_PLAN"
+    ]
+  },
+  {
+    "well_id": "SLM-060",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 924.3,
+    "shoe_tvd_m": 924.3,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 6.9,
+    "slurry_volume_m3": 40.6,
+    "excess_pct": 37.4,
+    "returns": "full",
+    "bond_index": 0.27,
+    "bond_quality": "poor",
+    "job_date": "2015-04-30",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "SLM-060",
+    "casing_size_in": "9-5/8in intermediate",
+    "hole_size_in": "12-1/4in",
+    "shoe_md_m": 2636.5,
+    "shoe_tvd_m": 2636.5,
+    "planned_toc_m": 771.8,
+    "actual_toc_m": 769.7,
+    "slurry_volume_m3": 88.6,
+    "excess_pct": 17.5,
+    "returns": "full",
+    "bond_index": 0.202,
+    "bond_quality": "poor",
+    "job_date": "2015-05-15",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "SLM-060",
+    "casing_size_in": "7in liner",
+    "hole_size_in": "8-1/2in",
+    "shoe_md_m": 3340.7,
+    "shoe_tvd_m": 3228.0,
+    "planned_toc_m": 2562.0,
+    "actual_toc_m": 2566.5,
+    "slurry_volume_m3": 22.0,
+    "excess_pct": 16.8,
+    "returns": "full",
+    "bond_index": 0.184,
+    "bond_quality": "poor",
+    "job_date": "2015-05-22",
+    "issues": [
+      "GAS_MIGRATION",
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "SLM-064",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 896.9,
+    "shoe_tvd_m": 896.9,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 7.3,
+    "slurry_volume_m3": 47.6,
+    "excess_pct": 47.2,
+    "returns": "full",
+    "bond_index": 0.424,
+    "bond_quality": "poor",
+    "job_date": "2022-02-16",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "SLM-064",
+    "casing_size_in": "9-5/8in intermediate",
+    "hole_size_in": "12-1/4in",
+    "shoe_md_m": 2524.7,
+    "shoe_tvd_m": 2524.7,
+    "planned_toc_m": 773.0,
+    "actual_toc_m": 1165.7,
+    "slurry_volume_m3": 82.4,
+    "excess_pct": 15.2,
+    "returns": "partial",
+    "bond_index": 0.196,
+    "bond_quality": "poor",
+    "job_date": "2022-03-08",
+    "issues": [
+      "TOC_BELOW_PLAN",
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "SLM-064",
+    "casing_size_in": "7in liner",
+    "hole_size_in": "8-1/2in",
+    "shoe_md_m": 3120.6,
+    "shoe_tvd_m": 3120.6,
+    "planned_toc_m": 2497.2,
+    "actual_toc_m": 2492.3,
+    "slurry_volume_m3": 23.4,
+    "excess_pct": 29.8,
+    "returns": "full",
+    "bond_index": 0.354,
+    "bond_quality": "poor",
+    "job_date": "2022-03-15",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "SLM-065",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 982.0,
+    "shoe_tvd_m": 982.0,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 9.5,
+    "slurry_volume_m3": 60.9,
+    "excess_pct": 45.1,
+    "returns": "full",
+    "bond_index": 0.584,
+    "bond_quality": "fair",
+    "job_date": "2015-08-24",
+    "issues": []
+  },
+  {
+    "well_id": "SLM-065",
+    "casing_size_in": "9-5/8in intermediate",
+    "hole_size_in": "12-1/4in",
+    "shoe_md_m": 2700.3,
+    "shoe_tvd_m": 2700.3,
+    "planned_toc_m": 724.1,
+    "actual_toc_m": 1387.2,
+    "slurry_volume_m3": 114.2,
+    "excess_pct": 50.6,
+    "returns": "partial",
+    "bond_index": 0.324,
+    "bond_quality": "poor",
+    "job_date": "2015-09-07",
+    "issues": [
+      "LOSSES_DURING_CEMENTING",
+      "TOC_BELOW_PLAN",
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "SLM-065",
+    "casing_size_in": "7in liner",
+    "hole_size_in": "8-1/2in",
+    "shoe_md_m": 3413.3,
+    "shoe_tvd_m": 3311.6,
+    "planned_toc_m": 2607.3,
+    "actual_toc_m": 2608.6,
+    "slurry_volume_m3": 39.2,
+    "excess_pct": 35.3,
+    "returns": "full",
+    "bond_index": 0.327,
+    "bond_quality": "poor",
+    "job_date": "2015-09-12",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "SLM-067",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 986.4,
+    "shoe_tvd_m": 985.5,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 4.1,
+    "slurry_volume_m3": 36.2,
+    "excess_pct": 25.1,
+    "returns": "full",
+    "bond_index": 0.426,
+    "bond_quality": "poor",
+    "job_date": "2025-04-30",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "SLM-067",
+    "casing_size_in": "9-5/8in intermediate",
+    "hole_size_in": "12-1/4in",
+    "shoe_md_m": 2754.0,
+    "shoe_tvd_m": 2637.8,
+    "planned_toc_m": 858.2,
+    "actual_toc_m": 861.1,
+    "slurry_volume_m3": 79.4,
+    "excess_pct": 21.4,
+    "returns": "full",
+    "bond_index": 0.26,
+    "bond_quality": "poor",
+    "job_date": "2025-05-13",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "DKM-016",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 629.0,
+    "shoe_tvd_m": 629.0,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 174.7,
+    "slurry_volume_m3": 29.1,
+    "excess_pct": 54.5,
+    "returns": "partial",
+    "bond_index": 0.349,
+    "bond_quality": "poor",
+    "job_date": "2021-06-01",
+    "issues": [
+      "LOSSES_DURING_CEMENTING",
+      "POOR_BOND",
+      "REMEDIAL_SQUEEZE",
+      "TOC_BELOW_PLAN"
+    ]
+  },
+  {
+    "well_id": "DKM-016",
+    "casing_size_in": "9-5/8in intermediate",
+    "hole_size_in": "12-1/4in",
+    "shoe_md_m": 2468.4,
+    "shoe_tvd_m": 2229.8,
+    "planned_toc_m": 505.3,
+    "actual_toc_m": 810.6,
+    "slurry_volume_m3": 109.6,
+    "excess_pct": 58.9,
+    "returns": "partial",
+    "bond_index": 0.241,
+    "bond_quality": "poor",
+    "job_date": "2021-06-18",
+    "issues": [
+      "TOC_BELOW_PLAN",
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "DKM-019",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 698.8,
+    "shoe_tvd_m": 698.8,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 0.0,
+    "slurry_volume_m3": 46.5,
+    "excess_pct": 53.8,
+    "returns": "full",
+    "bond_index": 0.121,
+    "bond_quality": "poor",
+    "job_date": "2020-04-04",
+    "issues": [
+      "CHANNELLING",
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "DKM-019",
+    "casing_size_in": "9-5/8in intermediate",
+    "hole_size_in": "12-1/4in",
+    "shoe_md_m": 2322.8,
+    "shoe_tvd_m": 2322.8,
+    "planned_toc_m": 438.7,
+    "actual_toc_m": 435.4,
+    "slurry_volume_m3": 71.6,
+    "excess_pct": 33.7,
+    "returns": "full",
+    "bond_index": 0.442,
+    "bond_quality": "poor",
+    "job_date": "2020-04-19",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "DKM-020",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 676.7,
+    "shoe_tvd_m": 676.7,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 0.0,
+    "slurry_volume_m3": 31.9,
+    "excess_pct": 44.1,
+    "returns": "full",
+    "bond_index": 0.507,
+    "bond_quality": "fair",
+    "job_date": "2017-01-06",
+    "issues": []
+  },
+  {
+    "well_id": "DKM-020",
+    "casing_size_in": "9-5/8in intermediate",
+    "hole_size_in": "12-1/4in",
+    "shoe_md_m": 2230.1,
+    "shoe_tvd_m": 2230.1,
+    "planned_toc_m": 529.3,
+    "actual_toc_m": 521.9,
+    "slurry_volume_m3": 76.6,
+    "excess_pct": 49.9,
+    "returns": "full",
+    "bond_index": 0.325,
+    "bond_quality": "poor",
+    "job_date": "2017-01-19",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "DKM-020",
+    "casing_size_in": "7in liner",
+    "hole_size_in": "8-1/2in",
+    "shoe_md_m": 2881.9,
+    "shoe_tvd_m": 2827.5,
+    "planned_toc_m": 2227.2,
+    "actual_toc_m": 2221.4,
+    "slurry_volume_m3": 27.3,
+    "excess_pct": 19.9,
+    "returns": "full",
+    "bond_index": 0.07,
+    "bond_quality": "poor",
+    "job_date": "2017-01-25",
+    "issues": [
+      "POOR_BOND",
+      "REMEDIAL_SQUEEZE"
+    ]
+  },
+  {
+    "well_id": "DKM-023",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 752.9,
+    "shoe_tvd_m": 752.9,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 290.3,
+    "slurry_volume_m3": 36.0,
+    "excess_pct": 55.6,
+    "returns": "none",
+    "bond_index": 0.391,
+    "bond_quality": "poor",
+    "job_date": "2012-05-04",
+    "issues": [
+      "LOSSES_DURING_CEMENTING",
+      "POOR_BOND",
+      "TOC_BELOW_PLAN"
+    ]
+  },
+  {
+    "well_id": "DKM-023",
+    "casing_size_in": "9-5/8in intermediate",
+    "hole_size_in": "12-1/4in",
+    "shoe_md_m": 2522.1,
+    "shoe_tvd_m": 2348.0,
+    "planned_toc_m": 508.8,
+    "actual_toc_m": 511.4,
+    "slurry_volume_m3": 60.4,
+    "excess_pct": 17.3,
+    "returns": "full",
+    "bond_index": 0.305,
+    "bond_quality": "poor",
+    "job_date": "2012-05-20",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "DKM-024",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 648.2,
+    "shoe_tvd_m": 648.2,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 0.4,
+    "slurry_volume_m3": 36.6,
+    "excess_pct": 32.8,
+    "returns": "full",
+    "bond_index": 0.308,
+    "bond_quality": "poor",
+    "job_date": "2016-04-23",
+    "issues": [
+      "POOR_BOND",
+      "REMEDIAL_SQUEEZE"
+    ]
+  },
+  {
+    "well_id": "DKM-024",
+    "casing_size_in": "9-5/8in intermediate",
+    "hole_size_in": "12-1/4in",
+    "shoe_md_m": 2242.4,
+    "shoe_tvd_m": 2242.4,
+    "planned_toc_m": 355.3,
+    "actual_toc_m": 351.1,
+    "slurry_volume_m3": 68.0,
+    "excess_pct": 22.9,
+    "returns": "full",
+    "bond_index": 0.269,
+    "bond_quality": "poor",
+    "job_date": "2016-05-03",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "BRK-024",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 1082.1,
+    "shoe_tvd_m": 1048.6,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 545.3,
+    "slurry_volume_m3": 57.1,
+    "excess_pct": 24.2,
+    "returns": "partial",
+    "bond_index": 0.519,
+    "bond_quality": "fair",
+    "job_date": "2010-01-02",
+    "issues": [
+      "LOSSES_DURING_CEMENTING",
+      "TOC_BELOW_PLAN"
+    ]
+  },
+  {
+    "well_id": "BRK-024",
+    "casing_size_in": "9-5/8in intermediate",
+    "hole_size_in": "12-1/4in",
+    "shoe_md_m": 3142.9,
+    "shoe_tvd_m": 2830.2,
+    "planned_toc_m": 763.9,
+    "actual_toc_m": 774.6,
+    "slurry_volume_m3": 83.0,
+    "excess_pct": 17.9,
+    "returns": "full",
+    "bond_index": 0.491,
+    "bond_quality": "fair",
+    "job_date": "2010-01-19",
+    "issues": []
+  },
+  {
+    "well_id": "BRK-026",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 1017.9,
+    "shoe_tvd_m": 1017.9,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 172.8,
+    "slurry_volume_m3": 46.0,
+    "excess_pct": 30.7,
+    "returns": "partial",
+    "bond_index": 0.391,
+    "bond_quality": "poor",
+    "job_date": "2009-07-10",
+    "issues": [
+      "TOC_BELOW_PLAN",
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "BRK-026",
+    "casing_size_in": "9-5/8in intermediate",
+    "hole_size_in": "12-1/4in",
+    "shoe_md_m": 2800.4,
+    "shoe_tvd_m": 2800.4,
+    "planned_toc_m": 907.5,
+    "actual_toc_m": 1819.7,
+    "slurry_volume_m3": 105.1,
+    "excess_pct": 28.7,
+    "returns": "partial",
+    "bond_index": 0.509,
+    "bond_quality": "fair",
+    "job_date": "2009-07-22",
+    "issues": [
+      "LOSSES_DURING_CEMENTING",
+      "TOC_BELOW_PLAN"
+    ]
+  },
+  {
+    "well_id": "BRK-028",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 1020.2,
+    "shoe_tvd_m": 1020.2,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 0.0,
+    "slurry_volume_m3": 51.2,
+    "excess_pct": 23.9,
+    "returns": "full",
+    "bond_index": 0.445,
+    "bond_quality": "poor",
+    "job_date": "2024-12-26",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "BRK-028",
+    "casing_size_in": "9-5/8in intermediate",
+    "hole_size_in": "12-1/4in",
+    "shoe_md_m": 2682.6,
+    "shoe_tvd_m": 2682.6,
+    "planned_toc_m": 764.9,
+    "actual_toc_m": 759.4,
+    "slurry_volume_m3": 71.8,
+    "excess_pct": 18.9,
+    "returns": "full",
+    "bond_index": 0.199,
+    "bond_quality": "poor",
+    "job_date": "2025-01-07",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "BRK-030",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 1154.3,
+    "shoe_tvd_m": 1060.0,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 0.8,
+    "slurry_volume_m3": 50.0,
+    "excess_pct": 31.3,
+    "returns": "full",
+    "bond_index": 0.322,
+    "bond_quality": "poor",
+    "job_date": "2011-05-06",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "BRK-030",
+    "casing_size_in": "9-5/8in intermediate",
+    "hole_size_in": "12-1/4in",
+    "shoe_md_m": 3323.2,
+    "shoe_tvd_m": 2769.5,
+    "planned_toc_m": 759.6,
+    "actual_toc_m": 752.2,
+    "slurry_volume_m3": 85.6,
+    "excess_pct": 25.7,
+    "returns": "full",
+    "bond_index": 0.344,
+    "bond_quality": "poor",
+    "job_date": "2011-05-23",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "JRJ-020",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 1252.9,
+    "shoe_tvd_m": 1252.9,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 264.4,
+    "slurry_volume_m3": 52.4,
+    "excess_pct": 34.6,
+    "returns": "partial",
+    "bond_index": 0.306,
+    "bond_quality": "poor",
+    "job_date": "2021-02-19",
+    "issues": [
+      "TOC_BELOW_PLAN",
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "JRJ-020",
+    "casing_size_in": "9-5/8in intermediate",
+    "hole_size_in": "12-1/4in",
+    "shoe_md_m": 3009.0,
+    "shoe_tvd_m": 3009.0,
+    "planned_toc_m": 966.1,
+    "actual_toc_m": 964.3,
+    "slurry_volume_m3": 78.0,
+    "excess_pct": 17.3,
+    "returns": "full",
+    "bond_index": 0.222,
+    "bond_quality": "poor",
+    "job_date": "2021-03-02",
+    "issues": [
+      "POOR_BOND",
+      "REMEDIAL_SQUEEZE"
+    ]
+  },
+  {
+    "well_id": "JRJ-020",
+    "casing_size_in": "7in liner",
+    "hole_size_in": "8-1/2in",
+    "shoe_md_m": 3594.5,
+    "shoe_tvd_m": 3594.5,
+    "planned_toc_m": 2898.6,
+    "actual_toc_m": 2907.5,
+    "slurry_volume_m3": 33.2,
+    "excess_pct": 27.2,
+    "returns": "full",
+    "bond_index": 0.31,
+    "bond_quality": "poor",
+    "job_date": "2021-03-06",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "JRJ-023",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 1214.7,
+    "shoe_tvd_m": 1195.8,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 9.3,
+    "slurry_volume_m3": 62.0,
+    "excess_pct": 32.4,
+    "returns": "full",
+    "bond_index": 0.687,
+    "bond_quality": "fair",
+    "job_date": "2022-01-28",
+    "issues": []
+  },
+  {
+    "well_id": "JRJ-023",
+    "casing_size_in": "9-5/8in intermediate",
+    "hole_size_in": "12-1/4in",
+    "shoe_md_m": 3096.8,
+    "shoe_tvd_m": 2941.3,
+    "planned_toc_m": 1060.8,
+    "actual_toc_m": 1060.3,
+    "slurry_volume_m3": 88.9,
+    "excess_pct": 30.0,
+    "returns": "full",
+    "bond_index": 0.378,
+    "bond_quality": "poor",
+    "job_date": "2022-02-13",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "JRJ-023",
+    "casing_size_in": "7in liner",
+    "hole_size_in": "8-1/2in",
+    "shoe_md_m": 3743.7,
+    "shoe_tvd_m": 3541.2,
+    "planned_toc_m": 2883.3,
+    "actual_toc_m": 2881.4,
+    "slurry_volume_m3": 35.2,
+    "excess_pct": 37.3,
+    "returns": "full",
+    "bond_index": 0.472,
+    "bond_quality": "fair",
+    "job_date": "2022-02-18",
+    "issues": []
+  },
+  {
+    "well_id": "JRJ-024",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 1252.2,
+    "shoe_tvd_m": 1252.2,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 2.0,
+    "slurry_volume_m3": 62.0,
+    "excess_pct": 26.4,
+    "returns": "full",
+    "bond_index": 0.46,
+    "bond_quality": "fair",
+    "job_date": "2020-10-10",
+    "issues": []
+  },
+  {
+    "well_id": "JRJ-028",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 1204.0,
+    "shoe_tvd_m": 1204.0,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 7.3,
+    "slurry_volume_m3": 67.4,
+    "excess_pct": 40.4,
+    "returns": "full",
+    "bond_index": 0.272,
+    "bond_quality": "poor",
+    "job_date": "2009-03-24",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "JRJ-028",
+    "casing_size_in": "9-5/8in intermediate",
+    "hole_size_in": "12-1/4in",
+    "shoe_md_m": 2967.7,
+    "shoe_tvd_m": 2967.7,
+    "planned_toc_m": 951.8,
+    "actual_toc_m": 945.8,
+    "slurry_volume_m3": 86.7,
+    "excess_pct": 53.1,
+    "returns": "full",
+    "bond_index": 0.3,
+    "bond_quality": "poor",
+    "job_date": "2009-04-11",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "JRJ-028",
+    "casing_size_in": "7in liner",
+    "hole_size_in": "8-1/2in",
+    "shoe_md_m": 3559.6,
+    "shoe_tvd_m": 3559.6,
+    "planned_toc_m": 2856.4,
+    "actual_toc_m": 3112.7,
+    "slurry_volume_m3": 25.2,
+    "excess_pct": 15.7,
+    "returns": "partial",
+    "bond_index": 0.207,
+    "bond_quality": "poor",
+    "job_date": "2009-04-17",
+    "issues": [
+      "LOSSES_DURING_CEMENTING",
+      "POOR_BOND",
+      "GAS_MIGRATION",
+      "TOC_BELOW_PLAN"
+    ]
+  },
+  {
+    "well_id": "JRJ-029",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 1214.5,
+    "shoe_tvd_m": 1214.5,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 219.3,
+    "slurry_volume_m3": 67.6,
+    "excess_pct": 24.8,
+    "returns": "partial",
+    "bond_index": 0.38,
+    "bond_quality": "poor",
+    "job_date": "2016-10-25",
+    "issues": [
+      "TOC_BELOW_PLAN",
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "JRJ-029",
+    "casing_size_in": "9-5/8in intermediate",
+    "hole_size_in": "12-1/4in",
+    "shoe_md_m": 3045.2,
+    "shoe_tvd_m": 3045.2,
+    "planned_toc_m": 1067.1,
+    "actual_toc_m": 1274.6,
+    "slurry_volume_m3": 102.5,
+    "excess_pct": 31.0,
+    "returns": "partial",
+    "bond_index": 0.345,
+    "bond_quality": "poor",
+    "job_date": "2016-11-05",
+    "issues": [
+      "TOC_BELOW_PLAN",
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "JRJ-033",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 1214.2,
+    "shoe_tvd_m": 1214.2,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 10.6,
+    "slurry_volume_m3": 75.4,
+    "excess_pct": 56.9,
+    "returns": "full",
+    "bond_index": 0.465,
+    "bond_quality": "fair",
+    "job_date": "2010-09-23",
+    "issues": []
+  },
+  {
+    "well_id": "JRJ-033",
+    "casing_size_in": "9-5/8in intermediate",
+    "hole_size_in": "12-1/4in",
+    "shoe_md_m": 3003.3,
+    "shoe_tvd_m": 3003.3,
+    "planned_toc_m": 1086.3,
+    "actual_toc_m": 1089.2,
+    "slurry_volume_m3": 85.2,
+    "excess_pct": 28.9,
+    "returns": "full",
+    "bond_index": 0.397,
+    "bond_quality": "poor",
+    "job_date": "2010-10-11",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "JRJ-033",
+    "casing_size_in": "7in liner",
+    "hole_size_in": "8-1/2in",
+    "shoe_md_m": 3586.7,
+    "shoe_tvd_m": 3586.7,
+    "planned_toc_m": 2966.2,
+    "actual_toc_m": 2973.1,
+    "slurry_volume_m3": 26.7,
+    "excess_pct": 34.4,
+    "returns": "full",
+    "bond_index": 0.243,
+    "bond_quality": "poor",
+    "job_date": "2010-10-16",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "MKM-063",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 1217.1,
+    "shoe_tvd_m": 1217.1,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 0.0,
+    "slurry_volume_m3": 66.1,
+    "excess_pct": 37.6,
+    "returns": "full",
+    "bond_index": 0.358,
+    "bond_quality": "poor",
+    "job_date": "2020-11-26",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "MKM-063",
+    "casing_size_in": "9-5/8in intermediate",
+    "hole_size_in": "12-1/4in",
+    "shoe_md_m": 3001.0,
+    "shoe_tvd_m": 3001.0,
+    "planned_toc_m": 1071.2,
+    "actual_toc_m": 1071.5,
+    "slurry_volume_m3": 100.8,
+    "excess_pct": 30.9,
+    "returns": "full",
+    "bond_index": 0.397,
+    "bond_quality": "poor",
+    "job_date": "2020-12-09",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "MKM-066",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 1126.3,
+    "shoe_tvd_m": 1126.3,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 11.7,
+    "slurry_volume_m3": 37.8,
+    "excess_pct": 19.1,
+    "returns": "full",
+    "bond_index": 0.326,
+    "bond_quality": "poor",
+    "job_date": "2024-01-08",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "MKM-066",
+    "casing_size_in": "9-5/8in intermediate",
+    "hole_size_in": "12-1/4in",
+    "shoe_md_m": 2826.9,
+    "shoe_tvd_m": 2826.9,
+    "planned_toc_m": 858.8,
+    "actual_toc_m": 869.3,
+    "slurry_volume_m3": 104.7,
+    "excess_pct": 36.2,
+    "returns": "full",
+    "bond_index": 0.402,
+    "bond_quality": "poor",
+    "job_date": "2024-01-19",
+    "issues": [
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "MKM-070",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 1124.7,
+    "shoe_tvd_m": 1124.7,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 10.6,
+    "slurry_volume_m3": 47.6,
+    "excess_pct": 41.6,
+    "returns": "full",
+    "bond_index": 0.24,
+    "bond_quality": "poor",
+    "job_date": "2024-06-24",
+    "issues": [
+      "CHANNELLING",
+      "REMEDIAL_SQUEEZE",
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "MKM-070",
+    "casing_size_in": "9-5/8in intermediate",
+    "hole_size_in": "12-1/4in",
+    "shoe_md_m": 2800.5,
+    "shoe_tvd_m": 2800.5,
+    "planned_toc_m": 841.5,
+    "actual_toc_m": 1745.0,
+    "slurry_volume_m3": 96.6,
+    "excess_pct": 20.2,
+    "returns": "partial",
+    "bond_index": 0.172,
+    "bond_quality": "poor",
+    "job_date": "2024-07-12",
+    "issues": [
+      "LOSSES_DURING_CEMENTING",
+      "TOC_BELOW_PLAN",
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "MKM-073",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 1106.0,
+    "shoe_tvd_m": 1106.0,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 3.1,
+    "slurry_volume_m3": 65.0,
+    "excess_pct": 44.6,
+    "returns": "full",
+    "bond_index": 0.256,
+    "bond_quality": "poor",
+    "job_date": "2024-01-19",
+    "issues": [
+      "CHANNELLING",
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "NHK-072",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 1206.7,
+    "shoe_tvd_m": 1206.7,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 0.0,
+    "slurry_volume_m3": 74.9,
+    "excess_pct": 38.2,
+    "returns": "full",
+    "bond_index": 0.33,
+    "bond_quality": "poor",
+    "job_date": "2026-09-22",
+    "issues": [
+      "CHANNELLING",
+      "REMEDIAL_SQUEEZE",
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "MRN-068",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 814.7,
+    "shoe_tvd_m": 814.7,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 2.7,
+    "slurry_volume_m3": 44.9,
+    "excess_pct": 54.1,
+    "returns": "full",
+    "bond_index": 0.182,
+    "bond_quality": "poor",
+    "job_date": "2026-09-26",
+    "issues": [
+      "CHANNELLING",
+      "POOR_BOND"
+    ]
+  },
+  {
+    "well_id": "TGK-076",
+    "casing_size_in": "13-3/8in surface",
+    "hole_size_in": "17-1/2in",
+    "shoe_md_m": 921.7,
+    "shoe_tvd_m": 921.7,
+    "planned_toc_m": 0.0,
+    "actual_toc_m": 2.0,
+    "slurry_volume_m3": 39.2,
+    "excess_pct": 36.5,
+    "returns": "full",
+    "bond_index": 0.564,
+    "bond_quality": "fair",
+    "job_date": "2026-09-15",
+    "issues": []
+  }
+]

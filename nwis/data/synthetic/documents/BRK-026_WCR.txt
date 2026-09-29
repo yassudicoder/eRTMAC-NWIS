@@ -1,0 +1,168 @@
+[PAGE 1]
+OIL INDIA LIMITED
+DRILLING DEPARTMENT, DULIAJAN, ASSAM
+
+WELL COMPLETION REPORT
+========================================================================
+
+1. WELL IDENTIFICATION
+------------------------------------------------------------------------
+Well Number            : Barekuri-26
+Well Code              : BRK-026
+Field / Structure      : Barekuri
+Category               : Development
+Well Profile           : Vertical
+Surface Coordinates    : 27.50378 N, 95.37917 E
+Bottom Hole Coordinates: 27.50378 N, 95.37917 E
+Ground Level           : 136.5 m above MSL
+Rig                    : OIL-RIG-30 (ZJ-50)
+Date Spudded           : 04-07-2009
+Date Completed         : 09-08-2009
+Total Depth (MD)       : 3,071.8 m
+Total Depth (TVD)      : 3,071.8 m
+Target Formation       : Barail Arenaceous
+Total Days Drilled     : 20
+Total NPT              : 273.5 hrs
+
+2. CASING AND HOLE PROGRAMME
+------------------------------------------------------------------------
+Hole Size   Casing                     Shoe MD (m)  Shoe TVD (m)   TOC (m)
+26in        20in conductor                    82.1          82.1         0
+17-1/2in    13-3/8in surface               1,017.9       1,017.9         0
+12-1/4in    9-5/8in intermediate           2,800.4       2,800.4       908
+
+Mud System             : KCl-glycol inhibitive WBM
+
+2A. CEMENTING RECORD
+------------------------------------------------------------------------
+Casing                     Shoe MD  Planned TOC  Actual TOC   Slurry  Returns   Bond
+                               (m)          (m)         (m)     (m3)           index
+13-3/8in surface             1,018            0         173     46.0  partial   0.39
+9-5/8in intermediate         2,800          908       1,820    105.1  partial   0.51
+
+Cement bond log across the 13-3/8in surface indicated poor to fair bond (bond index 0.39).
+Cement bond log across the 9-5/8in intermediate indicated fair bond (bond index 0.51).
+
+3. GEOLOGICAL SUMMARY - FORMATION TOPS
+------------------------------------------------------------------------
+
+[PAGE 2]
+Formation                    Top MD (m)   Top TVD (m)   Lithology
+Dihing                             26.5          26.5   Unconsolidated pebbly sandstone, clay and gravel
+Namsang                            82.5          82.5   Medium to coarse sandstone with clay interbeds
+Girujan Clay                      486.3         486.3   Mottled clay with thin siltstone and sandstone bands
+Tipam Sandstone                   978.1         978.1   Massive ferruginous sandstone with clay partings
+Barail Coal Shale               2,293.9       2,293.9   Carbonaceous shale with coal seams and thin sandstone
+Barail Arenaceous               2,845.5       2,845.5   Fine to medium sandstone with shale interbeds - principal pay
+
+The well encountered the normal Upper Assam section. Formation tops were
+picked on the basis of cuttings examination and wireline log correlation
+with the neighbouring wells of the structure.
+
+3A. RESERVOIR SUMMARY
+------------------------------------------------------------------------
+Formation             Fluid            Gross  Net Pay   Poro     Perm     Sw   Press
+                                         (m)      (m)    (%)     (mD)    (%)    (sg)
+Tipam Sandstone       oil              179.4    121.2   22.2    791.0   34.8    0.88
+Barail Arenaceous     oil and gas      215.4    144.0   14.7    189.2   25.3    1.10
+
+Tipam Sandstone: net pay 121.2 m, average porosity 22.2 percent, permeability 791 mD, water saturation 34.8 percent.
+    Reservoir pressure has declined from a virgin 1.02 sg to 0.88 sg equivalent, a depletion of 0.14 sg. Differential sticking risk across this interval is correspondingly elevated.
+    Formation temperature at top of interval: 55 deg C.
+Barail Arenaceous: net pay 144.0 m, average porosity 14.7 percent, permeability 189 mD, water saturation 25.3 percent.
+    Reservoir pressure has declined from a virgin 1.19 sg to 1.10 sg equivalent, a depletion of 0.09 sg. Differential sticking risk across this interval is correspondingly elevated.
+    Formation temperature at top of interval: 108 deg C.
+
+4. DRILLING PARAMETERS BY SECTION
+------------------------------------------------------------------------
+Formation                    Avg ROP   Avg WOB   Avg RPM    Mud Wt
+                              (m/hr)       (t)                (sg)
+Dihing                         23.25       9.5       114      1.08
+Namsang                        26.21      11.2        85      1.09
+Girujan Clay                   19.17      13.1        78      1.12
+Tipam Sandstone                14.31      14.2       107      1.08
+Barail Coal Shale               9.62      15.3       109      1.20
+Barail Arenaceous               5.34      15.4       112      1.25
+
+5. DRILLING PROBLEMS AND REMEDIAL MEASURES
+------------------------------------------------------------------------
+5.1  Girujan Clay - 06-07-2009
+     Tight hole experienced at 690 m MD in Girujan Clay; 7 reaming passes required.
+     Worked the string over the tight interval and raised mud weight to 1.22 sg.
+     Non-productive time attributable to this event: 18.3 hrs.
+
+5.2  Girujan Clay - 06-07-2009
+     Cavings observed at shakers while drilling Girujan Clay at 740 m MD; approximately 9.5 m3 recovered.
+
+[PAGE 3]
+     Circulated hi-vis sweeps and back-reamed the interval before continuing.
+     Non-productive time attributable to this event: 53.3 hrs.
+
+5.3  Girujan Clay - 09-07-2009
+     Bit balling suspected at 890 m MD in Girujan Clay; standpipe pressure rose by 30.1 ksc.
+     Raised flow rate and added detergent to the system.
+     Non-productive time attributable to this event: 3.2 hrs.
+
+5.4  Tipam Sandstone - 10-07-2009
+     Top of cement logged at 173 m against a planned top of 0 m behind the 13-3/8in surface.
+     Top-up job performed through the annulus to raise the cement top.
+     Non-productive time attributable to this event: 16.9 hrs.
+
+5.5  Tipam Sandstone - 10-07-2009
+     CBL/VDL run on the 13-3/8in surface indicated poor to fair bond, bond index 0.391.
+     Remedial squeeze carried out and the bond log re-run; bond improved to fair.
+     Non-productive time attributable to this event: 19.7 hrs.
+
+5.6  Tipam Sandstone - 14-07-2009
+     Mud loss of 4.2 m3/hr recorded between 2,100 m and 2,113 m MD in Tipam Sandstone.
+     LCM pill of 132 bbl (medium nut plug and mica) pumped; losses reduced.
+     Non-productive time attributable to this event: 7.1 hrs.
+
+5.7  Barail Coal Shale - 15-07-2009
+     Hole instability and sloughing from 2,330 m to 2,354 m MD in Barail Coal Shale.
+     Circulated hi-vis sweeps and back-reamed the interval before continuing.
+     Non-productive time attributable to this event: 29.5 hrs.
+
+5.8  Barail Coal Shale - 18-07-2009
+     High torque and drag from 2,780 m MD in Barail Coal Shale; peak torque 40.6 kNm.
+     Added lubricant to the mud system and reduced RPM.
+     Non-productive time attributable to this event: 39.9 hrs.
+
+5.9  Barail Coal Shale - 22-07-2009
+     Partial returns lost during the 9-5/8in intermediate cement job at 2,800 m MD.
+     Cut slurry density and continued; losses were cured before the plug bumped.
+     Non-productive time attributable to this event: 53.7 hrs.
+
+5.10  Barail Coal Shale - 22-07-2009
+     CBL indicated top of cement at 1,820 m behind the 9-5/8in intermediate, 912 m below the planned top of 908 m.
+     Accepted after review; previous shoe covered by the subsequent string.
+     Non-productive time attributable to this event: 29.5 hrs.
+
+5.11  Barail Arenaceous - 22-07-2009
+     Partial mud losses of 4.6 m3/hr observed at 3,020 m MD (3,020 m TVD) while drilling Barail Arenaceous.
+     Pumped 63 bbl of coarse LCM slurry and cut mud weight by 0.03 sg.
+
+[PAGE 4]
+     Non-productive time attributable to this event: 2.4 hrs.
+
+
+6. LESSONS LEARNT AND RECOMMENDATIONS FOR FUTURE WELLS
+------------------------------------------------------------------------
+- Girujan Clay - wellbore instability: reactive clay hydrating and sloughing into the hole.
+  Future wells on this structure should plan for this around
+  740 m MD.
+- Barail Coal Shale - wellbore instability: coal seams caving and producing large cavings at the shakers.
+  Future wells on this structure should plan for this around
+  2,330 m MD.
+- Barail Coal Shale - high torque and drag: cavings packing the annulus and loading the string.
+  Future wells on this structure should plan for this around
+  2,780 m MD.
+- Barail Coal Shale - cementing problem: cement slurry lost into a permeable or fractured interval, leaving the top of cement below the planned depth.
+  Future wells on this structure should plan for this around
+  2,800 m MD.
+- Barail Coal Shale - cementing problem: cement column fell short of the planned top, leaving the previous shoe uncovered.
+  Future wells on this structure should plan for this around
+  2,800 m MD.
+
+Prepared by  : Drilling Engineering Group, OIL, Duliajan
+Reviewed by  : Head - Drilling Services

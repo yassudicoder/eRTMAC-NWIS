@@ -1,0 +1,62 @@
+[PAGE 1]
+OIL INDIA LIMITED - MUD LOG / LITHOLOGY LOG
+Well: Naharkatiya-58 (NHK-058)    Field: Naharkatiya
+Mud System: Low-solids non-dispersed WBM
+==============================================================================
+
+    MD (m)   TVD (m)Formation                      ROP     Gas     MW
+                                                (m/hr) (units)   (sg)
+------------------------------------------------------------------------------
+        10        10Dihing                        40.1       1   1.08
+        60        60Dihing                        35.9       2   1.08
+       110       110Dihing                        15.1       1   1.08
+       160       160Dihing                        12.0       2   1.08
+       210       210Namsang                       10.8       4   1.09
+       260       260Namsang                       10.2       2   1.09
+       310       310Namsang                       16.1       4   1.09
+       360       360Namsang                       13.9       3   1.09
+       410       410Namsang                       13.9       3   1.09
+       460       460Namsang                       10.8       2   1.09
+       510       510Namsang                       14.7       1   1.09
+       560       560Namsang                       10.9       2   1.09
+       610       610Namsang                       10.6       5   1.09
+       660       660Girujan Clay                  10.6       1   1.12
+       710       710Girujan Clay                   9.8       3   1.12
+           >> Hole instability and sloughing from 680 m to 695 m MD in Girujan Clay.
+       760       760Girujan Clay                  10.6       4   1.12
+       810       810Girujan Clay                   9.5       5   1.12
+       860       860Girujan Clay                   8.4       2   1.12
+       910       910Girujan Clay                   7.3       1   1.12
+       960       960Girujan Clay                   9.2       1   1.12
+     1,010     1,010Girujan Clay                   8.8       0   1.12
+     1,060     1,060Girujan Clay                   7.4       5   1.12
+     1,110     1,110Girujan Clay                   8.2       2   1.12
+     1,160     1,160Tipam Sandstone                6.8      33   1.08
+     1,210     1,210Tipam Sandstone                6.4      30   1.08
+           >> While drilling Tipam Sandstone at 1,200 m MD, returns reduced and losses of 8.3 m3/hr were measured.
+     1,260     1,260Tipam Sandstone                5.5      31   1.08
+           >> Cement bond log across the 13-3/8in surface showed poor bonding, bond index 0.445.
+     1,310     1,310Tipam Sandstone                5.8      30   1.08
+     1,360     1,360Tipam Sandstone                7.0      31   1.08
+     1,410     1,410Tipam Sandstone                8.0      32   1.08
+     1,460     1,460Tipam Sandstone                6.5      29   1.08
+     1,510     1,510Tipam Sandstone                5.9      32   1.08
+     1,560     1,560Tipam Sandstone                7.5      33   1.08
+     1,610     1,610Tipam Sandstone                5.4      29   1.08
+     1,660     1,660Tipam Sandstone                5.3      29   1.08
+     1,710     1,710Tipam Sandstone                6.0      29   1.08
+     1,760     1,760Tipam Sandstone                6.4      29   1.08
+     1,810     1,810Tipam Sandstone                5.7      30   1.08
+
+LITHOLOGICAL DESCRIPTION
+
+[PAGE 2]
+------------------------------------------------------------------------------
+11 m MD - Dihing
+    Unconsolidated pebbly sandstone, clay and gravel.
+183 m MD - Namsang
+    Medium to coarse sandstone with clay interbeds.
+632 m MD - Girujan Clay
+    Mottled clay with thin siltstone and sandstone bands.
+1,143 m MD - Tipam Sandstone
+    Massive ferruginous sandstone with clay partings.
