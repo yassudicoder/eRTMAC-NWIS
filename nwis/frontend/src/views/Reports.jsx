@@ -20,10 +20,10 @@ export default function Reports({ wellId, onOpenEvidence }) {
     () => api.documents(scope === 'well' ? { well_id: wellId } : {}),
     [wellId, scope],
   )
-  const events = useApi(
-    () => (scope === 'well' ? api.wellEvents(wellId) : api.wellEvents(wellId)),
-    [wellId, scope],
-  )
+  // The event table is always this well's own. Asset-wide event search lives
+  // on the Search & Lessons view, which has the query syntax for it; the
+  // scope control here applies to the document list above.
+  const events = useApi(() => api.wellEvents(wellId), [wellId])
   const stats = useApi(() => api.stats(), [])
 
   const docs = (documents.data ?? []).filter((d) => {
@@ -65,6 +65,7 @@ export default function Reports({ wellId, onOpenEvidence }) {
                 className="rounded-lg border border-slate-300 bg-white px-2 py-1.5 text-sm"
                 value={scope}
                 onChange={(e) => setScope(e.target.value)}
+                title="Which wells' reports to list"
               >
                 <option value="well">This well</option>
                 <option value="all">All wells</option>

@@ -109,6 +109,9 @@ class OffsetWell:
     event_count: int = 0
     npt_hours: float = 0.0
     shared_formations: list[str] = field(default_factory=list)
+    # How many candidates were inside the radius before the result list was
+    # truncated to `limit`.
+    total_in_radius: int = 0
 
     def as_dict(self, include_correlation: bool = True) -> dict:
         out = {
@@ -395,7 +398,14 @@ def rank_offsets(
         ))
 
     results.sort(key=lambda r: -r.score)
-    return results[:limit] if limit else results
+    # The caller needs to know how many were in radius before truncation, or
+    # a "15 wells within 15 km" caption becomes a false statement about the
+    # map the moment the limit bites.
+    total = len(results)
+    results = results[:limit] if limit else results
+    for r in results:
+        r.total_in_radius = total
+    return results
 
 
 def _bearing(ref: dict, cand: dict) -> float:

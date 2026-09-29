@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import {
   AlertTriangle, ChevronDown, ChevronRight, FileText, Activity, Lightbulb, MapPin,
+  BrainCircuit,
 } from 'lucide-react'
 import { bandStyle, eventColor, fmt } from '../format'
 import { Chip, ScoreBar } from './ui'
@@ -34,6 +35,13 @@ export default function AlertCard({ alert, onOpenEvidence, defaultOpen = false }
               {alert.live_boost > 0 && (
                 <Chip className="bg-violet-100 text-violet-800 ring-violet-300">
                   <Activity className="h-3 w-3" /> live signal
+                </Chip>
+              )}
+              {alert.model && (
+                <Chip className="bg-indigo-100 text-indigo-800 ring-indigo-300">
+                  <BrainCircuit className="h-3 w-3" />
+                  model {fmt.pct(alert.model.probability)}
+                  {alert.model.lift ? ` · ${alert.model.lift}x base` : ''}
                 </Chip>
               )}
             </div>
@@ -74,14 +82,18 @@ export default function AlertCard({ alert, onOpenEvidence, defaultOpen = false }
         </ul>
 
         <div className="mt-3 flex flex-wrap items-center gap-x-4 gap-y-1 text-xs text-slate-500">
-          <span className="inline-flex items-center gap-1">
-            <MapPin className="h-3 w-3" /> {alert.well_count} offset well
-            {alert.well_count === 1 ? '' : 's'}
-          </span>
-          <span className="inline-flex items-center gap-1">
-            <FileText className="h-3 w-3" /> {alert.evidence_count} source reference
-            {alert.evidence_count === 1 ? '' : 's'}
-          </span>
+          {alert.well_count > 0 && (
+            <span className="inline-flex items-center gap-1">
+              <MapPin className="h-3 w-3" /> {alert.well_count} offset well
+              {alert.well_count === 1 ? '' : 's'}
+            </span>
+          )}
+          {alert.evidence_count > 0 && (
+            <span className="inline-flex items-center gap-1">
+              <FileText className="h-3 w-3" /> {alert.evidence_count} source reference
+              {alert.evidence_count === 1 ? '' : 's'}
+            </span>
+          )}
           {alert.total_npt_hours > 0 && (
             <span>{fmt.hours(alert.total_npt_hours)} NPT in those wells</span>
           )}
@@ -100,6 +112,15 @@ export default function AlertCard({ alert, onOpenEvidence, defaultOpen = false }
 
       {open && (
         <div className="space-y-4 border-t border-slate-200 bg-slate-50 p-4">
+          {alert.contributing.length === 0 ? (
+            <div className="rounded-lg border border-slate-200 bg-white p-3 text-xs leading-relaxed text-slate-600">
+              <span className="font-semibold text-slate-700">No event evidence, by design.</span>{' '}
+              An overpressured interval is dangerous even where nothing went wrong, because the
+              previous crew carried enough mud weight to keep it quiet. This alert is derived from
+              the mud weights the offset wells actually carried at the correlated depth, not from
+              their event record.
+            </div>
+          ) : (
           <div>
             <h4 className="text-xs font-semibold uppercase tracking-wide text-slate-500">
               Supporting evidence
@@ -158,6 +179,53 @@ export default function AlertCard({ alert, onOpenEvidence, defaultOpen = false }
               ))}
             </div>
           </div>
+          )}
+
+          {alert.model && (
+            <div>
+              <h4 className="flex items-center gap-1.5 text-xs font-semibold uppercase tracking-wide text-slate-500">
+                <BrainCircuit className="h-3.5 w-3.5" /> Model prediction
+              </h4>
+              <div className="mt-2 rounded-lg border border-indigo-200 bg-indigo-50 p-3">
+                <div className="flex flex-wrap items-baseline gap-x-4 gap-y-1 text-sm">
+                  <span className="text-indigo-900">
+                    Probability <b>{fmt.pct(alert.model.probability)}</b>
+                  </span>
+                  {alert.model.base_rate != null && (
+                    <span className="text-indigo-700">
+                      against a base rate of {fmt.pct(alert.model.base_rate)}
+                    </span>
+                  )}
+                  {alert.model.auc != null && (
+                    <span className="ml-auto text-xs text-indigo-600">
+                      validated AUC {alert.model.auc.toFixed(2)} (leave-one-well-out)
+                    </span>
+                  )}
+                </div>
+                <div className="mt-2">
+                  <ScoreBar value={alert.model.probability} color="bg-indigo-500" />
+                </div>
+                {alert.model.drivers?.length > 0 && (
+                  <ul className="mt-2 space-y-0.5">
+                    {alert.model.drivers.map((d) => (
+                      <li key={d.feature} className="flex justify-between gap-3 text-[11px] text-indigo-800">
+                        <span>{d.feature.replace(/_/g, ' ')}</span>
+                        <span className="font-mono">
+                          {d.value} &rarr; {d.contribution > 0 ? '+' : ''}
+                          {d.contribution.toFixed(2)} log-odds
+                        </span>
+                      </li>
+                    ))}
+                  </ul>
+                )}
+                <p className="mt-2 text-[11px] leading-snug text-indigo-700">
+                  This is a second opinion, computed from offset incidence, pressure margin and
+                  depletion &mdash; not from the evidence count above. Where the two disagree,
+                  that disagreement is itself worth reading.
+                </p>
+              </div>
+            </div>
+          )}
 
           <div>
             <h4 className="flex items-center gap-1.5 text-xs font-semibold uppercase tracking-wide text-slate-500">
@@ -178,9 +246,12 @@ export default function AlertCard({ alert, onOpenEvidence, defaultOpen = false }
                 </li>
               ))}
             </ul>
-            <p className="mt-2 text-[11px] text-slate-500">
-              Highlighted actions are what the offset crews actually did, taken from their reports.
-            </p>
+            {alert.contributing.length > 0 && (
+              <p className="mt-2 text-[11px] text-slate-500">
+                Highlighted actions are what the offset crews actually did, taken from their
+                reports.
+              </p>
+            )}
           </div>
 
           {alert.live_signals?.length > 0 && (

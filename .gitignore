@@ -1,0 +1,12 @@
+# Accidental nested clone of this same repository. Committing it would create
+# a broken gitlink, so it is ignored; it is an empty clone and safe to delete.
+/eRTMAC-NWIS/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Tooling scratch
+.playwright-mcp/

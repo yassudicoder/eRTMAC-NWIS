@@ -16,6 +16,8 @@ class Settings:
     db_path: Path = Path(os.getenv("NWIS_DB", PROJECT_ROOT / "data" / "nwis.db"))
     frontend_dist: Path = Path(
         os.getenv("NWIS_FRONTEND", PROJECT_ROOT / "frontend" / "dist"))
+    model_path: Path = Path(
+        os.getenv("NWIS_MODEL", PROJECT_ROOT / "data" / "risk_model.json"))
 
     # Defaults the API uses when a request does not override them.
     default_radius_km: float = float(os.getenv("NWIS_RADIUS_KM", "15"))

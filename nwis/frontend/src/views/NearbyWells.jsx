@@ -39,7 +39,11 @@ export default function NearbyWells({ wellId, settings, onSettings, onCompare })
           title="Offset wells"
           subtitle={
             offsets.data
-              ? `${rows.length} wells within ${settings.radius} km · ${bands.High ?? 0} high, ${
+              ? `${
+                  offsets.data.total_in_radius > rows.length
+                    ? `Showing the ${rows.length} most relevant of ${offsets.data.total_in_radius}`
+                    : `${rows.length}`
+                } wells within ${settings.radius} km · ${bands.High ?? 0} high, ${
                   bands.Medium ?? 0
                 } medium, ${bands.Low ?? 0} low relevance`
               : undefined

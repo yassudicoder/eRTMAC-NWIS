@@ -9,12 +9,17 @@ fastapi>=0.110
 uvicorn[standard]>=0.27
 
 # --- optional -------------------------------------------------------------
-# Needed only to ingest PDFs and scanned reports. The synthetic corpus is
-# plain text, so the demo runs without them.
+# Needed only to ingest PDFs and scanned reports. The shipped corpus is plain
+# text, so the demo runs without them; install these to exercise the PDF and
+# OCR intake paths in ingest/ocr.py.
 #
 #   pymupdf>=1.24        PDF text layer and page rasterisation
-#   pytesseract>=0.3.10  OCR for scanned pages (needs the Tesseract binary)
+#   pytesseract>=0.3.10  OCR for scanned pages (also needs the Tesseract binary)
 #   pillow>=10.0         image handling for the OCR path
+#
+# The predictive model in engine/model.py is plain-Python logistic regression -
+# it needs none of these, which is deliberate: it is the one part of the system
+# a reviewer should be able to read end to end.
 
 # --- development ----------------------------------------------------------
 # The test suite also runs standalone:  python backend/tests/test_nwis.py

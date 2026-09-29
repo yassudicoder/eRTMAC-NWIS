@@ -7,13 +7,19 @@ import DepthTrack from '../components/DepthTrack'
 import AlertCard from '../components/AlertCard'
 import { bandStyle } from '../format'
 
-export default function Overview({ wellId, settings, onOpenEvidence, onNavigate }) {
+export default function Overview({ wellId, settings, onOpenEvidence, onNavigate,
+                                   liveRisk, liveFrame }) {
   const detail = useApi(() => api.well(wellId), [wellId])
   const stats = useApi(() => api.stats(), [])
-  const risk = useApi(
+  const fetchedRisk = useApi(
     () => api.risk(wellId, { lookahead_m: settings.lookahead, radius_km: settings.radius }),
     [wellId, settings.lookahead, settings.radius],
   )
+  // The replay stream carries a fresher look-ahead than this view can fetch.
+  const live = liveRisk && liveRisk.well_id === wellId ? liveRisk : null
+  const risk = live
+    ? { ...fetchedRisk, data: live, loading: false, error: null }
+    : fetchedRisk
   const offsets = useApi(
     () => api.offsets(wellId, { radius_km: settings.radius, limit: 8 }),
     [wellId, settings.radius],

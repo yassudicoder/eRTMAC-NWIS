@@ -1,7 +1,7 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import {
   Activity, BarChart3, FileText, GitCompare, LayoutDashboard, MapPin, Pause, Play,
-  Radio, RotateCcw, TriangleAlert,
+  Radio, RotateCcw, Search, TriangleAlert,
 } from 'lucide-react'
 import { api } from './api'
 import { fmt } from './format'
@@ -11,6 +11,7 @@ import Overview from './views/Overview'
 import NearbyWells from './views/NearbyWells'
 import Correlation from './views/Correlation'
 import RiskAlerts from './views/RiskAlerts'
+import Knowledge from './views/Knowledge'
 import Reports from './views/Reports'
 import Analytics from './views/Analytics'
 
@@ -19,6 +20,7 @@ const NAV = [
   { key: 'offsets', label: 'Nearby Wells', icon: MapPin },
   { key: 'correlation', label: 'Correlation', icon: GitCompare },
   { key: 'risk', label: 'Risk Alerts', icon: TriangleAlert },
+  { key: 'knowledge', label: 'Search & Lessons', icon: Search },
   { key: 'reports', label: 'Reports', icon: FileText },
   { key: 'analytics', label: 'Analytics', icon: BarChart3 },
 ]
@@ -32,6 +34,9 @@ function useReplay(wellId, settings) {
   const [running, setRunning] = useState(false)
   const [frame, setFrame] = useState(null)
   const [progress, setProgress] = useState(null)
+  // The look-ahead the server re-ran for the simulated bit depth. This is the
+  // whole point of the replay: as the bit advances, the alerts change.
+  const [liveRisk, setLiveRisk] = useState(null)
   const source = useRef(null)
 
   const stop = useCallback(() => {
@@ -44,6 +49,7 @@ function useReplay(wellId, settings) {
     stop()
     setFrame(null)
     setProgress(null)
+    setLiveRisk(null)
   }, [stop])
 
   const start = useCallback(() => {
@@ -60,6 +66,10 @@ function useReplay(wellId, settings) {
       setFrame(data)
       setProgress({ index: data.index, total: data.total })
     })
+    // The backend recomputes the whole look-ahead every few frames and pushes
+    // it down this stream. Ignoring it would make the replay a moving number
+    // with nothing behind it.
+    es.addEventListener('alerts', (e) => setLiveRisk(JSON.parse(e.data)))
     es.addEventListener('end', () => stop())
     es.onerror = () => stop()
     source.current = es
@@ -68,7 +78,7 @@ function useReplay(wellId, settings) {
 
   useEffect(() => reset, [reset, wellId])
 
-  return { running, frame, progress, start, stop, reset }
+  return { running, frame, progress, liveRisk, start, stop, reset }
 }
 
 export default function App() {
@@ -259,6 +269,8 @@ export default function App() {
               settings={settings}
               onOpenEvidence={setEvidence}
               onNavigate={setView}
+              liveRisk={replay.liveRisk}
+              liveFrame={replay.frame}
             />
           )}
           {view === 'offsets' && (
@@ -284,6 +296,18 @@ export default function App() {
               settings={settings}
               onSettings={setSettings}
               onOpenEvidence={setEvidence}
+              liveRisk={replay.liveRisk}
+              liveFrame={replay.frame}
+            />
+          )}
+          {view === 'knowledge' && (
+            <Knowledge
+              wellId={wellId}
+              onOpenEvidence={setEvidence}
+              onOpenWell={(id) => {
+                setWellId(id)
+                setView('overview')
+              }}
             />
           )}
           {view === 'reports' && <Reports wellId={wellId} onOpenEvidence={setEvidence} />}

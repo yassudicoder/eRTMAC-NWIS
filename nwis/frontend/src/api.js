@@ -65,6 +65,19 @@ export const api = {
     request(`/api/documents/${documentId}/page/${page}`, { highlight }),
   event: (eventId) => request(`/api/events/${eventId}`),
 
+  // --- searchable knowledge repository ---
+  search: (q, params) => request('/api/search', { q, ...params }),
+  lessons: (params) => request('/api/lessons', params),
+  wellLessons: (id) => request(`/api/wells/${id}/lessons`),
+  wellCasing: (id) => request(`/api/wells/${id}/casing`),
+  wellReservoir: (id) => request(`/api/wells/${id}/reservoir`),
+  casingComparison: (id, params) => request(`/api/wells/${id}/casing-comparison`, params),
+  experience: (id) => request(`/api/wells/${id}/experience`),
+
+  // --- predictive model & pressure ---
+  modelMetrics: () => request('/api/model/metrics'),
+  pressure: (id, params) => request(`/api/wells/${id}/pressure`, params),
+
   npt: () => request('/api/analytics/npt'),
   fieldSummary: () => request('/api/analytics/field-summary'),
   clusters: (params) => request('/api/analytics/clusters', params),

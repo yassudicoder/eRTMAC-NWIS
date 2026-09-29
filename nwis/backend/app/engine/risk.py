@@ -32,6 +32,8 @@ from typing import Any, Sequence
 from ..assam_geology import EVENT_LABELS, FORMATION_BY_NAME
 from .correlate import Correlation
 from .geometry import Trajectory
+from .model import MODELLED_HAZARDS, RiskModelBundle, feature_index
+from .pressure import build_prognosis, find_overpressure
 from .relevance import OffsetWell, RelevanceWeights, rank_offsets
 from .signals import Signal, analyse, boost_for
 
@@ -52,6 +54,9 @@ MIN_CONTRIBUTING_RELEVANCE = 0.30
 
 BAND_HIGH = 0.62
 BAND_MEDIUM = 0.35
+
+# Below this the mud-weight window is worth remarking on in the alert text.
+WINDOW_NOTE_SG = 0.25
 
 
 # --------------------------------------------------------------------------
@@ -107,6 +112,19 @@ ACTION_LIBRARY: dict[str, list[str]] = {
     "LOW_ROP": [
         "Plan the bit programme for the harder section; review WOB/RPM.",
         "Consider a bit change before entering the interval to avoid a mid-section trip.",
+    ],
+    "CEMENTING_ISSUE": [
+        "Review the slurry design and centralisation for this interval before running casing.",
+        "Plan a cement bond log; budget time for a remedial squeeze if the bond is poor.",
+        "Expect losses while cementing if the interval took mud while drilling - consider a "
+        "lightweight lead slurry or a two-stage job.",
+        "Confirm the planned top of cement covers the previous shoe with margin for losses.",
+    ],
+    "OVERPRESSURE": [
+        "Raise mud weight to the level the offset wells carried before entering the interval.",
+        "Check the kick tolerance and the casing shoe strength against the new mud weight.",
+        "Slow the connection and tripping speeds - surge and swab matter most in a narrow window.",
+        "Monitor flow-out, pit level and background gas continuously through the interval.",
     ],
     "EQUIPMENT_FAILURE": [
         "Verify critical equipment and spares before entering the interval.",
@@ -183,6 +201,9 @@ class RiskAlert:
     recommended_actions: list[str]
     live_signals: list[Signal] = field(default_factory=list)
     live_boost: float = 0.0
+    # What the trained model makes of the same interval, independently of the
+    # evidence count. None when no model was trained for this hazard.
+    model: dict | None = None
 
     @property
     def well_count(self) -> int:
@@ -214,6 +235,7 @@ class RiskAlert:
             "recommended_actions": self.recommended_actions,
             "live_boost": round(self.live_boost, 3),
             "live_signals": [s.as_dict() for s in self.live_signals],
+            "model": self.model,
             "contributing": [c.as_dict() for c in self.contributing],
         }
 
@@ -231,6 +253,8 @@ class LookAheadResult:
     offsets_considered: int
     offsets_used: int
     signals: list[Signal]
+    pressure_prognosis: list = field(default_factory=list)
+    overpressure: list = field(default_factory=list)
 
     def as_dict(self) -> dict:
         return {
@@ -248,6 +272,8 @@ class LookAheadResult:
             "offsets_considered": self.offsets_considered,
             "offsets_used": self.offsets_used,
             "signals": [s.as_dict() for s in self.signals],
+            "pressure_prognosis": [p.as_dict() for p in self.pressure_prognosis],
+            "overpressure": [o.as_dict() for o in self.overpressure],
             "alerts": [a.as_dict() for a in self.alerts],
         }
 
@@ -266,6 +292,7 @@ def look_ahead(
     weights: RelevanceWeights | None = None,
     max_offsets: int = 12,
     min_relevance: float = MIN_CONTRIBUTING_RELEVANCE,
+    model: "RiskModelBundle | None" = None,
 ) -> LookAheadResult | None:
     """Run the full look-ahead analysis for one well."""
     well = store.well(well_id)
@@ -303,6 +330,23 @@ def look_ahead(
     alerts = _build_alerts(store, well, trajectory, usable, window_tvd,
                            (bit_md_m, md_to), signals)
 
+    # What the trained model thinks of the same interval. This is a second,
+    # independent opinion: it is computed from offset incidence, pressure
+    # margin and depletion, not from the alert's own evidence count.
+    if model is not None:
+        _attach_model_scores(store, well, model, formations_ahead, alerts)
+
+    # Overpressure cannot be found by counting events - a quiet offset that
+    # carried heavy mud is exactly the evidence that matters.
+    prognosis = build_prognosis(store, well, trajectory, usable,
+                                window_tvd[0], window_tvd[1])
+    current_mw = None
+    if log_rows:
+        current_mw = log_rows[-1].get("mud_weight_sg")
+    overpressure = find_overpressure(prognosis, usable, current_mw)
+    alerts.extend(_overpressure_alerts(well, overpressure, window_md=(bit_md_m, md_to)))
+    alerts.sort(key=lambda a: -a.risk_score)
+
     return LookAheadResult(
         well=well,
         bit_md_m=bit_md_m,
@@ -315,7 +359,78 @@ def look_ahead(
         offsets_considered=len(offsets),
         offsets_used=len(usable),
         signals=signals,
+        pressure_prognosis=prognosis,
+        overpressure=overpressure,
     )
+
+
+
+
+def _attach_model_scores(store: Any, well: dict, model: "RiskModelBundle",
+                         formations_ahead: Sequence[dict],
+                         alerts: Sequence[RiskAlert]) -> None:
+    """
+    Score the interval ahead with the trained model and attach the result.
+
+    The model is asked about the formation each alert sits in, using features
+    built the same way they were built for training - so what it sees here is
+    what it was validated on.
+    """
+    names = {f["formation"] for f in formations_ahead}
+    if not names:
+        return
+
+    # The serving features come from exactly the same builder the training
+    # features did, so the two can never drift apart. It is cached, because
+    # constructing it walks every well pair.
+    try:
+        index = feature_index(store, radius_km=model.radius_km)
+    except Exception:  # pragma: no cover - scoring must never break an alert
+        return
+    for alert in alerts:
+        if alert.event_type not in MODELLED_HAZARDS or not alert.formation:
+            continue
+        features = index.get((well["well_id"], alert.formation, alert.event_type))
+        if features is None:
+            continue
+        alert.model = model.score(alert.event_type, features)
+
+
+def _overpressure_alerts(well: dict, findings: Sequence[Any],
+                         window_md: tuple[float, float]) -> list[RiskAlert]:
+    """Turn overpressure findings into alerts in the same shape as the rest."""
+    out: list[RiskAlert] = []
+    for f in findings:
+        risk = min(1.0, 0.34 + 0.13 * f.severity)
+        band = "High" if risk >= BAND_HIGH else "Medium" if risk >= BAND_MEDIUM else "Low"
+        why = [
+            f.reason + ".",
+            f"{len(f.contributing_wells)} relevant offset wells contributed mud-weight "
+            f"readings at the correlated depth.",
+        ]
+        if f.window_sg <= WINDOW_NOTE_SG:
+            why.append(
+                f"Predicted drilling window here is {f.window_sg:.2f} sg between pore "
+                f"pressure and fracture gradient.")
+        out.append(RiskAlert(
+            alert_id=f"{well['well_id']}-OVERPRESSURE-{int(f.md_from)}",
+            event_type="OVERPRESSURE",
+            label=EVENT_LABELS.get("OVERPRESSURE", "Overpressured zone"),
+            risk_score=risk,
+            risk_band=band,
+            confidence=round(min(0.95, 0.45 + 0.12 * len(f.contributing_wells)), 3),
+            formation=f.formation,
+            predicted_md_from=max(window_md[0], f.md_from),
+            predicted_md_to=min(window_md[1], f.md_to),
+            predicted_tvd_from=f.tvd_from,
+            predicted_tvd_to=f.tvd_to,
+            metres_ahead=max(0.0, f.md_from - window_md[0]),
+            contributing=[],
+            why=why,
+            recommended_actions=list(ACTION_LIBRARY.get("OVERPRESSURE", [])),
+        ))
+    return out
+
 
 
 def _formations_in_window(store: Any, well: dict, trajectory: Trajectory,

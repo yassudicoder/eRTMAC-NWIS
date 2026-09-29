@@ -19,7 +19,7 @@ from fastapi.staticfiles import StaticFiles
 
 from .config import settings
 from .deps import get_store, reset_store
-from .routers import analysis, analytics, documents, realtime, wells
+from .routers import analysis, analytics, documents, knowledge, realtime, wells
 
 log = logging.getLogger("nwis")
 
@@ -77,6 +77,7 @@ app.add_middleware(
 app.include_router(wells.router)
 app.include_router(analysis.router)
 app.include_router(documents.router)
+app.include_router(knowledge.router)
 app.include_router(analytics.router)
 app.include_router(realtime.router)
 

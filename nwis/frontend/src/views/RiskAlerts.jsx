@@ -5,12 +5,21 @@ import { Async, Card, Chip, Stat, useApi } from '../components/ui'
 import AlertCard from '../components/AlertCard'
 import DepthTrack from '../components/DepthTrack'
 
-export default function RiskAlerts({ wellId, settings, onSettings, onOpenEvidence }) {
+export default function RiskAlerts({ wellId, settings, onSettings, onOpenEvidence,
+                                     liveRisk, liveFrame }) {
   const detail = useApi(() => api.well(wellId), [wellId])
-  const risk = useApi(
+  const fetched = useApi(
     () => api.risk(wellId, { lookahead_m: settings.lookahead, radius_km: settings.radius }),
     [wellId, settings.lookahead, settings.radius],
   )
+
+  // While the eRTMAC replay is running the server pushes a freshly computed
+  // look-ahead for the simulated bit depth. That is more current than
+  // anything this view could fetch, so it wins.
+  const live = liveRisk && liveRisk.well_id === wellId ? liveRisk : null
+  const risk = live
+    ? { ...fetched, data: live, loading: false, error: null }
+    : fetched
 
   return (
     <div className="grid gap-4 xl:grid-cols-4">
@@ -23,6 +32,24 @@ export default function RiskAlerts({ wellId, settings, onSettings, onOpenEvidenc
             }, {})
             return (
               <>
+                {live && (
+                  <div className="flex flex-wrap items-center gap-3 rounded-lg border border-emerald-200
+                                  bg-emerald-50 px-4 py-2.5 text-sm text-emerald-900">
+                    <span className="flex h-2 w-2 shrink-0 animate-pulse rounded-full bg-emerald-500" />
+                    <span className="font-medium">Live from the eRTMAC replay</span>
+                    <span className="text-emerald-700">
+                      bit at {fmt.depth(r.bit_md_m)} MD — alerts recomputed as it advances
+                    </span>
+                    {liveFrame && (
+                      <span className="ml-auto font-mono text-xs text-emerald-700">
+                        ROP {liveFrame.rop_m_hr?.toFixed(1)} m/hr · MW{' '}
+                        {liveFrame.mud_weight_sg?.toFixed(2)} sg · torque{' '}
+                        {liveFrame.torque_knm?.toFixed(1)} kNm
+                      </span>
+                    )}
+                  </div>
+                )}
+
                 <div className="grid grid-cols-2 gap-3 lg:grid-cols-4">
                   <Stat
                     label="Interval ahead"

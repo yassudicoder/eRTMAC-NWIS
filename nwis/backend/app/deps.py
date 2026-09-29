@@ -7,10 +7,13 @@ from functools import lru_cache
 from fastapi import HTTPException, Query
 
 from .config import settings
+from .engine.model import RiskModelBundle
 from .engine.relevance import RelevanceWeights
 from .store import Store
 
 _store: Store | None = None
+_model: RiskModelBundle | None = None
+_model_loaded = False
 
 
 def get_store() -> Store:
@@ -26,12 +29,29 @@ def get_store() -> Store:
     return _store
 
 
+def get_model() -> RiskModelBundle | None:
+    """
+    The trained hazard models, or None if they have not been trained yet.
+
+    Absence is not an error: the evidence-based engine works on its own, and
+    the API says plainly when no model is loaded rather than pretending to a
+    prediction it cannot make.
+    """
+    global _model, _model_loaded
+    if not _model_loaded:
+        _model = RiskModelBundle.load(settings.model_path)
+        _model_loaded = True
+    return _model
+
+
 def reset_store() -> None:
     """Drop the cached handle, so a rebuild is picked up without a restart."""
-    global _store
+    global _store, _model, _model_loaded
     if _store is not None:
         _store.close()
     _store = None
+    _model = None
+    _model_loaded = False
 
 
 def require_well(well_id: str) -> dict:

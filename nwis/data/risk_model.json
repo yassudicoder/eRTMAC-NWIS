@@ -1,0 +1,811 @@
+{
+  "feature_names": [
+    "offset_incidence",
+    "offset_severity",
+    "offset_count_log",
+    "nearest_offset_km",
+    "formation_base_rate",
+    "depth_tvd_km",
+    "overbalance_sg",
+    "depletion_sg",
+    "frac_margin_sg",
+    "is_reservoir",
+    "max_inclination_norm",
+    "porosity_norm",
+    "log_permeability"
+  ],
+  "radius_km": 20.0,
+  "validation": "leave-one-well-out",
+  "total_rows": 2286,
+  "hazards": {
+    "CEMENTING_ISSUE": {
+      "rows": 381,
+      "positives": 108,
+      "base_rate": 0.2835,
+      "auc": 0.922,
+      "brier": 0.0943,
+      "brier_baseline": 0.2031,
+      "calibration": [
+        {
+          "bin": "0.0-0.2",
+          "n": 220,
+          "mean_predicted": 0.02,
+          "observed_rate": 0.014
+        },
+        {
+          "bin": "0.2-0.4",
+          "n": 23,
+          "mean_predicted": 0.318,
+          "observed_rate": 0.261
+        },
+        {
+          "bin": "0.4-0.6",
+          "n": 24,
+          "mean_predicted": 0.503,
+          "observed_rate": 0.583
+        },
+        {
+          "bin": "0.6-0.8",
+          "n": 80,
+          "mean_predicted": 0.709,
+          "observed_rate": 0.762
+        },
+        {
+          "bin": "0.8-1.0",
+          "n": 34,
+          "mean_predicted": 0.828,
+          "observed_rate": 0.706
+        }
+      ],
+      "top_features": [
+        {
+          "feature": "formation_base_rate",
+          "weight": 0.7146
+        },
+        {
+          "feature": "nearest_offset_km",
+          "weight": -0.4968
+        },
+        {
+          "feature": "offset_incidence",
+          "weight": 0.438
+        },
+        {
+          "feature": "offset_severity",
+          "weight": 0.4261
+        },
+        {
+          "feature": "is_reservoir",
+          "weight": -0.2526
+        },
+        {
+          "feature": "offset_count_log",
+          "weight": 0.2515
+        }
+      ]
+    },
+    "HIGH_TORQUE_DRAG": {
+      "rows": 381,
+      "positives": 33,
+      "base_rate": 0.0866,
+      "auc": 0.9346,
+      "brier": 0.053,
+      "brier_baseline": 0.0791,
+      "calibration": [
+        {
+          "bin": "0.0-0.2",
+          "n": 310,
+          "mean_predicted": 0.012,
+          "observed_rate": 0.003
+        },
+        {
+          "bin": "0.2-0.4",
+          "n": 31,
+          "mean_predicted": 0.334,
+          "observed_rate": 0.516
+        },
+        {
+          "bin": "0.4-0.6",
+          "n": 35,
+          "mean_predicted": 0.496,
+          "observed_rate": 0.4
+        },
+        {
+          "bin": "0.6-0.8",
+          "n": 5,
+          "mean_predicted": 0.714,
+          "observed_rate": 0.4
+        },
+        {
+          "bin": "0.8-1.0",
+          "n": 0,
+          "mean_predicted": null,
+          "observed_rate": null
+        }
+      ],
+      "top_features": [
+        {
+          "feature": "formation_base_rate",
+          "weight": 0.3918
+        },
+        {
+          "feature": "max_inclination_norm",
+          "weight": 0.3579
+        },
+        {
+          "feature": "offset_severity",
+          "weight": 0.3326
+        },
+        {
+          "feature": "nearest_offset_km",
+          "weight": -0.3022
+        },
+        {
+          "feature": "depth_tvd_km",
+          "weight": 0.2762
+        },
+        {
+          "feature": "offset_incidence",
+          "weight": 0.2491
+        }
+      ]
+    },
+    "KICK": {
+      "rows": 381,
+      "positives": 36,
+      "base_rate": 0.0945,
+      "auc": 0.9124,
+      "brier": 0.0606,
+      "brier_baseline": 0.0856,
+      "calibration": [
+        {
+          "bin": "0.0-0.2",
+          "n": 309,
+          "mean_predicted": 0.021,
+          "observed_rate": 0.01
+        },
+        {
+          "bin": "0.2-0.4",
+          "n": 31,
+          "mean_predicted": 0.323,
+          "observed_rate": 0.581
+        },
+        {
+          "bin": "0.4-0.6",
+          "n": 39,
+          "mean_predicted": 0.494,
+          "observed_rate": 0.385
+        },
+        {
+          "bin": "0.6-0.8",
+          "n": 2,
+          "mean_predicted": 0.637,
+          "observed_rate": 0.0
+        },
+        {
+          "bin": "0.8-1.0",
+          "n": 0,
+          "mean_predicted": null,
+          "observed_rate": null
+        }
+      ],
+      "top_features": [
+        {
+          "feature": "formation_base_rate",
+          "weight": 0.5841
+        },
+        {
+          "feature": "offset_severity",
+          "weight": 0.5319
+        },
+        {
+          "feature": "depth_tvd_km",
+          "weight": 0.4978
+        },
+        {
+          "feature": "max_inclination_norm",
+          "weight": 0.2972
+        },
+        {
+          "feature": "overbalance_sg",
+          "weight": 0.211
+        },
+        {
+          "feature": "depletion_sg",
+          "weight": 0.1183
+        }
+      ]
+    },
+    "MUD_LOSS": {
+      "rows": 381,
+      "positives": 87,
+      "base_rate": 0.2283,
+      "auc": 0.822,
+      "brier": 0.135,
+      "brier_baseline": 0.1762,
+      "calibration": [
+        {
+          "bin": "0.0-0.2",
+          "n": 214,
+          "mean_predicted": 0.071,
+          "observed_rate": 0.079
+        },
+        {
+          "bin": "0.2-0.4",
+          "n": 74,
+          "mean_predicted": 0.259,
+          "observed_rate": 0.257
+        },
+        {
+          "bin": "0.4-0.6",
+          "n": 56,
+          "mean_predicted": 0.512,
+          "observed_rate": 0.536
+        },
+        {
+          "bin": "0.6-0.8",
+          "n": 37,
+          "mean_predicted": 0.647,
+          "observed_rate": 0.568
+        },
+        {
+          "bin": "0.8-1.0",
+          "n": 0,
+          "mean_predicted": null,
+          "observed_rate": null
+        }
+      ],
+      "top_features": [
+        {
+          "feature": "offset_severity",
+          "weight": 0.919
+        },
+        {
+          "feature": "frac_margin_sg",
+          "weight": -0.3206
+        },
+        {
+          "feature": "depth_tvd_km",
+          "weight": -0.2952
+        },
+        {
+          "feature": "offset_incidence",
+          "weight": 0.257
+        },
+        {
+          "feature": "porosity_norm",
+          "weight": 0.222
+        },
+        {
+          "feature": "log_permeability",
+          "weight": 0.1909
+        }
+      ]
+    },
+    "STUCK_PIPE": {
+      "rows": 381,
+      "positives": 64,
+      "base_rate": 0.168,
+      "auc": 0.8877,
+      "brier": 0.0971,
+      "brier_baseline": 0.1398,
+      "calibration": [
+        {
+          "bin": "0.0-0.2",
+          "n": 263,
+          "mean_predicted": 0.034,
+          "observed_rate": 0.034
+        },
+        {
+          "bin": "0.2-0.4",
+          "n": 26,
+          "mean_predicted": 0.321,
+          "observed_rate": 0.423
+        },
+        {
+          "bin": "0.4-0.6",
+          "n": 72,
+          "mean_predicted": 0.482,
+          "observed_rate": 0.472
+        },
+        {
+          "bin": "0.6-0.8",
+          "n": 20,
+          "mean_predicted": 0.656,
+          "observed_rate": 0.5
+        },
+        {
+          "bin": "0.8-1.0",
+          "n": 0,
+          "mean_predicted": null,
+          "observed_rate": null
+        }
+      ],
+      "top_features": [
+        {
+          "feature": "offset_severity",
+          "weight": 0.6814
+        },
+        {
+          "feature": "frac_margin_sg",
+          "weight": 0.4492
+        },
+        {
+          "feature": "nearest_offset_km",
+          "weight": -0.3507
+        },
+        {
+          "feature": "max_inclination_norm",
+          "weight": 0.2445
+        },
+        {
+          "feature": "depletion_sg",
+          "weight": 0.2215
+        },
+        {
+          "feature": "porosity_norm",
+          "weight": 0.2065
+        }
+      ]
+    },
+    "WELLBORE_INSTABILITY": {
+      "rows": 381,
+      "positives": 64,
+      "base_rate": 0.168,
+      "auc": 0.8827,
+      "brier": 0.0949,
+      "brier_baseline": 0.1398,
+      "calibration": [
+        {
+          "bin": "0.0-0.2",
+          "n": 256,
+          "mean_predicted": 0.018,
+          "observed_rate": 0.012
+        },
+        {
+          "bin": "0.2-0.4",
+          "n": 29,
+          "mean_predicted": 0.349,
+          "observed_rate": 0.586
+        },
+        {
+          "bin": "0.4-0.6",
+          "n": 79,
+          "mean_predicted": 0.494,
+          "observed_rate": 0.468
+        },
+        {
+          "bin": "0.6-0.8",
+          "n": 17,
+          "mean_predicted": 0.643,
+          "observed_rate": 0.412
+        },
+        {
+          "bin": "0.8-1.0",
+          "n": 0,
+          "mean_predicted": null,
+          "observed_rate": null
+        }
+      ],
+      "top_features": [
+        {
+          "feature": "offset_severity",
+          "weight": 0.5552
+        },
+        {
+          "feature": "formation_base_rate",
+          "weight": 0.5005
+        },
+        {
+          "feature": "offset_count_log",
+          "weight": 0.4591
+        },
+        {
+          "feature": "nearest_offset_km",
+          "weight": -0.1854
+        },
+        {
+          "feature": "is_reservoir",
+          "weight": -0.146
+        },
+        {
+          "feature": "max_inclination_norm",
+          "weight": 0.1341
+        }
+      ]
+    }
+  },
+  "models": {
+    "CEMENTING_ISSUE": {
+      "feature_names": [
+        "offset_incidence",
+        "offset_severity",
+        "offset_count_log",
+        "nearest_offset_km",
+        "formation_base_rate",
+        "depth_tvd_km",
+        "overbalance_sg",
+        "depletion_sg",
+        "frac_margin_sg",
+        "is_reservoir",
+        "max_inclination_norm",
+        "porosity_norm",
+        "log_permeability"
+      ],
+      "weights": [
+        0.438003,
+        0.426055,
+        0.25152,
+        -0.496833,
+        0.714552,
+        0.08784,
+        0.099504,
+        0.056059,
+        0.236271,
+        -0.252615,
+        0.062744,
+        0.068305,
+        0.049772
+      ],
+      "bias": -2.125363,
+      "mean": [
+        0.297292,
+        0.328991,
+        1.078137,
+        0.627746,
+        0.283465,
+        1.289432,
+        0.111958,
+        0.048493,
+        0.384357,
+        0.293963,
+        0.226725,
+        0.200201,
+        1.73398
+      ],
+      "scale": [
+        0.370526,
+        0.359618,
+        1.272807,
+        0.425152,
+        0.340963,
+        1.27485,
+        0.080692,
+        0.081983,
+        0.094007,
+        0.456174,
+        0.28524,
+        0.323937,
+        2.786112
+      ],
+      "n_train": 381,
+      "n_positive": 108
+    },
+    "HIGH_TORQUE_DRAG": {
+      "feature_names": [
+        "offset_incidence",
+        "offset_severity",
+        "offset_count_log",
+        "nearest_offset_km",
+        "formation_base_rate",
+        "depth_tvd_km",
+        "overbalance_sg",
+        "depletion_sg",
+        "frac_margin_sg",
+        "is_reservoir",
+        "max_inclination_norm",
+        "porosity_norm",
+        "log_permeability"
+      ],
+      "weights": [
+        0.24911,
+        0.33264,
+        0.148021,
+        -0.302241,
+        0.391844,
+        0.276235,
+        -0.051117,
+        -0.100388,
+        0.094852,
+        -0.113143,
+        0.357914,
+        -0.088896,
+        -0.090452
+      ],
+      "bias": -3.774322,
+      "mean": [
+        0.088517,
+        0.124509,
+        0.368916,
+        0.855987,
+        0.086614,
+        1.289432,
+        0.111958,
+        0.048493,
+        0.384357,
+        0.293963,
+        0.226725,
+        0.200201,
+        1.73398
+      ],
+      "scale": [
+        0.201171,
+        0.261366,
+        0.800686,
+        0.310529,
+        0.180729,
+        1.27485,
+        0.080692,
+        0.081983,
+        0.094007,
+        0.456174,
+        0.28524,
+        0.323937,
+        2.786112
+      ],
+      "n_train": 381,
+      "n_positive": 33
+    },
+    "KICK": {
+      "feature_names": [
+        "offset_incidence",
+        "offset_severity",
+        "offset_count_log",
+        "nearest_offset_km",
+        "formation_base_rate",
+        "depth_tvd_km",
+        "overbalance_sg",
+        "depletion_sg",
+        "frac_margin_sg",
+        "is_reservoir",
+        "max_inclination_norm",
+        "porosity_norm",
+        "log_permeability"
+      ],
+      "weights": [
+        -0.016927,
+        0.531863,
+        0.034419,
+        -0.025215,
+        0.584091,
+        0.497774,
+        0.211011,
+        0.118319,
+        -0.056501,
+        -0.064959,
+        0.297228,
+        0.058898,
+        -0.032227
+      ],
+      "bias": -3.464124,
+      "mean": [
+        0.099067,
+        0.264914,
+        0.467274,
+        0.803256,
+        0.094488,
+        1.289432,
+        0.111958,
+        0.048493,
+        0.384357,
+        0.293963,
+        0.226725,
+        0.200201,
+        1.73398
+      ],
+      "scale": [
+        0.202729,
+        0.42066,
+        0.806121,
+        0.34036,
+        0.178047,
+        1.27485,
+        0.080692,
+        0.081983,
+        0.094007,
+        0.456174,
+        0.28524,
+        0.323937,
+        2.786112
+      ],
+      "n_train": 381,
+      "n_positive": 36
+    },
+    "MUD_LOSS": {
+      "feature_names": [
+        "offset_incidence",
+        "offset_severity",
+        "offset_count_log",
+        "nearest_offset_km",
+        "formation_base_rate",
+        "depth_tvd_km",
+        "overbalance_sg",
+        "depletion_sg",
+        "frac_margin_sg",
+        "is_reservoir",
+        "max_inclination_norm",
+        "porosity_norm",
+        "log_permeability"
+      ],
+      "weights": [
+        0.25696,
+        0.918982,
+        -0.020806,
+        -0.036002,
+        0.0201,
+        -0.295223,
+        0.165392,
+        0.11957,
+        -0.320616,
+        0.064568,
+        -0.16928,
+        0.221953,
+        0.190937
+      ],
+      "bias": -1.899803,
+      "mean": [
+        0.228445,
+        0.33714,
+        1.195731,
+        0.525198,
+        0.228346,
+        1.289432,
+        0.111958,
+        0.048493,
+        0.384357,
+        0.293963,
+        0.226725,
+        0.200201,
+        1.73398
+      ],
+      "scale": [
+        0.252364,
+        0.276393,
+        1.033229,
+        0.395143,
+        0.219508,
+        1.27485,
+        0.080692,
+        0.081983,
+        0.094007,
+        0.456174,
+        0.28524,
+        0.323937,
+        2.786112
+      ],
+      "n_train": 381,
+      "n_positive": 87
+    },
+    "STUCK_PIPE": {
+      "feature_names": [
+        "offset_incidence",
+        "offset_severity",
+        "offset_count_log",
+        "nearest_offset_km",
+        "formation_base_rate",
+        "depth_tvd_km",
+        "overbalance_sg",
+        "depletion_sg",
+        "frac_margin_sg",
+        "is_reservoir",
+        "max_inclination_norm",
+        "porosity_norm",
+        "log_permeability"
+      ],
+      "weights": [
+        -0.184591,
+        0.681424,
+        0.203137,
+        -0.350724,
+        -0.058217,
+        0.014808,
+        0.187088,
+        0.221504,
+        0.449248,
+        -0.036804,
+        0.244538,
+        0.206543,
+        0.150853
+      ],
+      "bias": -2.763639,
+      "mean": [
+        0.178833,
+        0.311483,
+        0.862321,
+        0.679454,
+        0.167979,
+        1.289432,
+        0.111958,
+        0.048493,
+        0.384357,
+        0.293963,
+        0.226725,
+        0.200201,
+        1.73398
+      ],
+      "scale": [
+        0.248947,
+        0.378954,
+        1.094775,
+        0.402536,
+        0.213189,
+        1.27485,
+        0.080692,
+        0.081983,
+        0.094007,
+        0.456174,
+        0.28524,
+        0.323937,
+        2.786112
+      ],
+      "n_train": 381,
+      "n_positive": 64
+    },
+    "WELLBORE_INSTABILITY": {
+      "feature_names": [
+        "offset_incidence",
+        "offset_severity",
+        "offset_count_log",
+        "nearest_offset_km",
+        "formation_base_rate",
+        "depth_tvd_km",
+        "overbalance_sg",
+        "depletion_sg",
+        "frac_margin_sg",
+        "is_reservoir",
+        "max_inclination_norm",
+        "porosity_norm",
+        "log_permeability"
+      ],
+      "weights": [
+        0.114417,
+        0.555239,
+        0.459142,
+        -0.185385,
+        0.500541,
+        0.065417,
+        -0.031604,
+        -0.122469,
+        0.009624,
+        -0.145972,
+        0.134145,
+        -0.124306,
+        -0.125588
+      ],
+      "bias": -2.915571,
+      "mean": [
+        0.171273,
+        0.243003,
+        0.754992,
+        0.716531,
+        0.167979,
+        1.289432,
+        0.111958,
+        0.048493,
+        0.384357,
+        0.293963,
+        0.226725,
+        0.200201,
+        1.73398
+      ],
+      "scale": [
+        0.26116,
+        0.340127,
+        1.102449,
+        0.396591,
+        0.234967,
+        1.27485,
+        0.080692,
+        0.081983,
+        0.094007,
+        0.456174,
+        0.28524,
+        0.323937,
+        2.786112
+      ],
+      "n_train": 381,
+      "n_positive": 64
+    }
+  },
+  "trained_seconds": 208.2
+}

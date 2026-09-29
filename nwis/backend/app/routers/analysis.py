@@ -5,7 +5,7 @@ from __future__ import annotations
 from fastapi import APIRouter, Depends, HTTPException, Query
 
 from ..config import settings
-from ..deps import get_store, require_well, weight_params
+from ..deps import get_model, get_store, require_well, weight_params
 from ..engine.correlate import build_correlation
 from ..engine.geometry import Trajectory
 from ..engine.relevance import RelevanceWeights, rank_offsets
@@ -53,6 +53,7 @@ def offsets(
         "focus_interval_tvd": list(focus) if focus else None,
         "weights": weights.normalised(),
         "count": len(results),
+        "total_in_radius": results[0].total_in_radius if results else 0,
         "offsets": [r.as_dict(include_correlation=include_correlation) for r in results],
     }
 
@@ -112,6 +113,7 @@ def risk(
     radius_km: float = Query(settings.default_radius_km, gt=0, le=100),
     max_offsets: int = Query(settings.max_offsets, ge=1, le=40),
     min_relevance: float = Query(0.30, ge=0, le=1),
+    use_model: bool = Query(True, description="Score alerts with the trained model too"),
     weights: RelevanceWeights = Depends(weight_params),
 ) -> dict:
     """
@@ -127,10 +129,59 @@ def risk(
         weights=weights,
         max_offsets=max_offsets,
         min_relevance=min_relevance,
+        model=get_model() if use_model else None,
     )
     if result is None:
         raise HTTPException(404, f"Unknown well: {well_id}")
     return result.as_dict()
+
+
+@router.get("/model/metrics", summary="Trained model performance")
+def model_metrics() -> dict:
+    """
+    How good the predictive models actually are.
+
+    Every figure here comes from leave-one-well-out validation: each score was
+    produced by a model that had never seen the well it was scoring. An AUC of
+    0.5 would mean no better than chance, and is reported as such.
+    """
+    model = get_model()
+    if model is None:
+        return {
+            "trained": False,
+            "message": ("No trained model found. Run: python scripts/train_risk_model.py. "
+                        "The evidence-based risk engine works without it."),
+        }
+    return {"trained": True, **model.metrics()}
+
+
+@router.get("/wells/{well_id}/pressure", summary="Pore-pressure prognosis from offsets")
+def pressure(
+    well_id: str,
+    bit_md: float | None = Query(None, ge=0),
+    lookahead_m: float = Query(settings.default_lookahead_m, gt=0, le=2000),
+    radius_km: float = Query(settings.default_radius_km, gt=0, le=100),
+) -> dict:
+    """
+    What mud weight the offsets carried through the interval ahead.
+
+    Mud weight is the working proxy for pore pressure, so this is the closest
+    thing to a measured pressure prognosis that historical records can give -
+    and unlike the event record it also sees the intervals where the previous
+    crew got it right.
+    """
+    require_well(well_id)
+    result = look_ahead(get_store(), well_id, bit_md_m=bit_md,
+                        lookahead_m=lookahead_m, radius_km=radius_km)
+    if result is None:
+        raise HTTPException(404, f"Unknown well: {well_id}")
+    return {
+        "well_id": well_id,
+        "window_md": [round(result.window_md[0], 1), round(result.window_md[1], 1)],
+        "window_tvd": [round(result.window_tvd[0], 1), round(result.window_tvd[1], 1)],
+        "prognosis": [p.as_dict() for p in result.pressure_prognosis],
+        "overpressure": [o.as_dict() for o in result.overpressure],
+    }
 
 
 @router.get("/wells/{well_id}/signals", summary="Live drilling-parameter signals")

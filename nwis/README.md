@@ -13,6 +13,10 @@ guidance for the well that is drilling right now.
 
 ## What it does
 
+> **Evaluating this against the problem statement?**
+> [`docs/ps-compliance.md`](docs/ps-compliance.md) maps every clause of PS 121
+> to where it is implemented and how to verify it, including the gaps.
+
 | Stage | What happens |
 |---|---|
 | **Ingest** | Well completion reports, daily drilling reports, mud logs and eRTMAC parameter logs are read in. Text, PDF text layers and scanned pages (Tesseract) all come out the same shape: pages of text with a line-level provenance trail. |
@@ -20,6 +24,8 @@ guidance for the well that is drilling right now.
 | **Correlate** | Shared formation tops tie wells to a common depth frame, so "2,840 m in that well" becomes "2,910 m in this one" rather than being compared naively. |
 | **Rank** | Offset wells are scored on six independent dimensions — geology, depth coverage, distance, trajectory, drilling parameters and recorded experience — not distance alone. Every score is broken down and explained. |
 | **Alert** | The interval ahead of the bit is mapped into each relevant offset well, historical events there are grouped and scored, and the current well's own live parameter trends are folded in. |
+| **Predict** | A logistic regression per hazard, validated leave-one-well-out, gives an independent second opinion beside the evidence score. Overpressure is predicted separately from the mud weights the offsets carried. |
+| **Search** | Full-text search over every event, every lesson learnt and every line of every report. |
 
 Every alert can be clicked through to the exact page and line of the original
 report.
@@ -39,13 +45,16 @@ cd frontend && npm install && cd ..
 # 2. generate the synthetic Upper Assam dataset  (~1 second)
 python scripts/generate_assam_dataset.py
 
-# 3. build the well knowledge base: ingest, extract, index  (~2 seconds)
+# 3. build the well knowledge base: ingest, extract, index  (~5 seconds)
 python scripts/seed_db.py
 
-# 4. build the dashboard
+# 4. train the hazard models (optional; the evidence engine works without it)
+python scripts/train_risk_model.py
+
+# 5. build the dashboard
 cd frontend && npm run build && cd ..
 
-# 5. run
+# 6. run
 cd backend && uvicorn app.main:app --port 8000
 ```
 
@@ -59,8 +68,9 @@ With Docker: `docker compose up --build`, then open http://localhost:8000.
 ### Check it works
 
 ```bash
-python backend/tests/test_nwis.py       # 28 tests, no pytest required
+python backend/tests/test_nwis.py       # 39 tests, no pytest required
 python scripts/score_extraction.py      # how well the NLP reads the reports
+python scripts/train_risk_model.py      # fit + leave-one-well-out validation
 python scripts/validate_discovery.py    # does the analysis find what is there?
 python scripts/demo_lookahead.py        # the whole chain, in the terminal
 ```
@@ -96,15 +106,16 @@ exists only so extraction can be scored against it.
 reports against what the generator wrote into them:
 
 ```
-Documents ingested     : 180  (577 pages, 24,885 lines)
-Raw mentions found     : 828
-After evidence merge   : 317
+Documents ingested     : 180  (657 pages, 28,807 lines)
 Precision              : 100.0%
-Recall                 : 100.0%
-Depth MAE (matched)    :  0.00 m
-Severity exact match   :  97.8%
-Formation correct      : 100.0%
+Recall                 :  99.1%
+Depth MAE (matched)    :   0.02 m
+Severity exact match   :  91.6%
+Formation correct      :  99.8%
 ```
+
+Ten hazard classes, including cementing, which is one of the risks the problem
+statement names by hand.
 
 **Read this honestly.** The corpus is templated, so its phrasing variety is far
 narrower than a real archive of hand-written WCRs going back decades. These
@@ -112,6 +123,24 @@ numbers show the pipeline is complete and correct end to end; they are *not* a
 prediction of accuracy on OIL's real records. What transfers is the harness:
 point `scripts/score_extraction.py` at labelled real reports and it gives the
 same scorecard, which is how the lexicon would be tuned during a pilot.
+
+### Hazard prediction
+
+`python scripts/train_risk_model.py` fits one logistic regression per hazard and
+validates it **leave-one-well-out** — every score below came from a model that
+had never seen that well:
+
+| Hazard | Base rate | AUC | Brier |
+|---|---:|---:|---:|
+| Cementing Issue | 0.28 | **0.922** | 0.094 |
+| High Torque Drag | 0.09 | **0.935** | 0.053 |
+| Kick | 0.09 | **0.912** | 0.061 |
+| Mud Loss | 0.23 | **0.822** | 0.135 |
+| Stuck Pipe | 0.17 | **0.888** | 0.097 |
+| Wellbore Instability | 0.17 | **0.883** | 0.095 |
+
+The model is shown *beside* the evidence-based score, not instead of it. Where
+the two disagree, that disagreement is displayed and is itself informative.
 
 ### Discovery validation
 
@@ -122,21 +151,25 @@ reports, extracts events, and clusters them:
 
 ```
 Naharkatiya Tipam depleted fairway          yes    9 wells
-Naharkatiya Tipam differential-sticking     yes    6 wells
-Duliajan-Hugrijan coal caving trend         yes    5 wells
-Moran Barail over-pressure cell             yes    3 wells
-Dikom Girujan swelling-clay zone            yes    4 wells
+Naharkatiya Tipam differential-sticking     yes    7 wells
+Duliajan-Hugrijan coal caving trend         yes    3 wells
+Moran Barail over-pressure cell             yes    5 wells
 Jorajan Kopili pressure ramp                no     (3 wells reached it, too few recorded it)
 Tengakhat fractured Sylhet corridor         no     (0 wells reached the Sylhet)
+Dikom Girujan swelling-clay zone            no     (too few recorded it)
 
-Rediscovered from reports : 5 / 7
+Rediscovered from reports : 4 / 7
 ```
 
-The two misses are the interesting part: they are zones that almost no well in
-the area drilled through. Offset intelligence can only see hazards that enough
-offset wells penetrated — a real limit of the method, not a bug in the
-implementation, and the script says so explicitly rather than quietly scoring
-itself down.
+The misses are the interesting part: they are zones that almost no well in the
+area drilled through — the Sylhet corridor was reached by zero wells. Offset
+intelligence can only see hazards that enough offset wells penetrated. That is
+a real limit of the method, not a bug in the implementation, and the script
+diagnoses each miss explicitly rather than quietly scoring itself down.
+
+The generator deliberately does **not** write the zone names into the reports,
+so the application has no way to read the answer: it has to find the clusters
+from the extracted event record alone.
 
 Relevance ranking also passes its sanity check: all three drilling wells rank
 their own structure into the top five offsets.
@@ -162,16 +195,20 @@ backend/
       relevance.py        six-dimension offset ranking
       signals.py          live parameter trend detection
       risk.py             look-ahead risk scoring and evidence assembly
-    routers/              wells, analysis, documents, analytics, realtime
-  tests/test_nwis.py      28 tests
+      pressure.py         pore-pressure prognosis and overpressure detection
+      model.py            trained hazard models + leave-one-well-out validation
+    routers/              wells, analysis, knowledge, documents, analytics, realtime
+  tests/test_nwis.py      39 tests
 frontend/                 React + Tailwind + Leaflet dashboard
 scripts/
   generate_assam_dataset.py
   seed_db.py
   score_extraction.py
+  train_risk_model.py
   validate_discovery.py
   demo_lookahead.py
 docs/
+  ps-compliance.md        clause-by-clause mapping to SIH PS 121
   architecture.md         how it fits together, and the production path
   data.md                 what the synthetic dataset contains and why
 ```
@@ -191,6 +228,14 @@ Full interactive documentation at `/docs`.
 | `GET /api/documents/{id}/page/{page}` | The source page behind any citation |
 | `GET /api/analytics/clusters` | Recurring hazard zones found from the event record |
 | `GET /api/realtime/{id}/stream` | Simulated eRTMAC feed (SSE): frames plus re-issued alerts as the bit advances |
+| `GET /api/search` | Full-text search over events, lessons and every report line |
+| `GET /api/lessons` | Lessons learnt, filterable by formation and hazard |
+| `GET /api/wells/{id}/casing` | Casing programme and cementing record |
+| `GET /api/wells/{id}/casing-comparison` | How the offsets cased and cemented the same section |
+| `GET /api/wells/{id}/reservoir` | Reservoir intervals: porosity, permeability, pressure, depletion |
+| `GET /api/wells/{id}/pressure` | Pore-pressure prognosis and overpressure warnings from offset mud weights |
+| `GET /api/wells/{id}/experience` | Full dossier on one offset well |
+| `GET /api/model/metrics` | Trained model performance, leave-one-well-out |
 
 ---
 
@@ -269,3 +314,4 @@ operating areas.
 | ![Evidence](docs/screenshots/04-evidence-drawer.png) | **Evidence** — the actual page of the actual report, with the cited line highlighted |
 | ![Correlation](docs/screenshots/05-correlation.png) | **Correlation** — formation ties between two wells, and the offset's events projected onto this well's depth scale |
 | ![Analytics](docs/screenshots/06-analytics.png) | **Analytics** — NPT by hazard and formation, and recurring hazard zones found from the event record |
+| ![Search](docs/screenshots/07-search-and-lessons.png) | **Search & Lessons** — full-text search over every event, lesson and report line, plus the lessons previous crews recorded |
