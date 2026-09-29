@@ -1,0 +1,40 @@
+# Keep the build context small and the image reproducible.
+#
+# Without this, stage 1 would copy the host's node_modules over the one npm ci
+# just installed - a classic source of "works on my laptop" images, because the
+# host's tree can contain platform-specific binaries and stale packages.
+
+# Dependencies and build output are produced inside the image, never copied in.
+frontend/node_modules/
+frontend/dist/
+**/node_modules/
+
+# The knowledge base is seeded during the build from the committed corpus.
+# Copying a host-built database in would make the image depend on whatever
+# state the developer's machine happened to be in.
+data/nwis.db
+data/nwis.db-wal
+data/nwis.db-shm
+
+# Python artefacts
+__pycache__/
+**/__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Not needed at runtime
+docs/
+backend/tests/
+.git/
+.gitignore
+.dockerignore
+Dockerfile
+docker-compose.yml
+README.md
+*.md
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -13,6 +13,10 @@ guidance for the well that is drilling right now.
 
 ## What it does
 
+> **Deploying this?** [`docs/deployment.md`](docs/deployment.md) has the Render
+> settings, the environment variables, and the free-tier limitations worth
+> knowing before a demo.
+>
 > **Evaluating this against the problem statement?**
 > [`docs/ps-compliance.md`](docs/ps-compliance.md) maps every clause of PS 121
 > to where it is implemented and how to verify it, including the gaps.
@@ -63,7 +67,16 @@ Then open **http://localhost:8000**. API docs are at `/docs`.
 For frontend development, run `npm run dev` in `frontend/` (port 5173, proxies
 `/api` to port 8000) alongside `uvicorn app.main:app --reload`.
 
-With Docker: `docker compose up --build`, then open http://localhost:8000.
+With Docker — this is also exactly what deploys:
+
+```bash
+cd nwis
+docker build -t nwis .
+docker run --rm -e PORT=10000 -p 10000:10000 nwis   # -> http://localhost:10000
+```
+
+One image serves both the dashboard and the API from a single origin. See
+[`docs/deployment.md`](docs/deployment.md).
 
 ### Check it works
 
@@ -208,6 +221,7 @@ scripts/
   validate_discovery.py
   demo_lookahead.py
 docs/
+  deployment.md           Render setup, env vars, free-tier limitations
   ps-compliance.md        clause-by-clause mapping to SIH PS 121
   architecture.md         how it fits together, and the production path
   data.md                 what the synthetic dataset contains and why

@@ -1,34 +1,33 @@
-# Single-command demo:  docker compose up --build
+# Local equivalent of the Render deployment.
 #
-# The frontend image only builds the static bundle; the API serves it, so
-# there is one port to remember and no CORS to configure.
+#   docker compose up --build
+#   -> http://localhost:8000
+#
+# This builds the same single-service image Render builds, with the same
+# production environment, so what you see locally is what deploys. There is no
+# second service: the API serves the dashboard from the same origin, which is
+# the whole point of the deployment shape.
 
 services:
-  dashboard-build:
+  nwis:
     build:
       context: .
-      dockerfile: frontend/Dockerfile
-    volumes:
-      - dashboard:/out
-    command: sh -c "cp -r /dist/. /out/"
-
-  api:
-    build:
-      context: .
-      dockerfile: backend/Dockerfile
-    depends_on:
-      dashboard-build:
-        condition: service_completed_successfully
+      dockerfile: Dockerfile
+    image: nwis:local
     ports:
-      - "8000:8000"
+      # Render injects PORT; locally we pick one and pass it the same way, so
+      # the $PORT code path is the one being exercised rather than a fallback
+      # that only works here.
+      - "8000:10000"
     environment:
-      NWIS_FRONTEND: /app/frontend/dist
-      NWIS_RADIUS_KM: "15"
-      NWIS_LOOKAHEAD_M: "300"
-    volumes:
-      - dashboard:/app/frontend/dist
-      - nwis-db:/app/data
-
-volumes:
-  dashboard:
-  nwis-db:
+      PORT: "10000"
+      NWIS_ENV: production
+      NWIS_AUTOSEED: "0"
+    healthcheck:
+      test: ["CMD", "python", "-c",
+             "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://127.0.0.1:10000/health', timeout=5).status == 200 else 1)"]
+      interval: 15s
+      timeout: 5s
+      retries: 5
+      start_period: 10s
+    restart: unless-stopped

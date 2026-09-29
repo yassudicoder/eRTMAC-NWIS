@@ -8,6 +8,7 @@ from fastapi import HTTPException, Query
 
 from .config import settings
 from .engine.model import RiskModelBundle
+from .startup import StartupError
 from .engine.relevance import RelevanceWeights
 from .store import Store
 
@@ -31,16 +32,30 @@ def get_store() -> Store:
 
 def get_model() -> RiskModelBundle | None:
     """
-    The trained hazard models, or None if they have not been trained yet.
+    The trained hazard models.
 
-    Absence is not an error: the evidence-based engine works on its own, and
-    the API says plainly when no model is loaded rather than pretending to a
-    prediction it cannot make.
+    In development the model is optional - the evidence-based engine works
+    without it, and a developer who has not run the trainer should not be
+    blocked. In production its absence is a deployment fault: the file is
+    committed precisely so production never trains it, so a missing or
+    unreadable model means the image was built wrong. Returning None there
+    would silently drop every prediction from every alert while still
+    answering 200, which is the worst of both worlds.
+
+    Start-up preflight already refuses to boot production without it; this is
+    the second line of defence, for the case where the file exists but cannot
+    be parsed.
     """
     global _model, _model_loaded
     if not _model_loaded:
         _model = RiskModelBundle.load(settings.model_path)
         _model_loaded = True
+        if _model is None and settings.is_production:
+            raise StartupError(
+                f"Trained model at {settings.model_path} is missing or unreadable. "
+                f"Production must not run without it - rebuild the image, and "
+                f"check that data/risk_model.json was committed and COPYed in."
+            )
     return _model
 
 

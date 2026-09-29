@@ -10,3 +10,13 @@ Thumbs.db
 
 # Tooling scratch
 .playwright-mcp/
+
+# Large reference PDFs.
+#
+# ref9_ppac_rr_2025_26.pdf is 32 MB. Git stores binaries forever, so once
+# pushed it can only be removed by rewriting history - and Render re-clones
+# this repository on every deploy. It is a public PPAC document, so a link in
+# the deck serves the same purpose at no cost.
+#
+# To include it anyway:  git add -f ref9_ppac_rr_2025_26.pdf
+ref9_ppac_rr_2025_26.pdf

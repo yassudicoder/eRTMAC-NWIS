@@ -1,0 +1,52 @@
+# Render Blueprint for NWIS.
+#
+# One web service serves both the dashboard and the API from a single origin.
+# Render reads this file from the repository root; the application itself
+# lives under nwis/, which is what rootDir points at.
+#
+# To deploy: Render dashboard -> New -> Blueprint -> pick this repository.
+
+services:
+  - type: web
+    name: nwis
+    runtime: docker
+    plan: free
+
+    # Singapore is the closest Render region to India, which matters for a
+    # demo judged in IST.
+    region: singapore
+
+    # The repository root holds this file and the deck assets; the app is in
+    # nwis/, and the Dockerfile's COPY paths are relative to that.
+    rootDir: nwis
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+
+    # Cheap liveness probe. It deliberately does no database work - a health
+    # check that runs a query turns a slow query into a restart loop.
+    healthCheckPath: /health
+
+    autoDeploy: true
+
+    envVars:
+      # Turns on strict start-up validation: the service refuses to boot if
+      # the model, corpus, database or dashboard build is missing, rather than
+      # serving a half-working application.
+      - key: NWIS_ENV
+        value: production
+
+      # The knowledge base is baked into the image during the build, so there
+      # is nothing to seed at start-up. Render's filesystem is ephemeral -
+      # its docs name "local SQLite databases" as lost on every redeploy,
+      # restart and spin-down - so runtime seeding would be repeated work with
+      # no benefit.
+      - key: NWIS_AUTOSEED
+        value: "0"
+
+      # Deliberately NOT set: NWIS_ALLOWED_ORIGINS.
+      #
+      # The dashboard is served by this same service, so every API call is
+      # same-origin and needs no CORS header. Setting a wildcard here would
+      # let any website call this API from a visitor's browser, in exchange
+      # for nothing. Only set it if you ever host the dashboard elsewhere, and
+      # then name that exact origin.
